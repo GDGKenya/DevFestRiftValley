@@ -19,7 +19,27 @@
     "url": "http://lviv.gdg.org.ua/"
   },
   "location": {
-    "short": "Lviv, Ukraine"
+    "short": "Lviv, Ukraine",
+    "apiKey": "AIzaSyDWy6O98n-ueoVaYPWRPve23vjm3JP08gw",
+    "name": "Pivdennyi Expo Center",
+    "address": "36 Shchyretska St, Lviv, Ukraine",
+    "link": "https://www.facebook.com/expopivdennij",
+    "pointer": {
+      "latitude": 49.809841,
+      "longitude": 23.972805,
+      "zoom": 5
+    },
+    "mapCenter": {
+      "latitude": 49.809841,
+      "longitude": 11
+    },
+    "images": [
+      "/images/backgrounds/location_1.jpg",
+      "/images/backgrounds/location_2.jpg",
+      "/images/backgrounds/location_3.jpg"
+    ],
+  "description": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event",
+  "streetAddress": "Shchyretska St, 36"
   },
   "webapp": {
     "shortName": "DevFest",
