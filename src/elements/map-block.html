@@ -9,36 +9,70 @@
 
         <style>
              :host {
-                display: block;     
-                padding: 40px 0;
+                display: block;
+                margin: 40px 0;
                 position: relative;
                 overflow: hidden;
-                min-height: 300px;          
-            }         
-
-            .map-container {
-                min-height: 600px;
-                position: relative;
-            }
+                height: 500px;     
+            } 
 
             google-map {
-                height: 100%;
+                height: 520px;
             }
 
             [slot="markers"]  {
                 display: block;
-            }          
+            }
+
+            .card-content {
+                padding: 0 8px;
+            }
+
+             .header {
+                height: 250px;
+                position: relative;
+            }
+            .header-image {
+                width: 100%;
+                background-size: cover;
+                background-position: 50% 50%;
+                transition: background-image 1s ease-in-out;
+                will-change: background-image;
+            }
+            .title-text {
+                padding: 16px;
+                position: absolute;
+                bottom: 0;
+                font-size: 24px;
+                color: #fff;
+            }
+
+            .card {        
+
+            --paper-card-header-text: {
+                color: #FFFFFF;
+                font-weight: 300;
+            };
+
+                min-width: 320px;
+                max-width: 400px;
+                background: #fff;
+            }   
+
+            paper-card {
+                box-shadow: 24px 0 35px rgba(0, 0, 0, 0.5);
+            }
+     
 
             
             @media (min-width: 640px) {
-                .map-container {
-                    min-height: 700px;
+                .card-wrapper {
+                    padding-top: 50px;
                 }
             }
 
         </style>
       
-       <div class="map-container">
         <google-map
             zoom="{$ location.pointer.zoom $}"
             latitude="{$ location.mapCenter.latitude $}"
@@ -52,16 +86,37 @@
         ></google-map-marker>
       </google-map>
 
-       </div>
+        <div class="disable-map-events" fit></div>
+        <div class="card-wrapper container" layout horizontal flex start-justified>
+            <paper-card class="card">
+                <div class="header paper-card">
 
-        <!--<div class="disable-map-events" fit></div>
-        <div class="container" layout horizontal>
-        <div class="additional-space"></div>
-        <div class="card-wrapper" layout horizontal around-justified>
-       
-          
-         </div>
-        </div>-->
+ <div class="header-image" style="background-image: url(/images/backgrounds/location_1.jpg)" fit></div>
+                    <div class="title-text">Title</div>
+                </div>
+                <div class="paper-card-container">
+                    <div class="card-content list">
+                        <paper-icon-item disabled>
+                            <iron-icon icon="icons:feedback" item-icon></iron-icon>
+                            <paper-item-body>DescriptionDescriptionDescriptionDescriptionDescription</paper-item-body>
+                        </paper-icon-item>
+                        <paper-icon-item disabled>
+                            <iron-icon icon="icons:location" item-icon></iron-icon>
+                            <paper-item-body two-line>
+                                <div>location address</div>
+                                <div secondary>locationAddressShort</div>
+                            </paper-item-body>
+                        </paper-icon-item>
+                    </div>
+                    <div class="card-actions">
+                        <a class="bottom-link" href="https://www.google.com/maps/dir/{$ location.pointer.latitude $},{$ location.pointer.longitude $}/@{$ location.pointer.latitude $},{$ location.pointer.longitude $},18z"
+                            target="_blank" rel="noopener noreferrer">
+                            <paper-icon-button icon="icons:directions"></paper-icon-button>
+                        </a>
+                    </div>
+                </div>
+            </paper-card>
+        </div>
     </template>
 
     <script>
