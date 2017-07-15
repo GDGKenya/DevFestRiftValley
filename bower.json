@@ -29,7 +29,8 @@
     "google-youtube": "GoogleWebComponents/google-youtube#2.0-preview",
     "paper-dialog-behavior": "PolymerElements/paper-dialog-behavior#^2.0.0",
     "google-map": "GoogleWebComponents/google-map#2.0-preview",
-    "paper-card": "PolymerElements/paper-card#^2.0.0"
+    "paper-card": "PolymerElements/paper-card#^2.0.0",
+    "paper-item": "PolymerElements/paper-item#^2.0.0"
   },
   "devDependencies": {
     "web-component-tester": "Polymer/web-component-tester#^6.0.0"

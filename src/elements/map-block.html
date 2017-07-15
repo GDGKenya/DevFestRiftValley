@@ -1,6 +1,12 @@
 <link rel="import" href="../../bower_components/polymer/polymer-element.html">
 <link rel="import" href="../../bower_components/google-map/google-map.html">
 <link rel="import" href="../../bower_components/paper-card/paper-card.html">
+<link rel="import" href="../../bower_components/iron-icon/iron-icon.html">
+<link rel="import" href="../../bower_components/paper-icon-button/paper-icon-button.html">
+<link rel="import" href="../../bower_components/paper-item/paper-icon-item.html">
+<link rel="import" href="../../bower_components/paper-item/paper-item-body.html">
+<link rel="import" href="../../bower_components/paper-fab/paper-fab.html">
+<link rel="import" href="../mixins/redux-mixin.html">
 <link rel="import" href="hoverboard-icons.html">
 
 <dom-module id="map-block">
@@ -17,57 +23,87 @@
             } 
 
             google-map {
-                height: 520px;
+                height: 540px;
             }
 
             [slot="markers"]  {
                 display: block;
             }
 
+            .card-wrapper {
+                height: 100%;
+                padding-bottom: 0;
+                padding-top: 0;
+            }
+
             .card-content {
                 padding: 0 8px;
-            }
+            }          
 
-             .header {
-                height: 250px;
-                position: relative;
-            }
-            .header-image {
-                width: 100%;
-                background-size: cover;
-                background-position: 50% 50%;
-                transition: background-image 1s ease-in-out;
-                will-change: background-image;
-            }
-            .title-text {
-                padding: 16px;
-                position: absolute;
-                bottom: 0;
-                font-size: 24px;
-                color: #fff;
-            }
-
-            .card {        
-
-            --paper-card-header-text: {
-                color: #FFFFFF;
-                font-weight: 300;
-            };
-
+            .card {   
                 min-width: 320px;
-                max-width: 400px;
-                background: #fff;
+                max-width: 360px;
+                background: var(--primary-background-color);
+                position: relative;
+
+                --paper-card-header-text: {
+                    color: #fff;
+                    font-weight: 400;
+                    font-family: var(--font-family);
+                };
+
+                --paper-card-header-image: {
+                    max-height: 200px;
+                };
+
+                --paper-card-content: {
+                    max-height: 215px;
+                }             
             }   
 
-            paper-card {
-                box-shadow: 24px 0 35px rgba(0, 0, 0, 0.5);
-            }
-     
+            .direction-button paper-fab {
+                background: #fff;
+                color: inherit;
+                pointer-events: all;
+                box-shadow: 0 0 8px 0 rgba(0,0,0,0.12), 0 8px 8px 0 rgba(0,0,0,0.24);
+            }   
 
+            .direction-button {
+                position: absolute;
+                pointer-events: none;
+                z-index: 1;
+                right: 8px;
+                top: 50%;
+                transform: translate3d(0, -50%, 0);
+            }
+
+            .card-content {
+                padding: 32px 8px 0;
+            } 
+
+            paper-icon-item {
+                --paper-item-disabled-color: var(--secondary-text-color);
+            }
+
+            paper-icon-item iron-icon {
+                --iron-icon-fill-color: var(--default-primary-color);
+            }
             
             @media (min-width: 640px) {
-                .card-wrapper {
-                    padding-top: 50px;
+
+                google-map {
+                    height: 520px;
+                }
+
+                .card-content {
+                    padding-right: 8px;
+                    padding-left: 8px;
+                    padding: 24px 8px 0;
+                } 
+
+                .direction-button {       
+                    right: 0;
+                    transform: translate3d(30%, -50%, 0);
                 }
             }
 
@@ -82,45 +118,37 @@
             disable-zoom disable-default-ui layout fit>
         <google-map-marker slot="markers"
           latitude="{$ location.pointer.latitude $}"
-          longitude="{$ location.pointer.longitude $}"
-        ></google-map-marker>
+          longitude="{$ location.pointer.longitude $}">
+        </google-map-marker>
       </google-map>
 
         <div class="disable-map-events" fit></div>
-        <div class="card-wrapper container" layout horizontal flex start-justified>
-            <paper-card class="card">
-                <div class="header paper-card">
-
- <div class="header-image" style="background-image: url(/images/backgrounds/location_1.jpg)" fit></div>
-                    <div class="title-text">Title</div>
-                </div>
-                <div class="paper-card-container">
-                    <div class="card-content list">
-                        <paper-icon-item disabled>
-                            <iron-icon icon="icons:feedback" item-icon></iron-icon>
-                            <paper-item-body>DescriptionDescriptionDescriptionDescriptionDescription</paper-item-body>
-                        </paper-icon-item>
-                        <paper-icon-item disabled>
-                            <iron-icon icon="icons:location" item-icon></iron-icon>
-                            <paper-item-body two-line>
-                                <div>location address</div>
-                                <div secondary>locationAddressShort</div>
-                            </paper-item-body>
-                        </paper-icon-item>
-                    </div>
-                    <div class="card-actions">
-                        <a class="bottom-link" href="https://www.google.com/maps/dir/{$ location.pointer.latitude $},{$ location.pointer.longitude $}/@{$ location.pointer.latitude $},{$ location.pointer.longitude $},18z"
-                            target="_blank" rel="noopener noreferrer">
-                            <paper-icon-button icon="icons:directions"></paper-icon-button>
-                        </a>
-                    </div>
+        <div class="card-wrapper container" layout horizontal flex start-justified end$="[[!viewport.isPhone]]" center$="[[viewport.isPhone]]">
+            <paper-card class="card" heading="{$ location.name $}" image="/images/backgrounds/location_1.jpg" fade-image preload-image>
+                <a class="direction-button"
+                    href="https://www.google.com/maps/dir/{$ location.pointer.latitude $},{$ location.pointer.longitude $}/@{$ location.pointer.latitude $},{$ location.pointer.longitude $},18z"
+                    target="_blank" rel="noopener noreferrer">
+                    <paper-fab icon="hoverboard:directions"></paper-fab>
+                </a>
+                <div class="card-content list">
+                    <paper-icon-item disabled>
+                        <iron-icon icon="hoverboard:feedback" slot="item-icon"></iron-icon>
+                        <paper-item-body>{$ location.description $}</paper-item-body>
+                    </paper-icon-item>
+                    <paper-icon-item disabled slot="item-icon">
+                        <iron-icon icon="hoverboard:location" slot="item-icon"></iron-icon>
+                        <paper-item-body two-line>
+                            <div>{$ location.streetAddress $}</div>
+                            <div secondary>{$ location.short $}</div>
+                        </paper-item-body>
+                    </paper-icon-item>
                 </div>
             </paper-card>
         </div>
     </template>
 
     <script>
-        class MapBlock extends Polymer.Element {
+        class MapBlock extends  ReduxMixin(Polymer.Element) {
             static get is() { return 'map-block' }
 
             static get properties() {
@@ -162,6 +190,10 @@
                     },
                     _currentImage: {
                         type: String
+                    },
+                    viewport: {
+                        type: Object,
+                        statePath: 'ui.viewport'
                     }
                 }
             }
