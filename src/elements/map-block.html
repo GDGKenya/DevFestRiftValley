@@ -54,6 +54,8 @@
 
                 --paper-card-header-image: {
                     max-height: 200px;
+                    transition: background-image 1s ease-in-out;
+                    will-change: background-image
                 };
 
                 --paper-card-content: {
@@ -93,6 +95,10 @@
 
                 google-map {
                     height: 520px;
+                }
+
+                .card {
+                    box-shadow: 24px 0 35px rgba(0, 0, 0, 0.5);
                 }
 
                 .card-content {
@@ -174,7 +180,7 @@
                         }, {
                             'featureType': 'water',
                             'stylers': [{
-                            'color': '#5dc7ff'
+                            'color': '{$ location.mapColor $}'
                             }]
                         }];
                         }

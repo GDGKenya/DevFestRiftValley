@@ -25,6 +25,7 @@
     "address": "36 Shchyretska St, Lviv, Ukraine",
     "streetAddress": "Shchyretska St, 36",
     "link": "https://www.facebook.com/expopivdennij",
+    "mapColor": "#673AB7",
     "pointer": {
       "latitude": 49.809841,
       "longitude": 23.972805,
