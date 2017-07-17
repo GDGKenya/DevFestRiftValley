@@ -1,0 +1,64 @@
+<link rel="import" href="../../bower_components/polymer/polymer-element.html">
+<link rel="import" href="../../bower_components/plastic-image/plastic-image.html">
+<link rel="import" href="../mixins/redux-mixin.html">
+<link rel="import" href="hoverboard-icons.html">
+
+<dom-module id="map-image">
+    <template>
+        <style is="custom-style" include="shared-styles flex flex-alignment positioning"></style>
+
+        <style>
+             :host {
+                display: block;
+                  
+            } 
+
+          
+            @media (min-width: 640px) {
+
+            }
+
+        </style>
+      
+      <div class="container" layout horizontal flex>
+
+      <div class="map-container">
+           <plastic-image
+                  class="map-image"
+                  srcset="http://maps.googleapis.com/maps/api/staticmap?center=[[center]]&amp;zoom=[[zoom]]&amp;size=[[width]]x[[height]]&amp;maptype=roadmap&amp;markers=[[marker]]&amp;sensor=false"\
+                  sizing="cover"
+                  width="[[width]]"
+                  height="[[height]]]"
+                  lazy-load preload fade
+                ></plastic-image>
+      </div>
+
+         
+      </div>
+      
+    </template>
+
+    <script>
+        class MapImage extends Polymer.Element {
+            static get is() { return 'map-image' }
+
+            static get properties() {
+                return {                   
+                    center: String,
+                    width: {
+                        type: String,
+                        value: '500'
+                    },
+                    height: {
+                        type: String,
+                        value: '400'
+                    },
+                    markers: String,
+                    zoom: String
+                }
+            }           
+        }
+
+        customElements.define(MapImage.is, MapImage);
+    </script>
+</dom-module>

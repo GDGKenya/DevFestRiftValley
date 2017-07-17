@@ -34,7 +34,17 @@
                 height: 100%;
                 padding-bottom: 0;
                 padding-top: 0;
+                padding-left: 0;
+                padding-left: 16px;
+    height: 100%;
+                /*position: relative;*/
             }
+
+            .container {
+                position: relative;
+            }
+
+
 
             .card-content {
                 padding: 0 8px;
@@ -45,6 +55,8 @@
                 max-width: 360px;
                 background: var(--primary-background-color);
                 position: relative;
+
+                height: 553px;
 
                 --paper-card-header-text: {
                     color: #fff;
@@ -60,7 +72,9 @@
 
                 --paper-card-content: {
                     max-height: 215px;
-                }             
+                }    
+
+                height: 500px;         
             }   
 
             .direction-button paper-fab {
@@ -90,6 +104,10 @@
             paper-icon-item iron-icon {
                 --iron-icon-fill-color: var(--default-primary-color);
             }
+
+            .image-overlay {
+               background-color: rgba(0, 0, 0, 0.1);
+            }
             
             @media (min-width: 640px) {
 
@@ -114,23 +132,25 @@
             }
 
         </style>
-      
-        <google-map
+       <div class="container" layout horizantal>
+ <google-map
             zoom="{$ location.pointer.zoom $}"
             latitude="{$ location.mapCenter.latitude $}"
             longitude="{$ location.mapCenter.longitude $}"
             api-key="{$ location.apiKey $}"
             styles="[[options]]"
-            disable-zoom disable-default-ui layout fit>
+            disable-zoom disable-default-ui layout>
         <google-map-marker slot="markers"
           latitude="{$ location.pointer.latitude $}"
           longitude="{$ location.pointer.longitude $}">
         </google-map-marker>
+        <div class="image-overlay" fit></div>
+
       </google-map>
 
         <div class="disable-map-events" fit></div>
-        <div class="card-wrapper container" layout horizontal flex start-justified end$="[[!viewport.isPhone]]" center$="[[viewport.isPhone]]">
-            <paper-card class="card" heading="{$ location.name $}" image="/images/backgrounds/location_1.jpg" fade-image preload-image>
+        <div class="card-wrapper" layout horizontal flex start-justified end$="[[!viewport.isPhone]]" center$="[[viewport.isPhone]]" fit>
+            <paper-card class="card" heading="{$ location.name $}" fade-image preload-image>
                 <a class="direction-button"
                     href="https://www.google.com/maps/dir/{$ location.pointer.latitude $},{$ location.pointer.longitude $}/@{$ location.pointer.latitude $},{$ location.pointer.longitude $},18z"
                     target="_blank" rel="noopener noreferrer">
@@ -151,6 +171,10 @@
                 </div>
             </paper-card>
         </div>
+
+       </div>
+
+       
     </template>
 
     <script>

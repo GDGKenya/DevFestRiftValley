@@ -1,0 +1,67 @@
+<link rel="import" href="../../bower_components/polymer/polymer-element.html">
+<link rel="import" href="map-image.html">
+<link rel="import" href="../mixins/redux-mixin.html">
+<link rel="import" href="hoverboard-icons.html">
+
+<dom-module id="location-block">
+    <template>
+        <style is="custom-style" include="shared-styles flex flex-alignment positioning"></style>
+
+        <style>
+             :host {
+                display: block;
+                  
+            } 
+
+          
+            @media (min-width: 640px) {
+
+            }
+
+        </style>
+      
+      <div class="container" layout horizontal flex>
+
+      <div class="map-container">
+           <!--<plastic-image
+                  id="image[[index]]"
+                  class="map-image"
+                  srcset$="https://maps.googleapis.com/maps/api/staticmap?center={$ location.mapCenter.latitude $},{$ location.mapCenter.longitude $}&size=500x400&markers=Lviv&zoom=4"
+                  sizing="cover"
+                  width="500"
+                  height="350"
+                  lazy-load preload fade
+                ></plastic-image>-->
+
+        <map-image 
+        center="{$ location.short $}"
+        markers="{$ location.short $}"
+        zoom="4"
+        > </map-image>
+      </div>
+
+         
+      </div>
+      
+    </template>
+
+    <script>
+        class LocationBlock extends  ReduxMixin(Polymer.Element) {
+            static get is() { return 'location-block' }
+
+            static get properties() {
+                return {
+                   
+                    viewport: {
+                        type: Object,
+                        statePath: 'ui.viewport'
+                    }
+                }
+            }
+
+           
+        }
+
+        customElements.define(LocationBlock.is, LocationBlock);
+    </script>
+</dom-module>
