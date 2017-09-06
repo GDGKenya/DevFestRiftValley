@@ -1,0 +1,137 @@
+{
+  "title": "DevFest Rift Valley '17",
+  "description": "Each DevFest is inspired by and uniquely tailored to the needs of the developer community that hosts it. While no two events will be exactly alike, each event will, at its core, be powered by a shared belief that when developers come together to exchange ideas, amazing things can happen. Ours is no Exception!",
+  "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
+  "dates": "21.10.2017",
+  "locationAddressShort": "Moi University, Main Campus",
+  "motto": "Engage | Learn | Connect",
+  "playIcon": "Recap : '17 Events!",
+  "c4p": "Become a speaker",
+  "buyTicket": "Buy ticket",
+  "backToTop": "Back to top",
+  "subscribe": "Subscribe",
+  "yourEmail": "Your email",
+  "subscribeNote": "No spam, only the latest news and updates!",
+  "contactUs": "Get in touch!",
+  "ticketsTitle": "Tickets",
+  "ticketsDetails": "Tickets grant access to all conference sections, Tea breaks, lunch and party. Accommodation is NOT included in the ticket price.",
+  "close": "Close",
+  "soldOutTickets": "Sold Out",
+  "socialTitle": "Social",
+  "socialMotto": "Add to circles, like, follow or connect with us here",
+  "beforeHashtag": "Hey!",
+  "clickToViewPhotos": "More Photos",
+  "partners": "Partners",
+  "becomePartner": "Become a partner",
+  "featuredVideosTitle": "Featured '17 Events",
+  "featuredVideosViewAll": "View Videos",
+  "featuredPeopleTitle": "Speakers",
+  "featuredPeopleViewAll": "View All Speakers",
+  "action": "View",
+  "locationTitle": "Moi University",
+  "locationDescription": "The School of Information Sciences, Moi University",
+  "locationAddress": "Main Campus",
+  "organizerTitle": "Organizer",
+  "aboutOrganizers": "<a href='https://twitter.com/GDGMoi' target='_blank'>GDG Moi</a> with support of <a href='#' target='_blank'>GDG Kabarak</a> and <a href='#' target='_blank'>GDG Egerton</a> from the Rift Valley region (North Rift) is proud organizer of DevFest Rift Valley '17",
+  "openTeamPage": "See our team",
+  "whatIsGdg": "What are GDGs?",
+  "aboutGdg": "Google Developer Groups (GDGs) are for developers who are interested in Google's developer technology; everything from the Android, Chrome, Drive, and Google Cloud platforms, to product APIs like the Cast API, Maps API, and YouTube API.",
+  "readMore": "Read more",
+  "copyLink": "Copy link",
+  "filteredBy": "filtered by",
+  "clearAll": "Clear All",
+  "filter": "Filter",
+  "latestNews": "Latest News",
+  "continueReading": "Continue Reading",
+  "viewPresentation": "View Presentation",
+  "viewVideo": "View Video",
+  "skills": "Skills",
+  "share": "Share",
+  "shareWith": "Share with",
+  "signIn": "Sign in",
+  "signOut": "Sign out",
+  "mySchedule": "My Schedule",
+  "browseMore": "Browse more events",
+  "youShouldSignInSessions": "Sign in to save sessions",
+  "youShouldSignInRating": "Sign in to rate sessions",
+  "offlineMessage": "You are offline",
+  "removedFromSchedule": "Removed from My Schedule",
+  "addedToSchedule": "Added to My Schedule",
+  "rateSession": "Rate session",
+  "footerBlocks": [
+    {
+      "title": "For visitors",
+      "links": [
+        {
+          "text": "Leads",
+          "url": "/team/",
+          "newTab": false
+        },
+        {
+          "text": "Code of Conduct",
+          "url": "/cod/",
+          "newTab": false
+        },
+        {
+          "text": "Google Developers",
+          "url": "https://developers.google.com/groups/",
+          "newTab": true
+        },
+        {
+          "text": "Google I/O '17 Extended Eldoret",
+          "url": "",
+          "newTab": true
+        }
+        
+      ]
+    },
+    {
+      "title": "For Partners",
+      "links": [
+        {
+          "text": "Partnership Proposition",
+          "url": "",
+          "newTab": true
+        },
+        {
+          "text": "Media Kit",
+          "url": "#",
+          "newTab": true
+        }
+      ]
+    }
+  ],
+  "contactBlock": {
+    "links": [
+      {
+        "text": "gdgmoi@gmail.com",
+        "url": "mailto:gdgmoi@gmail.com"
+      }
+    ]
+  },
+  "teamPageTitle": "Team",
+  "teamPageText": "<a href='https://developers.google.com/groups/' target='_blank'>Google Developer Groups<a> offer unique activities targeted to developers, such as hackathons and codelabs.As GDG Moi University our Mission is to connect talented developers giving them the chance to exchange ideas, teach their skills and acquire new ones.",
+  "statistics": [
+   
+    {
+      "counter": 1,
+      "caption": "Day"
+    },
+    {
+      "counter": 10,
+      "caption": "Sessions"
+    },
+    {
+      "counter": 13,
+      "caption": "Speakers"
+    },
+    {
+      "counter": 350,
+      "caption": "Attendees"
+    }
+  ],
+  "callToAction": {
+    "videoTitle": "DevFest 2017",
+    "videoId": "#"
+  }
+}

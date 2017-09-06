@@ -1,38 +1,40 @@
 {
-  "url": "https://hoverboard.firebaseapp.com/",
-  "startDate": "2016-09-09T09:00:00+03:00",
-  "endDate": "2016-09-10T19:00:00+03:00",
+  "url": "https://devfestriftvalley.firebaseapp.com/",
+  "startDate": "2017-08-31",
+  "endDate": "2017-11-31",
   "analytics": {
-    "prod": "UA-43643469-8",
-    "dev": "UA-43643469-9"
+    "prod": "",
+    "dev": ""
   },
   "organizer": {
-    "name": "GDG Lviv",
-    "twitter": "gdglviv"
+    "name": "GDG Moi | Kabarak | Egerton",
+    "twitter": "GDGMoi"
   },
   "webapp": {
-    "shortName": "DevFest",
-    "themeColor": "#F57C00",
-    "backgroundColor": "#F57C00"
+    "shortName": "DevFest 2017",
+    "themeColor": "green",
+    "backgroundColor": "green"
   },
+  
   "firebase": {
-    "name": "hoverboard-experimental",
-    "domain": "hoverboard-experimental.firebaseapp.com",
-    "database": "https://hoverboard-experimental.firebaseio.com",
-    "api": "AIzaSyALDa2D7CMhK_wt2VkET1MaJuQXYVUJd2I",
+    "name": "devfestriftvalley",
+    "domain": "devfestriftvalley.firebaseapp.com",
+    "database": "https://devfestriftvalley.firebaseio.com",
+    "api": "AIzaSyCwctQmBd_Ie5tfuQmod0GNqaoADCXcMv0",
     "userSessionsPath": "/userSessions",
     "ratingsPath": "/ratings",
     "indexedDbSession": "hoverboard"
   },
+
   "mailchimp": {
-    "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
-    "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
+    "url": "",
+    "name": ""
   },
-  "hashtag": "dfua",
-  "disqusShortName": "hoverboard-gdg-x",
-  "tweetsSource": "/data/tweets.json",
-  "partnershipProposition": "http://bit.ly/df16-sponsor",
-  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
+  "hashtag": "devfestRV17",
+  "disqusShortName": "",
+  "tweetsSource": "",
+  "partnershipProposition": "#",
+  "videosSessionsUrl": "https://www.youtube.com/watch?v=9GQi7Fxha0M",
   "enableSessionsRating": true,
   "navigation": [
     {
@@ -52,59 +54,59 @@
       "permalink": "/speakers/"
     },
     {
-      "route": "team",
+      "route": "Leads",
       "permalink": "/team/"
     }
   ],
   "social": [
     {
       "name": "twitter",
-      "nickname": "GDGLviv",
-      "url": "https://twitter.com/gdglviv"
+      "nickname": "GDGMoi",
+      "url": "https://twitter.com/GDGMoi"
     },
     {
       "name": "gplus",
-      "nickname": "102444623953913144164",
-      "url": "https://plus.google.com/102444623953913144164"
+      "nickname": "GDG Moi",
+      "url": "https://plus.google.com/u/0/b/100413733864528613887/+GdgmoiuniAppspotmain"
     },
     {
       "name": "facebook",
-      "nickname": "GDGLviv",
-      "url": "https://www.facebook.com/GDGLviv"
+      "nickname": "#",
+      "url": "#"
     },
     {
       "name": "linkedin",
-      "nickname": "google-developers-group-lviv",
-      "url": "https://www.linkedin.com/company/google-developers-group-lviv"
+      "nickname": "GDG Moi",
+      "url": "https://www.linkedin.com/company-beta/18101988/"
     }
   ],
   "location": {
     "apiKey": "",
-    "name": "Pivdennyi Expo Center",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
-    "link": "https://www.facebook.com/expopivdennij",
+    "name": "Moi University, Main Campus",
+    "address": "Kenya, Uasin Gishu County,Eldoret, Kesses",
+    "link": "https://www.linkedin.com/company-beta/18101988/",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
+      "latitude": 0.2867,
+      "longitude": 35.2939,
       "zoom": 15
     },
     "mapCenter": {
-      "latitude": 49.809841,
-      "longitude": 23.982805
+      "latitude": 0.2867,
+      "longitude": 35.2939
     },
     "images": [
-      "/images/backgrounds/location_1.jpg",
-      "/images/backgrounds/location_2.jpg",
-      "/images/backgrounds/location_3.jpg"
+      "/images/backgrounds/moi1.JPG",
+      "/images/backgrounds/moi2.JPG",
+      "/images/backgrounds/moi.jpg"
     ]
   },
   "gallery": {
-    "albumUrl": "https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1",
+    "albumUrl": "https://goo.gl/photos/iKw8hniWZydHDgw29",
     "photos": {
-      "big": "/images/backgrounds/2015_1.jpg",
+      "big": "/images/backgrounds/gdgmoi1.JPG",
       "small": [
-        "/images/backgrounds/2015_2.jpg",
-        "/images/backgrounds/2015_3.jpg"
+        "/images/backgrounds/gdgmoi.JPG",
+        "/images/backgrounds/share.JPG"
       ]
     }
   },
@@ -112,14 +114,14 @@
     "home": {
       "title": "Home",
       "headerSettings": {
-        "backgroundColor": "#FF9800",
-        "backgroundImage": "/images/backgrounds/home.png",
+        "backgroundColor": "#1874e6",
+        "backgroundImage": "/images/backgrounds/banner.gif",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "video": {
-          "title": "GDG DevFest Ukraine 2016",
-          "youtubeId": "TdpbgRgz6eE",
-          "text": "See how it was in 2016"
+          "title": "DevFest Rift Valley 2017",
+          "youtubeId": "9GQi7Fxha0M",
+          "text": "What to expect"
         },
         "hideLogo": true,
         "minHeight": "360px"
@@ -128,7 +130,7 @@
     "blog": {
       "title": "Blog",
       "headerSettings": {
-        "backgroundColor": "#03a9f4",
+        "backgroundColor": "#3f51b5",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
@@ -144,21 +146,21 @@
     "schedule": {
       "title": "Schedule",
       "headerSettings": {
-        "backgroundColor": "#673ab7",
+        "backgroundColor": "#3f51b5",       
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
     },
     "team": {
-      "title": "Team",
+      "title": "Leads",
       "headerSettings": {
-        "backgroundColor": "#009688",
+        "backgroundColor": "#3f51b5",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
     },
     "cod": {
-      "title": "Cod of Conduct",
+      "title": "Code of Conduct",
       "headerSettings": {
         "backgroundColor": "#673ab7",
         "fontColor": "#fff",

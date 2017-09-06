@@ -1,0 +1,852 @@
+{
+  "partners" : [ {
+    "logos" : [ {
+      "logoUrl" : "../images/logos/gdgmoi.png",
+      "name" : "GDG Moi",
+      "url" : "https://plus.google.com/u/0/b/100413733864528613887",
+      "width" : 170
+    } ],
+    "title" : "Host"
+  }, {
+    "logos" : [ {
+      "logoUrl" : "../images/logos/google.svg",
+      "name" : "Google",
+      "url" : "https://www.google.com.ua/intl/en/about/"
+    }, {
+      "logoUrl" : "../images/logos/gdg-x.svg",
+      "name" : "GDG",
+      "url" : "https://developers.google.com/groups/"
+    } ],
+    "title" : "Key Partners"
+  } ],
+  "schedule" : [ {
+    "date" : "2017-10-21",
+    "dateReadable" : "October 21",
+    "timeslots" : [ {
+      "endTime" : "9:45",
+      "sessions" : [ [ 132 ] ],
+      "startTime" : "09:00"
+    }, {
+      "endTime" : "10:15",
+      "sessions" : [ [ 136 ] ],
+      "startTime" : "10:00"
+    }, {
+      "endTime" : "11:00",
+      "sessions" : [ [ 139 ] ],
+      "startTime" : "10:20"
+    }, {
+      "endTime" : "11:40",
+      "sessions" : [ [ 107 ]],
+      "startTime" : "11:05"
+    }, {
+      "endTime" : "12:50",
+      "sessions" : [ [ 129 ], [ 116 ], [ 109 ] , [112] ],
+      "startTime" : "11:45"
+    }, {
+      "endTime" : "13:45",
+      "sessions" : [ [ 133 ] ],
+      "startTime" : "13:00"
+    }, {
+      "endTime" : "14:45",
+      "sessions" : [ [ 101 ], [140] ],
+      "startTime" : "14:00"
+    }, {
+      "endTime" : "15:20",
+      "sessions" : [ [ 140 ] ],
+      "startTime" : "14:50"
+    }, {
+      "endTime" : "16:20",
+      "sessions" : [ [ 134 ] ],
+      "startTime" : "15:35"
+    }, {
+      "endTime" : "17:00",
+      "sessions" : [ [ 105 ] ],
+      "startTime" : "16:30"
+    }, {
+      "endTime" : "17:30",
+      "sessions" : [ [ 112 ] ],
+      "startTime" : "17:00"
+    }, {
+      "endTime" : "18:20",
+      "sessions" : [ [ 106 ] ],
+      "startTime" : "17:40"
+    } ],
+    "tracks" : [ {
+      "title" : "Room A"
+    }, {
+      "title" : "Room B"
+    }, {
+      "title" : "Room C"
+    } ]
+  }
+  ],
+  "sessions" : {
+    "101" : {
+      "complexity" : "Beginner",
+      "description" : "In this session, we will take a look at Windows and .NET support on Google Cloud Platform. We will build a simple ASP.NET app, deploy to Google Compute Engine and take a look at some of the tools and APIs available to .NET developers on Google Cloud Platform. ",
+      "id" : 101,
+      "language" : "English",
+      "presentation" : "https://speakerdeck.com/gdglviv/mete-atamel-windows-and-net-on-google-cloud-platform",
+      "speakers" : [ 1 ],
+      "tags" : [ "Cloud" ],
+      "title" : "Windows and .NET on Google Cloud Platform "
+    },
+    "102" : {
+      "complexity" : "Beginner",
+      "description" : "Do you remember the game Simon says from the 80s? I don’t know about you, but I know many that spent hours trying to press those specific sequences of red, green, blue and yellow buttons in the correct order. But why play on your own? We’ve implemented a gRPC server that allows you to play Simon with other players over the internet!\n\nIn this workshop we will dive into the toolset and libraries to build your very own Simon Says client for this server. We will have a message description in Protocol Buffers format and some stub code in several languages ready for you to play with. The goal for this workshop is for you to have a working client that you can use to play (and beat!) other attendees of the workshop.",
+      "id" : 102,
+      "language" : "English",
+      "speakers" : [ 1 ],
+      "tags" : [ "Cloud" ],
+      "title" : "Hands-on gRPC experience building your own multiplayer game client"
+    },
+    "107" : {
+      "complexity" : "Beginner",
+      "description" : "There's been much discussion about Progressive Web Apps. They're still a relatively new model. In this talk, I'll summarise few options and techniques for getting started with your own Progressive Web App",
+      "id" : 107,
+      "language" : "English",
+      "speakers" : [ 6 ],
+      "tags" : [ "Web" ],
+      "title" : "Introduction to Progressive Web Apps in Angular 2"
+    },
+    "112" : {
+      "complexity" : "Intermediate",
+      "description" : "Last year brought a lot of new capabilities to browsers, fundamentally changing the way we will build web apps in 2016. 60FPS, push messages, offline support and background sync became a reality marking the birth of Progressive Web Apps.",
+      "id" : 112,
+      "language" : "English",
+      "speakers" : [ 10 ],
+      "tags" : [ "Web" ],
+      "title" : "Building web apps in 2016"
+    },
+    "132" : {
+      "description" : "Get your badge, coffee, enjoy talking with tech edicts around",
+      "id" : 132,
+      "image" : "/images/backgrounds/registration.jpg",
+      "title" : "Registration & morning Coffee"
+    },
+    "133" : {
+      "description" : "Foooooooood!",
+      "id" : 133,
+      "image" : "/images/backgrounds/lunch.jpg",
+      "title" : "Lunch"
+    },
+    "134" : {
+      "description" : "Coffeeeeeee!",
+      "id" : 134,
+      "image" : "/images/backgrounds/coffee-break.jpg",
+      "title" : "Coffee break"
+    },
+    "135" : {
+      "description" : "Coffeeeeeee!",
+      "id" : 135,
+      "image" : "/images/backgrounds/morning.jpg",
+      "title" : "Morning coffee"
+    },
+    "136" : {
+      "description" : "Official start of the conference. Greetings from the organizers, sponsors and partners.",
+      "id" : 136,
+      "image" : "/images/backgrounds/opening.jpg",
+      "language" : "English",
+      "title" : "GDG DevFest Ukraine 2016 Opening"
+    },
+    "137" : {
+      "description" : "Afterparty is a great time to have some fun and meet new people",
+      "id" : 137,
+      "image" : "/images/backgrounds/party.jpg",
+      "title" : "Afterparty & Networking"
+    },
+    "138" : {
+      "description" : "Make sure you won't miss closing ceremony, lots of freebies from our sponsors and partners will find their owners during this session. Event cake bite and photoshoot. You may be featured in our post event video interview!",
+      "id" : 138,
+      "image" : "/images/backgrounds/closing.jpg",
+      "title" : "Wrap-up, networking and photo sessions, interviews"
+    },
+    "139" : {
+      "description" : "",
+      "id" : 139,
+      "language" : "English",
+      "title" : "Keynote"
+    },
+    "140" : {
+      "description" : "TBD",
+      "id" : 140,
+      "language" : "English",
+      "title" : "TBD"
+    }
+  },
+  "speakers" : [ null, {
+    "badges" : [ {
+      "description" : "GDG Kenya Country Mentor",
+      "link" : "https://developers.google.com/groups/",
+      "name" : "GDG"
+    } ],
+    "bio" : "Dennis is a .NET Full Stack Developer, User Experience Design ovator, GDG JKUAT Lead and GDG Kenya Country Mentor.",
+    "company" : "Google",
+    "companyLogo" : "/images/logos/google.svg",
+    "country" : "Nairobi, Kenya",
+    "featured" : true,
+    "id" : 1,
+    "name" : "Dennis Riungu",
+    "photoUrl" : "/images/people/dennis.jpg",
+    "shortBio" : "Dennis is a .NET Full Stack Developer, User Experience Design ova...",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/dennisriungu/",
+      "name" : "LinkedIn"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/denpalrius",
+      "name" : "Twitter"
+    }, {
+      "icon" : "github",
+      "link" : "https://github.com/denpalrius",
+      "name" : "GitHub"
+    } ],
+    "tags" : [ "Cloud", "Compute Engine", "gRPC" ],
+    "title" : "Developer Advocate"
+  }, {
+    "badges" : [ {
+      "description" : "WomanTechmaker Kabarak",
+      "link" : "https://womentechmakers.com/",
+      "name" : "WTM"
+    } ],
+    "bio" : "A Bsc. Computer Science (Software Engineering Major) graduate from Kabarak University. Passionate about and knowledgeable on web, network and application security, software development (Web Applications), penetration testing and business intelligence.",
+    "company" : "EY",
+    "companyLogo" : "/images/logos/gdg.png",
+    "country" : "Nairobi, Kenya",
+    "featured" : true,
+    "id" : 2,
+    "name" : "Eve Kilel",
+    "photoUrl" : "/images/people/evekilel.jpg",
+    "shortBio" : "A Bsc. Computer Science (Software Engineering Major) graduate from Kabarak University. Passionate about...",
+    "socials" : [ {
+      "icon" : "facebook",
+      "link" : "https://www.facebook.com/eve.kilel.96?ref=br_rs",
+      "name" : "Facebook"
+    }, {
+      "icon" : "twitter",
+      "link" : "",
+      "name" : "Twitter"
+    }, {
+      "icon" : "gplus",
+      "link" : "https://plus.google.com/109930246211869379617",
+      "name" : "Google+"
+    } ],
+    "tags" : [ "Android", "Doze", "Mobile UX", "Entrepreneurship" ],
+    "title" : "Information Security Specalist At EY"
+  }, {
+    "bio" : "Experienced Information Security Analyst with a demonstrated history of working in the Information Technology industry. Skilled in Cloud Computing(Microsoft Azure), Virtualization,Cyber Threat Intelligence, Log Analysis,Incidence Management and Linux Systems Administration.",
+    "company" : "ICT Authority",
+    "companyLogo" : "/images/logos/ictauthority.png",
+    "country" : "Nairobi, Kenya",
+    "featured" : true,
+    "id" : 3,
+    "name" : "Trevor Kaon",
+    "photoUrl" : "/images/people/kaontrevor.jpg",
+    "shortBio" : "Experienced Information Security Analyst with a demonstrated history of working...",
+    "socials" : [ {
+      "icon" : "website",
+      "link" : "https://www.linkedin.com/in/trevor-kaon/?ppe=1",
+      "name" : "Website"
+    }, {
+      "icon" : "twitter",
+      "link" : "",
+      "name" : "Twitter"
+    }, {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/trevor-kaon/?ppe=1",
+      "name" : "LinkedIn"
+    } ],
+    "tags" : [ "Cyber Security", "Cloud", "Linux" ],
+    "title" : "Security Analyst and Fabric Administrator"
+  }, {
+    "bio" : "IT Professional, Drupal & Open Source Evangelist, .NET developer (previous life), with over 10 years post-tertiary experience working with startups in the Human Resources (Computer-Based Testing), Media & Finance (Mobile Money) industries. End-to-end JavaScript Developer & Evangelist learning & working with Node, Express, Underscore, Backbone, Angular, JSON (NoSQL) databases etc. Product Manager, Software Project Manager, IT Strategist, Trainer, Speaker",
+    "company" : "Google",
+    "companyLogo" : "/images/logos/google.svg",
+    "country" : "Lagos, Nigeria",
+    "featured" : true,
+    "id" : 4,
+    "name" : "Aniedi Udo-Ubong",
+    "photoUrl" : "/images/people/aniedi.jpg",
+    "shortBio" : "Google Developer Ecosystem Program Manager, Sub-Saharan Africa",
+    "socials" : [ {
+      "icon" : "gplus",
+      "link" : "https://plus.google.com/+AniediUdoObong",
+      "name" : "Google+"
+    },
+    {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/aniediudo/?ppe=1",
+      "name" : "LinkedIn"
+    } ],
+    "tags" : [ "Cloud", "GDG", "TensorFlow" ],
+    "title" : "Software Engineer"
+  }, {
+    "bio" : "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app was aquired by Sygic.",
+    "company" : "Sygic",
+    "companyLogo" : "/images/logos/gdg-lviv.svg",
+    "country" : "Opole, Poland",
+    "featured" : true,
+    "id" : 5,
+    "name" : "Adrian Kajda",
+    "photoUrl" : "/images/people/adrian_kajda.jpg",
+    "shortBio" : "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app wa...",
+    "socials" : [ {
+      "icon" : "gplus",
+      "link" : "plus.google.com/+AdrianKajda",
+      "name" : "Google+"
+    } ],
+    "tags" : [ "Android", "Entrepreneurship" ],
+    "title" : "Product Manager/Developer"
+  }, {
+    "badges" : [ {
+      "description" : "Angular Google Developer Expert",
+      "link" : "https://developers.google.com/experts/people/gerard-sans.html",
+      "name" : "GDE"
+    } ],
+    "bio" : "Angular Google Developer Expert. I am a Computer Science Engineer specialised in Web. International speaker and trainer. I am an Angular fanboy and a community activist fighting for the JavaScript revolution. I have lived and worked for all sorts of companies in Germany, Brazil, UK and Spain. I am always up for a good challenge. I enjoy running AngularLabs London, mentoring students, participating in the community, giving talks and writing technical articles at Medium.",
+    "company" : "AngularZone",
+    "companyLogo" : "/images/logos/gdg-lviv.svg",
+    "country" : "London, United Kingdom",
+    "featured" : true,
+    "id" : 6,
+    "name" : "Gerard Sans",
+    "photoUrl" : "/images/people/gerard_sans.jpg",
+    "shortBio" : "Angular Google Developer Expert. International speaker and trainer.  Enjoy running AngularLabs London.",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/gerardsans",
+      "name" : "Twitter"
+    }, {
+      "icon" : "website",
+      "link" : "https://medium.com/@gerard.sans",
+      "name" : "Website"
+    } ],
+    "tags" : [ "Web", "Angular", "Progressive Web Apps" ],
+    "title" : "Technical Evangelist"
+  }, {
+    "bio" : "Right now he is a passionate Googler helping developers and companies in South CEE to be more successful and profitable.\n\nHe co-founded and lead several StartUPs such as Venzeo.com, TrashOut.ngo, Matura.sk and Stuzkova.EU.\n\nHe is TEDx speaker, Slovak Forbes 30-under-30, IT auditor for AIESEC International & TOP 5 Student Entrepreneurs in Slovakia. He gets things done.",
+    "company" : "Google",
+    "companyLogo" : "/images/logos/gdg-lviv.svg",
+    "country" : "Prague, Czech Republic",
+    "featured" : true,
+    "id" : 7,
+    "name" : "Jozef Vodicka",
+    "photoUrl" : "/images/people/jozef_vodicka.jpg",
+    "shortBio" : "TEDx speaker, Slovak Forbes 30-under-30, IT auditor for AIESEC International & TOP 5 Student Entrepreneurs in Slovakia.",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/jozefvodicka",
+      "name" : "LinkedIn"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/jozefvodicka",
+      "name" : "Twitter"
+    }, {
+      "icon" : "gplus",
+      "link" : "https://plus.google.com/+JozefVodicka",
+      "name" : "Google+"
+    }, {
+      "icon" : "facebook",
+      "link" : "https://www.facebook.com/jozef.vodicka",
+      "name" : "Facebook"
+    } ],
+    "tags" : [ "Cloud", "Firebase" ],
+    "title" : "Developer Relations Program Manager"
+  }, {
+    "badges" : [ {
+      "description" : "Android Google Developer Expert",
+      "link" : "https://developers.google.com/experts/img/user/108555637824110226040.png",
+      "name" : "GDE"
+    }, {
+      "description" : "Google Developers Group Krakow",
+      "link" : "https://developers.google.com/groups/directory/",
+      "name" : "GDG"
+    } ],
+    "bio" : "Mateusz lives in Krakow, holds a membership in the Google Developer Expert program for Android. Works as an Android Tech Lead at IG. Co-organizer of GDG Krakow community meetups. Fresh dad of twins. For the third time at DevFest Ukraine.",
+    "company" : "IG",
+    "companyLogo" : "/images/logos/gdg-lviv.svg",
+    "country" : "Krakow, Poland",
+    "featured" : true,
+    "id" : 8,
+    "name" : "Mateusz Herych",
+    "photoUrl" : "/images/people/mateusz_herych.jpg",
+    "shortBio" : "3x rockstar of DevFest Ukraine stage. Android GDE. Co-organizer of GDG Krakow.",
+    "socials" : [ {
+      "icon" : "gplus",
+      "link" : "https://plus.google.com/+MateuszHerych",
+      "name" : "Google+"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/mherych",
+      "name" : "Twitter"
+    }, {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/herych",
+      "name" : "LinkedIn"
+    } ],
+    "tags" : [ "Android", "Android", "Design Patterns", "Libraries" ],
+    "title" : "Android Tech Lead"
+  }, {
+    "bio" : "Ex-Yandex emploee, currently Android Engineer at SoftServe.",
+    "company" : "SoftServe",
+    "companyLogo" : "/images/logos/gdg-lviv.svg",
+    "country" : "Kyiv, Ukraine",
+    "featured" : false,
+    "id" : 9,
+    "name" : "David Mayboroda",
+    "photoUrl" : "/images/people/david_mayboroda.jpg",
+    "shortBio" : "Ex Yandex emproyee. Android enthusiast.",
+    "socials" : [ {
+      "icon" : "facebook",
+      "link" : "https://www.facebook.com/profile.php?id=100008474898785",
+      "name" : "Facebook"
+    }, {
+      "icon" : "github",
+      "link" : "https://github.com/dmayboroda",
+      "name" : "GitHub"
+    } ],
+    "tags" : [ "Android", "Dagger 2" ],
+    "title" : "Android Engineer"
+  }, {
+    "badges" : [ {
+      "description" : "Web Technologies Google Developer Expert",
+      "link" : "https://developers.google.com/experts/people/konrad-dzwinel.html",
+      "name" : "GDE"
+    }, {
+      "description" : "Google Developers Group Krakow",
+      "link" : " https://developers.google.com/groups/directory/",
+      "name" : "GDG"
+    } ],
+    "bio" : "Konrad is a front-end developer at Brainly, Google Developer Expert for Web Technologies and co-organizer of Google Developers Group in Krakow. Over the years he worked for various startups, consultancies and software houses building websites, hybrid apps and internal tools. After work, he develops Chrome extensions, experiments with various front-end technologies, gives presentations and runs workshops.",
+    "company" : "Brainly",
+    "companyLogo" : "/images/logos/gdg-lviv.svg",
+    "country" : "Krakow, Poland",
+    "featured" : true,
+    "id" : 10,
+    "name" : "Konrad Dzwinel",
+    "photoUrl" : "/images/people/konrad_dzwinel.jpg",
+    "shortBio" : "Fighting for 60FPS on Web. GDE on Web Technologies. Co-organizer of GDG Krakow.",
+    "socials" : [ {
+      "icon" : "github",
+      "link" : "https://github.com/kdzwinel",
+      "name" : "GitHub"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/kdzwinel",
+      "name" : "Twitter"
+    } ],
+    "tags" : [ "Web", "Chrome Extensions", "Progressive Web Apps" ],
+    "title" : "Front-End Engineer"
+  }, {
+    "badges" : [ {
+      "description" : "Google Developers Group Basel",
+      "link" : "https://developers.google.com/groups/chapter/104796338340371914914/",
+      "name" : "GDG"
+    } ],
+    "bio" : "Jean-Baptiste Clion (AKA JB) is a senior cloud engineer working with Google Technologies since 2007.  He is the founder and co-organiser of GDG Basel, Switzerland. Jean-Baptiste worked in various industries such as Defence & Aeronautics, Finance & Consulting. In his last position, JB was Google Practice Lead at Capgemini Switzerland, he is now co-founding a startup dedicated to Progressive Web Apps solutions relying on cloud technologies.",
+    "company" : "Apeser",
+    "companyLogo" : "/images/logos/gdg-lviv.svg",
+    "country" : "Basel, Switzerland",
+    "featured" : false,
+    "id" : 11,
+    "name" : "Jean-Baptiste Clion",
+    "photoUrl" : "/images/people/jean-baptiste_clion.jpg",
+    "shortBio" : "Founder and co-organiser of GDG Basel. Worked in Defence & Aeronautics, Finance & Consulting industries.",
+    "socials" : [ {
+      "icon" : "facebook",
+      "link" : "https://www.facebook.com/jbclion",
+      "name" : "Facebook"
+    }, {
+      "icon" : "linkedin",
+      "link" : "https://ch.linkedin.com/in/jean-baptiste-clion-3196415",
+      "name" : "LinkedIn"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/JBaptisteClion",
+      "name" : "Twitter"
+    }, {
+      "icon" : "gplus",
+      "link" : "https://plus.google.com/+JeanBaptisteClionBasel/posts",
+      "name" : "Google+"
+    } ],
+    "tags" : [ "Cloud", "AppEngine", "Microservices" ],
+    "title" : "Founder"
+  }, {
+    "badges" : [ {
+      "description" : "DAUG",
+      "link" : "https://developers.google.com/groups/chapter/113182948271879290904/",
+      "name" : "DAUG"
+    } ],
+    "bio" : "Paul is CTO and co-founder of Pixplicity, Holland's leading Android-specific consulting and app-building company. He applies his knowledge of Java, Android and Linux in Pixplicity to develop high-quality apps and provide technical solutions for customers such as Mercedes-Benz, Nestlé, De Telegraaf, AGIS and De Consumentenbond.",
+    "company" : "Pixplicity",
+    "companyLogo" : "/images/logos/gdg-lviv.svg",
+    "country" : "Amsterdam, The Netherlands",
+    "featured" : true,
+    "id" : 12,
+    "name" : "Paul Lammertsma",
+    "photoUrl" : "/images/people/paul_lammertsma.jpg",
+    "shortBio" : "Paul is CTO and co-founder of Pixplicity, Holland's leading Android-specific consulting and app-b...",
+    "socials" : [ {
+      "icon" : "gplus",
+      "link" : "https://plus.google.com/u/0/+PaulLammertsma",
+      "name" : "Google+"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/officesunshine",
+      "name" : "Twitter"
+    } ],
+    "tags" : [ "Android", "Data Sync", "Linux" ],
+    "title" : "CTO"
+  }, {
+    "bio" : "Became a mobile developer after long run as a backend developer. Because of age, holding senior positions from the day one as an Android programmer. Serial hackathon winner, or at least contender ;-)",
+    "company" : "Applause",
+    "companyLogo" : "/images/logos/gdg-lviv.svg",
+    "country" : "Warsaw, Poland",
+    "featured" : false,
+    "id" : 13,
+    "name" : "Aleksander Piotrowski",
+    "photoUrl" : "/images/people/aleksander_piotrowski.jpg",
+    "shortBio" : "Became a mobile developer after long run as a backend developer. Because of age, holding senior p...",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/pelotasplus",
+      "name" : "Twitter"
+    }, {
+      "icon" : "facebook",
+      "link" : "http://facebook.com/pelotasplus",
+      "name" : "Facebook"
+    }, {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/pelotasplus",
+      "name" : "LinkedIn"
+    }, {
+      "icon" : "gplus",
+      "link" : "https://www.instagram.com/pelotasplus/",
+      "name" : "Google+"
+    } ],
+    "tags" : [ "Android", "Android N" ],
+    "title" : "Code Monkey"
+  }, {
+    "bio" : "Carmen is a front-end engineer and a #1 fan of dev communities. She loves Angular but has since recently developed feelings for Polymer too. She strongly believes that adding at least one ASCII smiley in your emails will make the world a better place and hopes to one day make a difference for the web with the code she writes. If she had super powers, she would smiley all the things.",
+    "company" : "Widespread",
+    "companyLogo" : "/images/logos/gdg-lviv.svg",
+    "country" : "Cluj-Napoca, Romania",
+    "featured" : false,
+    "id" : 14,
+    "name" : "Carmen Popovicu",
+    "photoUrl" : "/images/people/carmen_popovicu.jpg",
+    "shortBio" : "Angular JS committer. Founder of Dutch Angular JS Community, co-organizer of NG-NL.",
+    "socials" : [ {
+      "icon" : "gplus",
+      "link" : "https://plus.google.com/u/0/118143942632321563925/",
+      "name" : "Google+"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/CarmenPopoviciu",
+      "name" : "Twitter"
+    } ],
+    "tags" : [ "Web", "AngularJS2", "Polymer", "Protractor" ],
+    "title" : "Front-end Engineer"
+  }, {
+    "bio" : "Data scientist at one of the biggest fashion communities, STYLIGHT. Data analysis and visualisation hobbyist, working on problems not only in working time, but in free time for fun and personal data visualisations.\n\nSpeaker at different conferences: Berlin Buzzwords 2014, ApacheCon Europe 2014, Puppet Camp London 2015, Munich Developer Camp, Berlin Buzzwords 2015, Tableau Conference on Tour - Berlin 2015, Budapest BI forum 2015, CrunchConf 2015, FOSDEM 2016, PyData Amsterdam 2016",
+    "company" : "Stylight",
+    "companyLogo" : "/images/logos/gdg-lviv.svg",
+    "country" : "Munich, Germany",
+    "featured" : true,
+    "id" : 15,
+    "name" : "Sergii Khomenko",
+    "photoUrl" : "/images/people/sergii_khomenko.jpg",
+    "shortBio" : "Data scientist at one of the biggest fashion communities, STYLIGHT. Data analysis and visualisati...",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/lc0d3r",
+      "name" : "Twitter"
+    } ],
+    "tags" : [ "Cloud", "Big Data", "Analytics" ],
+    "title" : "Data Scientist"
+  }, {
+    "badges" : [ {
+      "description" : "Android Google Developer Expert",
+      "link" : "https://developers.google.com/experts/people/dmytro-danylyk",
+      "name" : "GDE"
+    }, {
+      "description" : "Google Developers Group Lviv",
+      "link" : "https://developers.google.com/groups/chapter/102444623953913144164/",
+      "name" : "GDG"
+    } ],
+    "bio" : "Dmytro is a developer, writer, speaker. He live in Lviv - a quaint and beautiful city. He is passionate about android and flat design. Currently Dmytro works for a startup Timee where he develop Android application and he love what he do.",
+    "company" : "Timee",
+    "companyLogo" : "/images/logos/gdg-lviv.svg",
+    "country" : "Lviv, Ukraine",
+    "featured" : false,
+    "id" : 16,
+    "name" : "Dmytro Danylyk",
+    "photoUrl" : "/images/people/dmytro_danylyk.jpg",
+    "shortBio" : "First Android GDE in Ukraine. Frequent speaker on tech conferences.",
+    "socials" : [ {
+      "icon" : "website",
+      "link" : "http://www.dmytrodanylyk.com",
+      "name" : "Website"
+    }, {
+      "icon" : "website",
+      "link" : "http://slides.com/dmytrodanylyk",
+      "name" : "Website"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/dmytrodanylyk",
+      "name" : "Twitter"
+    }, {
+      "icon" : "gplus",
+      "link" : "https://plus.google.com/+DmytroDanylyk",
+      "name" : "Google+"
+    } ],
+    "tags" : [ "Android", "Realm", "Material Design", "Data Sync", "Animations" ],
+    "title" : "Senior Android Developer"
+  }, {
+    "badges" : [ {
+      "description" : "Dart Google Developer Expert",
+      "link" : "https://developers.google.com/experts/people/jana-moudr.html",
+      "name" : "GDE"
+    }, {
+      "description" : "Google Developers Group Prague",
+      "link" : "https://developers.google.com/groups/chapter/111919016509847766513/",
+      "name" : "GDG"
+    } ],
+    "bio" : "GDE (Google Developer Expert) for Dart. Jana is a passionate developer and modern web and mobile technology evangelist. She is an event organiser for GDG Prague, where she arranges events for developers including public lectures, code labs and hackathons – covering a wide range of subjects including technologies Dart or Android. She loves to help other developers and spread the knowledge about these technologies. \n\nJana co-founded a company called Juicymo, where she works on juicy apps and products and teaches at Unicorn College.",
+    "company" : "Juicymo",
+    "companyLogo" : "/images/logos/gdg-lviv.svg",
+    "country" : "Prague, Czech Republic",
+    "featured" : false,
+    "id" : 17,
+    "name" : "Jana Moudra",
+    "photoUrl" : "/images/people/jana_moudra.jpg",
+    "shortBio" : "GDG Prague organizer. Android and Dart enthusiast. Co-founder of a company called Juicymo.",
+    "socials" : [ {
+      "icon" : "gplus",
+      "link" : "https://plus.google.com/+JanaMoudrá/posts",
+      "name" : "Google+"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/Janamou",
+      "name" : "Twitter"
+    }, {
+      "icon" : "linkedin",
+      "link" : "https://cz.linkedin.com/in/janamoudra",
+      "name" : "LinkedIn"
+    }, {
+      "icon" : "github",
+      "link" : "https://github.com/Janamou",
+      "name" : "GitHub"
+    } ],
+    "tags" : [ "Android", "Testing", "UiAutomator", "Dart" ],
+    "title" : "Co-Founder"
+  }, {
+    "badges" : [ {
+      "description" : "Google Developers Group Prague",
+      "link" : "https://developers.google.com/groups/chapter/111919016509847766513/",
+      "name" : "GDG"
+    } ],
+    "bio" : "Jakub is a front-end engineer at Shipito interested in modern web frameworks, libraries and tools. Jakub is also a member of GDG Prague and GDG ČVUT in the Czech republic.",
+    "company" : "Shipito",
+    "companyLogo" : "/images/logos/gdg-lviv.svg",
+    "country" : "Prague, Czech Republic",
+    "featured" : false,
+    "id" : 18,
+    "name" : "Jakub Škvára",
+    "photoUrl" : "/images/people/jakub_škvára.jpg",
+    "shortBio" : "Jakub is a front-end engineer at Shipito interested in modern web frameworks, libraries and tools...",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/@skvaros",
+      "name" : "Twitter"
+    }, {
+      "icon" : "gplus",
+      "link" : "https://plus.google.com/+JakubSkvara/",
+      "name" : "Google+"
+    } ],
+    "tags" : [ "Web", "AngularJS", "ReactJS", "NodeJS", "Progressive Web Apps", "RAIL" ],
+    "title" : "Frontend engineer"
+  }, null, null, null, null, null, null, null, {
+    "badges" : [ {
+      "description" : "UI/UX Google Developer Expert",
+      "link" : "https://developers.google.com/experts/people/resul-caner-y-ld-r-m.html",
+      "name" : "GDE"
+    }, {
+      "description" : "Google Developers Group Istanbul",
+      "link" : "https://developers.google.com/groups/chapter/100514812580249787371/",
+      "name" : "GDG"
+    } ],
+    "bio" : "Caner is a GDE on UX/UI who is also a technology geek. Mainly focused on the design and marketing of mobile applications. Passionate about good UX, IoT and Android. He works at InnovationBox, a design agency in Istanbul making and creating apps that users love. Caner has been an organiser of GDG Istanbul since 2013, organising, participating, and speaking at events.",
+    "company" : "InnovationBox",
+    "companyLogo" : "/images/logos/gdg-lviv.svg",
+    "country" : "Istanbul, Turkey",
+    "featured" : false,
+    "id" : 26,
+    "name" : "Resul Caner  Yildirim",
+    "photoUrl" : "/images/people/resul caner_yildirim.jpg",
+    "shortBio" : "Caner is a GDE on UX/UI who is also a technology geek. Mainly focused on the design and marketing...",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/protechman",
+      "name" : "Twitter"
+    }, {
+      "icon" : "gplus",
+      "link" : "https://plus.google.com/+rcaneryildirim",
+      "name" : "Google+"
+    }, {
+      "icon" : "facebook",
+      "link" : "https://facebook.com/r.caner.yildirim",
+      "name" : "Facebook"
+    }, {
+      "icon" : "website",
+      "link" : "https://dribbble.com/protechman",
+      "name" : "Website"
+    }, {
+      "icon" : "linkedin",
+      "link" : "https://linkedin.com/in/protechman",
+      "name" : "LinkedIn"
+    } ],
+    "tags" : [ "Android", "UX/UI", "Android Wear", "IoT" ],
+    "title" : "User Experience Expert"
+  }, {
+    "badges" : [ {
+      "description" : "Android Google Developer Expert",
+      "link" : "https://developers.google.com/experts/people/roman-herasymenko.html",
+      "name" : "GDE"
+    }, {
+      "description" : "Google Developers Group Dnipro",
+      "link" : "https://developers.google.com/groups/chapter/116033068768596939209/",
+      "name" : "GDG"
+    } ],
+    "bio" : "Roman is Founder and CEO at Yamert and a co-organizer of GDG Dnipropetrovsk. Roman is interesting in software development for cutting edge technologies and devices like Google Glass and Android Wear.",
+    "company" : "Yamert",
+    "companyLogo" : "/images/logos/gdg-lviv.svg",
+    "country" : "Dnipro, Ukraine",
+    "featured" : false,
+    "id" : 27,
+    "name" : "Roman Herasymenko",
+    "photoUrl" : "/images/people/roman_herasymenko.jpg",
+    "shortBio" : "Roman is Founder and CEO at Yamert and a co-organizer of GDG Dnipropetrovsk. Roman is interesting...",
+    "socials" : [ {
+      "icon" : "gplus",
+      "link" : "https://plus.google.com/+RomanGerasimenko/",
+      "name" : "Google+"
+    }, {
+      "icon" : "linkedin",
+      "link" : "http://ua.linkedin.com/pub/roman-gerasimenko/",
+      "name" : "LinkedIn"
+    } ],
+    "tags" : [ "Android", "Firebase", "Security" ],
+    "title" : "CEO"
+  } ],
+  "team" : [ {
+    "members" : [ {
+      "name" : "Maye Edwin",
+      "photoUrl" : "/images/people/maye.jpg",
+      "socials" : [ {
+        "icon" : "gplus",
+        "link" : "https://plus.google.com/u/0/+MayeEdwin",
+        "name" : "Google+"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/mayeedwin/",
+        "name" : "Facebook"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/mayeedwin1",
+        "name" : "Twitter"
+      }, {
+        "icon" : "website",
+        "link" : "https://www.linkedin.com/in/mayeedwin/",
+        "name" : "Blog"
+      } ],
+      "title" : "Team Lead, Website"
+    }, {
+      "name" : "Eve Kilel",
+      "photoUrl" : "/images/people/eve.gif",
+      "socials" : [ {
+        "icon" : "gplus",
+        "link" : "https://plus.google.com/109930246211869379617",
+        "name" : "Google+"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/eve.kilel",
+        "name" : "Facebook"
+      } ],
+      "title" : "Logistics and Hospitality"
+    } ],
+    "title" : "Core Team"
+  }, {
+    "members" : [ {
+      "name" : "Maye Edwin",
+      "photoUrl" : "/images/people/maye.jpg",
+      "socials" : [ {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/mayeedwin/",
+        "name" : "Facebook"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/mayeedwin1/",
+        "name" : "Twitter"
+      } ],
+      "title" : "Speakers"
+    }, {
+      "name" : "Eve Kilel",
+      "photoUrl" : "/images/people/eve.gif",
+      "socials" : [ {
+        "icon" : "gplus",
+        "link" : "https://plus.google.com/109930246211869379617",
+        "name" : "Google+"
+      }, {
+        "icon" : "twitter",
+        "link" : "",
+        "name" : "Twitter"
+      }, {
+        "icon" : "website",
+        "link" : "https://plus.google.com/109930246211869379617",
+        "name" : "Website"
+      } ],
+      "title" : "Codelabs"
+    } ],
+    "title" : "Program Committee"
+  } ],
+  "tickets" : {
+    "elements" : [ {
+      "currency" : "ksh",
+      "ends" : "Oct 20",
+      "info" : "Requires valid student ID",
+      "name" : "Student",
+      "price" : 0,
+      "soldOut" : false,
+      "starts" : "Sept 1"
+    }, {
+      "currency" : "ksh",
+      "ends" : "Oct 20",
+      "info" : "Or first 100 tickets",
+      "name" : "Early Bird",
+      "price" : 0,
+      "soldOut" : false,
+      "starts" : "Sept 1"
+    }, {
+      "currency" : "ksh",
+      "ends" : "Oct 21",
+      "name" : "Lazy Bird",
+      "price" : 1000,
+      "soldOut" : false,
+      "starts" : "Sept 1"
+    } ],
+    "url" : ""
+  },
+  "videos" : [ {
+    "speakers" : "GDG Moi",
+    "thumbnail" : "/images/sessions/109.JPG",
+    "title" : "DevFest Rift Valley 2017",
+    "youtubeId" : "9GQi7Fxha0M"
+  }, {
+    "speakers" : "GDG Moi",
+    "thumbnail" : "/images/sessions/116.JPG",
+    "title" : "I/O 17 Recap",
+    "youtubeId" : "-egFcaWtLBM&t=54s"
+  } ]
+}

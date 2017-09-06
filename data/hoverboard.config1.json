@@ -1,0 +1,170 @@
+{
+  "url": "https://devfestriftvalley17.firebaseapp.com/",
+  "startDate": "2017-08-09T09:00:00+03:00",
+  "endDate": "2017-10-10T19:00:00+03:00",
+  "analytics": {
+    "prod": "UA-43643469-8",
+    "dev": "UA-43643469-9"
+  },
+  "organizer": {
+    "name": "GDG Moi | Kabarak | Egerton",
+    "twitter": "GDGMoi"
+  },
+  "webapp": {
+    "shortName": "DevFest",
+    "themeColor": "#F57C00",
+    "backgroundColor": "#F57C00"
+  },
+  "firebase": {
+    "name": "devfestriftvalley",
+    "domain": "devfestriftvalley.firebaseapp.com",
+    "database": "https://devfestriftvalley.firebaseio.com",
+    "api": "AIzaSyCwctQmBd_Ie5tfuQmod0GNqaoADCXcMv0",
+    "userSessionsPath": "/userSessions",
+    "ratingsPath": "/ratings",
+    "indexedDbSession": "hoverboard"
+  },
+
+  "mailchimp": {
+    "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
+    "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
+  },
+  "hashtag": "devfestriftvalley17",
+  "disqusShortName": "devfestriftvalley17",
+  "tweetsSource": "/data/tweets.json",
+  "partnershipProposition": "#",
+  "videosSessionsUrl": "https://www.youtube.com/watch?v=9GQi7Fxha0M",
+  "enableSessionsRating": true,
+  "navigation": [
+    {
+      "route": "home",
+      "permalink": "/"
+    },
+    {
+      "route": "blog",
+      "permalink": "/blog/"
+    },
+    {
+      "route": "schedule",
+      "permalink": "/schedule/"
+    },
+    {
+      "route": "speakers",
+      "permalink": "/speakers/"
+    },
+    {
+      "route": "Leads",
+      "permalink": "/team/"
+    }
+  ],
+  "social": [
+    {
+      "name": "twitter",
+      "nickname": "GDGMoi",
+      "url": "https://twitter.com/GDGMoi"
+    },
+    {
+      "name": "gplus",
+      "nickname": "GDG Moi",
+      "url": "https://plus.google.com/u/0/b/100413733864528613887/+GdgmoiuniAppspotmain"
+    },
+    {
+      "name": "facebook",
+      "nickname": "#",
+      "url": "#"
+    },
+    {
+      "name": "linkedin",
+      "nickname": "GDG Moi",
+      "url": "https://www.linkedin.com/company-beta/18101988/"
+    }
+  ],
+  "location": {
+    "apiKey": "",
+    "name": "Moi University, Main Campus",
+    "address": "Kenya, Uasin Gishu County,Eldoret, Kesses",
+    "link": "https://www.linkedin.com/company-beta/18101988/",
+    "pointer": {
+      "latitude": 0.2867,
+      "longitude": 35.2939,
+      "zoom": 15
+    },
+    "mapCenter": {
+      "latitude": 0.2867,
+      "longitude": 35.2939
+    },
+    "images": [
+      "/images/backgrounds/loc1.jpg",
+      "/images/backgrounds/loc2.jpg",
+      "/images/backgrounds/loc3.jpg"
+    ]
+  },
+  "gallery": {
+    "albumUrl": "https://goo.gl/photos/iKw8hniWZydHDgw29",
+    "photos": {
+      "big": "/images/backgrounds/code.jpg",
+      "small": [
+        "/images/backgrounds/gdgmoi.jpg",
+        "/images/backgrounds/share.jpg"
+      ]
+    }
+  },
+  "pages": {
+    "home": {
+      "title": "Home",
+      "headerSettings": {
+        "backgroundColor": "#1874e6",
+        "backgroundImage": "/images/backgrounds/banner.gif",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff",
+        "video": {
+          "title": "GDG DevFest Rift Valley '17",
+          "youtubeId": "UCIH1cnkXXWJVFEzQUPiXhbQ ",
+          "text": "What to expect"
+        },
+        "hideLogo": true,
+        "minHeight": "360px"
+      }
+    },
+    "blog": {
+      "title": "Blog",
+      "headerSettings": {
+        "backgroundColor": "#03a9f4",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "speakers": {
+      "title": "Speakers",
+      "headerSettings": {
+        "backgroundColor": "#3f51b5",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "schedule": {
+      "title": "Schedule",
+      "headerSettings": {
+        "backgroundColor": "#673ab7",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "team": {
+      "title": "Leads",
+      "headerSettings": {
+        "backgroundColor": "#009688",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "cod": {
+      "title": "Code of Conduct",
+      "headerSettings": {
+        "backgroundColor": "#673ab7",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    }
+  }
+}

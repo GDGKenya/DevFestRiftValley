@@ -1,0 +1,93 @@
+**GDG DevFest Rift Valley '17** has been announced! <br> The 1st edition of the biggest conference about Google technologies in the Rift Valley region takes place on **21.10.2017** at Moi University, Main Campus, Eldoret.
+
+That means that it is time to get out and ATTEND. If you are passionate about meeting new people, sharing ideas, networkng and learning of what amazing things Google and its ecosystem of developers are building everyday, be THERE!
+
+<div class="quote-container reverse">
+  <div class="quote-photo" style="background-image: url('/2015/images/people/jakub_skvara.jpg')"></div>
+  <div class="quote-text-wrapper">
+    <div class="quote-text">"Success for us in this event is to see that we have the right audience in the room and that developers can engage and dialogue on matters technology more even better than in previous events. I cant wait to see what amazing things developers will build in the five codelabs that will be happening."</div>
+    <div class="quote-author">- Maye Edwin, GDG Lead and Software Engineer - Web</div>
+  </div>
+</div>
+
+To keep up this year, we decided to focus on the content. **We We’re looking for a panelist like you**, who are ready to rock the stage and deliver the best panel delibaraton.
+<div class="text-center">
+<a href="" target="_blank" class="style-scope header-content" style="color: white; ">
+  <paper-button class="primary style-scope header-content x-scope paper-button-0" raised="" role="button" tabindex="0" animated="" aria-disabled="false" elevation="1">Submit a proposal</paper-button>
+</a>
+</div>
+
+<br/>
+
+### Why is it cool to be a Panelist?
+
+Well, do you know a better way to attend the conference? Here are our top 3 reasons to [submit a proposal]().
+
+1. **It is good for your career.** By being a panelist, you are proving your level of expertise to a potential business partners or employers.
+2. **It is good for the company you’re working for.** Any presentation delivered by an employee adds credibility to a company’s public image.
+3. **Unique networking.** Being a panelist means you’ll have unique chance to network with other panelists - the best experts in the industry.
+
+
+<div class="quote-container">
+  <div class="quote-photo" style="background-image: url('/2015/images/people/juarez_filho.jpg')"></div>
+  <div class="quote-text-wrapper">
+      <div class="quote-text">"One of the things I am looking forward to is the panel session. I want to understand how do I inform myself better to make sure that I deliver the right product and services as a software engineer in the African market?
+
+"</div>
+      <div class="quote-author">Mutwiri Collins, GDG Moi</div>
+  </div>
+</div>
+<br/>
+
+### 5 Key topics – what do we expect?
+
+Our team prepared set of interesting topics in but if you have any cool idea you want to share not from this list, feel free to submit it as well.
+
+
+#### Google Developer Offerings (Overview)
+* Android
+* Web Apps
+* Firebase
+* Google Cloud
+* Chrome
+* IoT (Android Things)
+* G-Suite
+
+#### Web
+* Progressive Web Apps
+* Polymer 2.0
+* Service Workers
+* Push Notifications
+* Codelab
+
+#### Android Thngs
+* Codelab
+
+#### Firebase
+* Codelab
+
+#### Penetration Testing 101 & Intro to Google CTF's
+* Codelab<br>
+
+
+#### Cyber Security<br>
+
+
+#### Panel Discussion - "Africa and Technology"
+<br/>
+
+**Call for Papers will stay open until October 5, 2017.** Don’t miss out :)
+
+<div class="text-center">
+<a href="" target="_blank" class="style-scope header-content" style="color: white; ">
+  <paper-button class="primary style-scope header-content x-scope paper-button-0" raised="" role="button" tabindex="0" animated="" aria-disabled="false" elevation="1">Submit a proposal</paper-button>
+</a>
+</div>
+<br/>
+
+**Please note:** There is no guarantee that a submission will be put onto the conference agenda! The program committee picks the most interesting talk proposals and informs the selected submitters until July 17, 2016.
+
+Any questions? Email organizers at [gdgmoi@gmail.com](mailto:gdgmoi@gmail.com)
+
+
+

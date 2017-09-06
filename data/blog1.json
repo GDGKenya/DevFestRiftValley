@@ -1,0 +1,29 @@
+[
+  {
+    "id": "devfest-ua-summary",
+    "title": "GDG DevFest 2017 Overview",
+    "posted": "2017-09-01",
+    "primaryColor": "#5a7785",
+    "secondaryColor": "#455a64",
+    "image": "/images/posts/overview.jpg",
+    "brief": "GDG DevFest Rift Valley '17 made even closer. Like any other #devfest, GDG DevFest Rift Valley will come in its own style tailored towards our communities' needs"
+  },
+  {
+    "id": "devfest-2016-announced",
+    "title": "GDG DevFest 2017 Announced",
+    "posted": "2017-01-09",
+    "primaryColor": "#00BCD4",
+    "secondaryColor": "#00BCD4",
+    "image": "/images/posts/gdgmoi.jpg",
+    "brief": "GDG Moi | Kabarak | Egerton are super excited to announce the 1st Ever annual GDG DevFest 2017 which is the biggest Google related event in Kenya superbly crafted by GDG communities in the Rift Valley Region! The event will take place on **21.10.2017** in **Moi University,**  Main Campus - Eldoret."
+  },
+  {
+    "id": "c4p-time",
+    "title": "Call for Papers Time",
+    "posted": "2017-01-09",
+    "primaryColor": "#3F51B5",
+    "secondaryColor": "#3F51B5",
+    "image": "/images/posts/c4p.jpg",
+    "brief": "GDG DevFest Rift Valley 2017 is HERE! The 1ST edition of the biggest conference about Google technologies in Kenya's Rift Valley will take on **October 1** in Kenya's Moi University, Main Campus - Eldoret. That means that it is time to open [call for talk submissions](#)."
+  }
+]

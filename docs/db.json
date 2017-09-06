@@ -1,0 +1,813 @@
+{
+  "partners" : [ {
+    "logos" : [ {
+      "logoUrl" : "../images/logos/gdgmoi.png",
+      "name" : "GDG Moi",
+      "url" : "https://plus.google.com/u/0/b/100413733864528613887",
+      "width" : 170
+    } ],
+    "title" : "Host GDG"
+  }, {
+    "logos" : [ {
+      "logoUrl" : "../images/logos/google.svg",
+      "name" : "Google",
+      "url" : "https://www.google.com.ua/intl/en/about/"
+    }, {
+      "logoUrl" : "../images/logos/gdg-x.svg",
+      "name" : "GDG",
+      "url" : "https://developers.google.com/groups/"
+    } ],
+    "title" : "Key Partners"
+  } ],
+  "ratings" : {
+    "rDTrlaUjPJSLPcZTz2KJKTWjbxa2" : {
+      "sessions" : {
+        "126" : 5,
+        "132" : 5,
+        "136" : 5
+      }
+    }
+  },
+  "schedule" : [ {
+    "date" : "2017-10-21",
+    "dateReadable" : "October 21",
+    "timeslots" : [ {
+      "endTime" : "09:30",
+      "sessions" : [ [ 132 ] ],
+      "startTime" : "08:00"
+    }, {
+      "endTime" : "09:50",
+      "sessions" : [ [ 136 ] ],
+      "startTime" : "09:35"
+    }, {
+      "endTime" : "10:30",
+      "sessions" : [ [ 101 ] ],
+      "startTime" : "09:55"
+    }, {
+      "endTime" : "11:05",
+      "sessions" : [ [ 110 ] ],
+      "startTime" : "10:35"
+    }, {
+      "endTime" : "11:30",
+      "sessions" : [ [ 134 ] ],
+      "startTime" : "11:05"
+    }, {
+      "endTime" : "12:35",
+      "sessions" : [ [ 102 ], [ 107 ], [ 105 ], [106] ],
+      "startTime" : "11:35"
+    }, {
+      "endTime" : "13:30",
+      "sessions" : [  [ 133 ]],
+      "startTime" : "12:40"
+    }, {
+      "endTime" : "14:20",
+      "sessions" : [ [ 104 ]],
+      "startTime" : "13:35"
+    }, {
+      "endTime" : "15:15",
+      "sessions" : [ [ 111 ], [103] ],
+      "startTime" : "14:25"
+    }, {
+      "endTime" : "16:05",
+      "sessions" : [ [ 112 ] ],
+      "startTime" : "15:20"
+    }, {
+      "endTime" : "17:00",
+      "sessions" : [ [ 113 ] ],
+      "startTime" : "16:15"
+    }, {
+      "endTime" : "17:30",
+      "sessions" : [ [ 114 ] ],
+      "startTime" : "17:00"
+    }, {
+      "endTime" : "18:00",
+      "sessions" : [ [ 114 ] ],
+      "startTime" : "17:30"
+    } ],
+    "tracks" : [ {
+      "title" : "Senate Chambers"
+    }, {
+      "title" : "Room A"
+    }, {
+      "title" : "Room B"
+    }, {
+      "title" : "Room C"
+    }
+   ]
+  }, {
+    "date" : "2017-10-22",
+    "dateReadable" : "October 22",
+    "timeslots" : [ {
+      "endTime" : "10:10",
+      "sessions" : [ [ 135 ] ],
+      "startTime" : "09:30"
+    }],
+    "tracks" : [ {
+      "title" : "See you NEXT for GDG DevFest Rift Valley 2018"
+    }]
+  } ],
+  "sessions" : {
+    "101" : {
+      "complexity" : "Beginner",
+      "description" : "GDG DevFest Rift Valley 2017 Keynote speech by Aniedi Udo-Ubong.",
+      "id" : 101,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ 1 ] ,
+      "tags" : [ "Keynote" ],
+      "title" : "Keynote Speech"
+    },
+    "102" : {
+      "complexity" : "Intermediate",
+      "description" : "*PWAs are user experiences that have the reach of the web, and are: Reliable, fast and re-engageable.",
+      "id" : 102,
+      "language" : "English",
+      "presentation" : "https://developers.google.com/web/progressive-web-apps/",      
+      "speakers" : [ ],
+      "tags" : [ "PWA" ],
+      "title" : "Hands-on Progreesive Web Apps."
+    },
+    "103" : {
+      "complexity" : "Beginner",
+      "description" : "Penetration Testing 101 and Introduction to Google CTF’s.",
+      "id" : 103,
+      "language" : "English",
+      "presentation" : "Penetration Testing 101 and Introduction to Google CTF’s.",
+      "speakers" : [ 5 ],
+      "tags" : [ "CTFs" ],
+      "title" : "Penetration Testing & Google CTF’s."
+    },
+    "104" : {
+      "description" : "A Talk about creating and selling software products.",
+      "id" : 104,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ 6 ],
+      "tags" : [ "Software Marketing" ],
+      "title" : "Marketing new technology in Africa",
+      "videoId" : ""
+    },
+    "105" : {
+      "complexity" : "Intermediate",
+      "description" : "Google’s Internet of Things (IoT) solutions make it easy to build connected devices. ",
+      "id" : 105,
+      "language" : "English",
+      "presentation" : "https://developers.google.com/iot/",
+      "speakers" : [ 7 ],
+      "tags" : [ "IoT" ],
+      "title" : "Hands-on Android Things",
+      "videoId" : "v3Dm5aeuQKE"
+    },
+    "106" : {
+      "complexity" : "Beginner",
+      "description" : "Build better mobile apps and grow your business.Fast, without managing infrastructure...",
+      "id" : 106,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ 2 ],
+      "tags" : [ "Firebase" ],
+      "title" : "Firebase",
+      "videoId" : "iosNuIdQoy8"
+    },
+    "108" : {
+      "complexity" : "Beginner",
+      "description" : "Technology in Africa is creating new economic growth opportunities as well as providing a powerful tool to address social challenges.Africa is one of the fastest growing technology markets in the world.The rapid adoption of technology has opened up immense business growth opportunities as well as provided a tool for innovators to address some of the continent's most pressing challenges.",
+      "id" : 108,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [  ],
+      "tags" : [ "Panel" ],
+      "title" : "Panel Dscussion - Africa & Technology",
+      "videoId" : ""
+    },
+    "109" : {
+      "complexity" : "Beginner",
+      "description" : "Wrap -up, networking and Photo Sessions, Interviews",
+      "id" : 109,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ 2 ],
+      "tags" : [ "Fun" ],
+      "title" : "Wrap -up, networking and Photo Sessions, Interviews"
+    },
+    "110" : {
+      "description" : "Intoduction to Google Developer Platforms.",
+      "id" : 110,
+      "language" : "English",
+      "presentation" : "https://developers.google.com",
+      "speakers" : [ 2 ],
+      "tags" : [ "Android" ],
+      "title" : "Intro to Google Developer Platform."
+    },
+    "111" : {
+      "complexity" : "Intermediate",
+      "description" : "Integrating security into software development.",
+      "id" : 111,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ 4 ],
+      "tags" : [ "Web" ],
+      "title" : "Cyber Security & Web."
+    },
+    "112" : {
+ 
+      "description" : "The reality of being a software Engineer that experience only teaches you.",
+      "id" : 112,
+      "language" : "English",
+      "speakers" : [ 7 ],
+      "tags" : [ "Android" ],
+      "title" : "Being a Software Engineer"
+    },
+    "113" : {
+      "description" : "Panel Discussion on *Africa & Technology* -building for africa",
+      "id" : 113,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ 9 ],
+      "tags" : [ "Panel Discussion" ],
+      "title" : "Panel Session"
+    },
+    "114" : {
+      "description" : "Closing Remark, Wrap -up, networking and Photo Sessions, Interviews",
+      "id" : 114,
+      "language" : "English",
+      "speakers" : [ 3 ],
+      "title" : "Closing Remark, Wrap -up, networking and Photo Sessions, Interviews"
+    },
+    "107" : {
+      "complexity" : "Beginner",
+      "description" : "Whether you're new to programming or an experienced developer, get started with Frank Tamre",
+      "id" : 107,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ 9 ],
+      "tags" : [ "Android" ],
+      "title" : "Build your Android development skills",
+      "videoId" : ""
+    },
+    "116" : {
+      "complexity" : "Beginner",
+      "description" : "One of my favourite things about the web are ASCII smileys. They're sweet, fun and simply make the web a better place. How could anyone not like them ¯(ツ)/¯?\n\nThis talk is an overdose of smileys, because they're the perfect excuse to get started with Polymer. Polymer is a library built on top of the Web Components standards that helps developers create reusable components for the modern web. And since I know that everybody has been wondering how one could take over the world by creating a suite of Polymer animated emoticon components, we're going to do exactly that.",
+      "id" : 116,
+      "language" : "English",
+      "presentation" : "http://carmenpopoviciu.github.io/on-polymer-and-smileys/",
+      "speakers" : [ 14 ],
+      "tags" : [ "Web" ],
+      "title" : "On Polymer and smileys... or Polysmileys"
+    },
+    "117" : {
+      "complexity" : "Beginner",
+      "description" : "Data is becoming one of the main decision-makers in an organisation. The more data we have the more challenges we face every day. Every decision we make will have long-term implications. In the talk we will go through different approaches to the data pipelines: from a simple in-house built, with comparison to open source solutions based on Apache stack(Apache Kafka, Apache Samza, Spark) and finally hosted auto-scaling solutions based Amazon(S3, Kinesis, Lambda, EMR) or Google(Pub/Sub, Dataflow, BigQuery). The talk covers the main aspects of data collecting processes altogether with further implications for data processing, highlighting appropriate solutions and architectures for the particular use-cases. ",
+      "id" : 117,
+      "language" : "English",
+      "presentation" : "https://speakerdeck.com/gdglviv/sergii-khomenko-building-data-pipelines-from-simple-to-more-advanced-hands-on-experience",
+      "speakers" : [ 15 ],
+      "tags" : [ "Cloud" ],
+      "title" : "Building data pipelines: from simple to more advanced - hands-on experience"
+    },
+    "118" : {
+      "complexity" : "Intermediate",
+      "description" : "TBD",
+      "id" : 118,
+      "language" : "English",
+      "presentation" : "https://speakerdeck.com/gdglviv/dmytro-danylyk-kotlin-plus-android",
+      "speakers" : [ 16 ],
+      "tags" : [ "Android" ],
+      "title" : "Kotlin + Android"
+    },
+    "119" : {
+      "complexity" : "Beginner",
+      "description" : "Writing Android apps is usually fun because you are actually building something. But what about writing tests? Boring stuff. Errr, UI tests? I am a developer!\n\nIn this talk we will take a look at options for UI tests on Android, why you should write them and how they help you with your app development workflow. No more untested apps!",
+      "id" : 119,
+      "language" : "English",
+      "presentation" : "https://speakerdeck.com/gdglviv/jana-moudra-hands-on-with-ui-testing-for-android-developers",
+      "speakers" : [ 17 ],
+      "tags" : [ "Android" ],
+      "title" : "Hands-on with UI testing for Android developers"
+    },
+    "120" : {
+      "complexity" : "Beginner",
+      "description" : "\"Remember back when AJAX completely changed what was possible in the desktop web? Progressive web apps are that same fundamental shift for the mobile web.\" said Rahul Row-Chowdhury (Google’s product lead for chrome and the web platform) on stage at Google I/O 2016. - Progressive web apps use service workers, app shell, push notifications, RAIL and other capabilities to deliver an app-like user experience.",
+      "id" : 120,
+      "language" : "English",
+      "presentation" : "https://speakerdeck.com/gdglviv/jakub-skvara-progressive-web-apps-prepare-your-web-for-2017",
+      "speakers" : [ 18 ],
+      "tags" : [ "Web" ],
+      "title" : "Progressive web apps - prepare your web for 2017"
+    },
+    "121" : {
+      "complexity" : "Intermediate",
+      "description" : "Using service workers and other modern progressive web apps capabilities we can update our web applications to be offline-fires. In this session we'll show how to easily convert your applications be usable without the internet connection.",
+      "id" : 121,
+      "language" : "English",
+      "speakers" : [ 18 ],
+      "tags" : [ "Web" ],
+      "title" : "Offline-first progressive web apps"
+    },
+    "122" : {
+      "complexity" : "Intermediate",
+      "description" : "I would like to talk about architecture of our Settle Up app. It's all based on new Firebase announced on I/O with the help of modern frameworks like Rx, Kotlin and MVP.",
+      "id" : 122,
+      "language" : "English",
+      "presentation" : "https://speakerdeck.com/gdglviv/david-vavra-firebase-plus-kotlin-plus-rxjava-plus-mvp-practical-tips",
+      "speakers" : [ 19 ],
+      "tags" : [ "Android" ],
+      "title" : "Firebase + Kotlin + RxJava + MVP: Practical Tips",
+      "videoId" : "b9NgjqM6dvk"
+    },
+    "123" : {
+      "complexity" : "Beginner",
+      "description" : "TBD",
+      "id" : 123,
+      "language" : "English",
+      "speakers" : [ 20 ],
+      "tags" : [ "Web" ],
+      "title" : "TBD"
+    },
+    "124" : {
+      "complexity" : "Intermediate",
+      "description" : "You are tired of building every patch for your QA ? Still deploying to google play manually ? You still think that build server is something that you don't need ? Than I will try to show you how you can make life of your team easier with CI.",
+      "id" : 124,
+      "language" : "English",
+      "speakers" : [ 21 ],
+      "tags" : [ "Android" ],
+      "title" : "Continues Integration in Android",
+      "videoId" : "MmGDQkgknfY"
+    },
+    "125" : {
+      "complexity" : "Intermediate",
+      "description" : "TBD",
+      "id" : 125,
+      "language" : "English",
+      "speakers" : [ 22 ],
+      "tags" : [ "Cloud" ],
+      "title" : "Kubernetes in a real world"
+    },
+    "126" : {
+      "complexity" : "Intermediate",
+      "description" : "Imagine the world where you can get any application, look into its code (even if it is not open sourced) and modify any conditional operator in any way you like. Welcome, you are in the Android applications world! Let's discover how anyone can decompile your app and, for example, hack your 'if' operators. For the beginning, we will play a role of a script kiddie and try to hack some simple app. After this, we will pretend security-conscious Android developers and try to think how we can protect ourselves.",
+      "id" : 126,
+      "language" : "English",
+      "presentation" : "https://speakerdeck.com/gdglviv/michael-pustovit-android-hacking-for-dummies-if-operator-demolytion",
+      "speakers" : [ 23 ],
+      "tags" : [ "Android" ],
+      "title" : "Android hacking for dummies: ‘if’ operator demolytion",
+      "videoId" : "We04nyIIsA0"
+    },
+    "127" : {
+      "complexity" : "Intermediate",
+      "description" : "If you have any experience with Android Media Player, you definitely know how hard it is to prepare it and do not lose your mind. ExoPlayer - is an alternative, which can help you deal with media with much less pain. So lets discuss if it really a \"silver bullet\" or yet another State Machine hell.",
+      "id" : 127,
+      "language" : "Ukrainian",
+      "presentation" : "https://speakerdeck.com/gdglviv/anton-minashkin-exoplayer-media-playback-without-pain-almost-dot-dot-dot",
+      "speakers" : [ 24 ],
+      "tags" : [ "Android" ],
+      "title" : "ExoPlayer: Media playback without pain (almost...)"
+    },
+    "128" : {
+      "complexity" : "Beginner",
+      "description" : "Google announced Android Wear 2.0 become available this Fall. This major update brings some revolutionary changes in platform, that should change our approaches in developing wearable apps, including freedom of BLE tethering, system support for complications and activity recognition by GoogleFit, developed mainly for Android Wear 2.0. We will talk deeper about these new features and look at some ways to implement them in the code.",
+      "id" : 128,
+      "language" : "English",
+      "speakers" : [ 25 ],
+      "tags" : [ "Android" ],
+      "title" : "Android Wear 2.0: Great Changes Upcoming this Fall"
+    },
+    "129" : {
+      "complexity" : "Intermediate",
+      "description" : "Accessibility is a very important step to make sure that your app reaches everyone in an easy and fun way to use. \nGood accessibility support means much more than just making sure the app supports screen readers, different fonts sizes and good contrast ratios. It is a learning process, and one in which we ourselves still have much to learn and explore. ",
+      "id" : 129,
+      "language" : "English",
+      "presentation" : "https://speakerdeck.com/gdglviv/resul-caner-yildirim-accessibility-on-android",
+      "speakers" : [ 26 ],
+      "tags" : [ "Android" ],
+      "title" : "Accessibility on Android"
+    },
+    "130" : {
+      "complexity" : "Intermediate",
+      "description" : "Wearable devices are one of the most popular things nowadays. Specially, after the Apple Watch, we finally get the whole picture of the entire list of products and their features. Now, we can talk about how we can design a user experience for this type of devices.\nEvery platform has it's own design principles and approaches. But, in the core, they all need to follow same core rules. So, how we combine this core requirements with Google's Material Design and use them on an Android Wear device? Let's learn!",
+      "id" : 130,
+      "language" : "English",
+      "speakers" : [ 26 ],
+      "tags" : [ "Android" ],
+      "title" : "Designing an Android Wear Application"
+    },
+    "131" : {
+      "complexity" : "Intermediate",
+      "description" : "In this talk, I will reveal you all the deepest secrets of using MVVM architecture in Android. \nWe will discuss on how to organise your application, views, models, how to retrieve data from the model requested from the view via data binding. \nLightweight Activities and Fragments, is it even possible? \n\nYes, and I will show you how to achieve this with MVVM and DataBinding!",
+      "id" : 131,
+      "language" : "English",
+      "presentation" : "https://speakerdeck.com/gdglviv/roman-herasymenko-deal-with-it-android-databinding-explained",
+      "speakers" : [ 27 ],
+      "tags" : [ "Android" ],
+      "title" : "Deal with it: Android DataBinding explained"
+    },
+    "132" : {
+      "description" : "Get your badge, coffee, enjoy talking with fellow devfest fans around",
+      "id" : 132,
+      "image" : "/images/backgrounds/registration.jpg",
+      "title" : "Registration & morning Coffee"
+    },
+    "133" : {
+      "description" : "Foooooooood!",
+      "id" : 133,
+      "image" : "/images/backgrounds/lunch.jpg",
+      "title" : "Lunch"
+    },
+    "134" : {
+      "description" : "Tea break is 25 minutes ONLY! Keep time! ENJOY!",
+      "id" : 134,
+      "image" : "/images/backgrounds/coffee-break.jpg",
+      "title" : "Tea break"
+    },
+    "135" : {
+      "description" : "Coffeeeeeee!",
+      "id" : 135,
+      "image" : "/images/backgrounds/morning.jpg",
+      "title" : "Morning coffee"
+    },
+    "136" : {
+      "description" : "Intro and Greetings from Guests, GDG leads, Conference Opening",
+      "id" : 136,
+      "speakers" : [3],
+      "image" : "/images/backgrounds/opening.jpg",
+      "language" : "English",
+      "title" : "GDG DevFest Rift Valley 2017 Opening"
+    },
+    "137" : {
+      "description" : "Photo shoot, departure! Bye!",
+      "id" : 115,
+      "image" : "/images/backgrounds/party.jpg",
+      "title" : "Afterparty & Networking"
+    },
+    "138" : {
+      "description" : "Wrap -up, networking and Photo Sessions, Interviews",
+      "id" : 114,
+      "image" : "/images/backgrounds/closing.jpg",
+      "title" : "Conference closing and contest winners announcements"
+    }
+  },
+  "speakers" : [ null,
+    {
+      "bio" : "IT Professional, Drupal & Open Source Evangelist, .NET developer (previous life), with over 10 years post-tertiary experience working with startups in the Human Resources (Computer-Based Testing), Media & Finance (Mobile Money) industries. End-to-end JavaScript Developer & Evangelist learning & working with Node, Express, Underscore, Backbone, Angular, JSON (NoSQL) databases etc. Product Manager, Software Project Manager, IT Strategist, Trainer, Speaker",
+      "company" : "Google",
+      "companyLogo" : "/images/logos/google.svg",
+      "country" : "Nigeria, Africa",
+      "featured" : true,
+      "id" : 1,
+      "name" : "Aniedi Udo-Ubong",
+      "photoUrl" : "/images/people/aniedi.jpg",
+      "shortBio" : "Google Developer Ecosystem Program Manager, Sub-Saharan Africa",
+      "socials" : [ {
+        "icon" : "gplus",
+        "link" : "https://plus.google.com/+AniediUdoObong",
+        "name" : "Google+"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/aniediudo/?ppe=1",
+        "name" : "LinkedIn"
+      } ],
+      "tags" : [ "Keynote"],
+      "title" : "Developer Ecosystem Manager, SSA, Google"
+    }, 
+    
+    {
+    "badges" : [ {
+      "description" : "GDG Kenya Country Mentor",
+      "link" : "https://developers.google.com/groups/",
+      "name" : "GDG"
+    } ],
+    "bio" : "Dennis is a .NET Full Stack Developer, User Experience Design ovator, GDG JKUAT Lead and GDG Kenya Country Mentor.",
+    "company" : "Google",
+    "companyLogo" : "/images/logos/google.svg",
+    "country" : "Nairobi, Kenya",
+    "featured" : true,
+    "id" : 2,
+    "name" : "Dennis Riungu",
+    "photoUrl" : "/images/people/dennis.jpg",
+    "shortBio" : "Dennis is a .NET Full Stack Developer, User Experience Design ova...",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/dennisriungu/",
+      "name" : "LinkedIn"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/denpalrius",
+      "name" : "Twitter"
+    }, {
+      "icon" : "github",
+      "link" : "https://github.com/denpalrius",
+      "name" : "GitHub"
+    } ],
+    "tags" : [ "Web" ],
+    "title" : "GDG Kenya Country Mentor"
+  }, {
+    "badges" : [ {
+      "description" : "WomanTechmaker Kabarak",
+      "link" : "https://www.womentechmakers.com/",
+      "name" : "WTM"
+    } ],
+    "bio" : "Passionate about and knowledgeable on web, network and application security, software development, penetration testing and business intelligence.",
+    "company" : "EY",
+    "companyLogo" : "/images/logos/ey.png",
+    "country" : "Nairobi, Kenya",
+    "featured" : true,
+    "id" : 3,
+    "name" : "Eve Kilel",
+    "photoUrl" : "/images/people/evekilel.jpg",
+    "shortBio" : "A Bsc. Computer Science (Software Engineering Major) graduate from Kabarak University. Passionate about...",
+    "socials" : [ {
+      "icon" : "facebook",
+      "link" : "https://www.facebook.com/eve.kilel.96?ref=br_rs",
+      "name" : "Facebook"
+    }, {
+      "icon" : "twitter",
+      "link" : "",
+      "name" : "Twitter"
+    }, {
+      "icon" : "gplus",
+      "link" : "https://plus.google.com/109930246211869379617",
+      "name" : "Google+"
+    } ],
+    "tags" : [ "CTFs", "Security"],
+    "title" : "Information Security Specalist At EY"
+  }, {
+    "bio" : "Experienced Information Security Analyst with a demonstrated history of working in the Information Technology industry. Skilled in Cloud Computing(Microsoft Azure), Virtualization,Cyber Threat Intelligence, Log Analysis,Incidence Management and Linux Systems Administration.",
+    "company" : "ICT Authority",
+    "companyLogo" : "/images/logos/ictauthority.png",
+    "country" : "Nairobi, Kenya",
+    "featured" : true,
+    "id" : 4,
+    "name" : "Trevor Kaon",
+    "photoUrl" : "/images/people/kaontrevor.jpg",
+    "shortBio" : "Experienced Information Security Analyst with a demonstrated history of working...",
+    "socials" : [ {
+      "icon" : "website",
+      "link" : "https://www.linkedin.com/in/trevor-kaon/?ppe=1",
+      "name" : "Website"
+    }, {
+      "icon" : "twitter",
+      "link" : "",
+      "name" : "Twitter"
+    }, {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/trevor-kaon/?ppe=1",
+      "name" : "LinkedIn"
+    } ],
+    "tags" : [ "Security","Web" ],
+    "title" : "Security Analyst &Fabric Administrator"
+  },{
+    "bio" : "Information security specialist with expertise in web, mobile and network applications vulnerability assesment and penetration testing, security intelligence and implementation of ISO 27001 security framework.",
+    "company" : "EY",
+    "companyLogo" : "/images/logos/ey.png",
+    "country" : "Nairobi, Kenya",
+    "featured" : true,
+    "id" : 5,
+    "name" : "Laura Tich",
+    "photoUrl" : "/images/people/lauratich.jpg",
+    "shortBio" : "Information security specialist with expertise in web, mobile and network applications vulnerability assesment...",
+    "socials" : [ {
+      "icon" : "gplus",
+      "link" : "",
+      "name" : "Google+"
+    },
+    {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/laura-tich-49b08270/",
+      "name" : "LinkedIn"
+    }, {
+      "icon" : "twitter",
+      "link" : "",
+      "name" : "Twitter"
+    }, {
+      "icon" : "facebook",
+      "link" : "",
+      "name" : "Facebook"
+    } 
+   ],
+    "tags" : [ "Android", "Web" ],
+    "title" : "Information Security Analyst"
+  },
+   {
+    "bio" : "A creative, detail oriented, social and an avid learner of trans-disciplines.With 2- years of experience with different organizations growing their various technology uptake initiatives. This includes roles in business development, marketing and direct/indirect sales roles within Africa.",
+    "company" : "Oracle",
+    "companyLogo" : "/images/logos/oracle.png",
+    "country" : "Nairobi, Kenya",
+    "featured" : true,
+    "id" : 6,
+    "name" : "Maryanne Ndanu",
+    "photoUrl" : "/images/people/ndanuanne.jpg",
+    "shortBio" : "A creative, detail oriented, social and an avid learner of trans-disciplines.With 2- years of experience...",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/maryannendanu/",
+      "name" : "LinkedIn"
+    }, {
+      "icon" : "twitter",
+      "link" : "",
+      "name" : "Twitter"
+    }, {
+      "icon" : "gplus",
+      "link" : "",
+      "name" : "Google+"
+    }, {
+      "icon" : "facebook",
+      "link" : "",
+      "name" : "Facebook"
+    } ],
+    "tags" : [ "Cloud", "Software Marketing" ],
+    "title" : "Technology Sales Consultant - West & Central Africa"
+  }, {
+   
+    "bio" : "Frank is a Software Engineer, instructor and Mentor. He loves teaching, coaching and building solutions.",
+    "company" : "IG",
+    "companyLogo" : "/images/logos/gdg-x.svg",
+    "country" : "Nairobi, Kenya",
+    "featured" : false,
+    "id" : 7,
+    "name" : "Frank Tamre",
+    "photoUrl" : "/images/people/franktamre.jpg",
+    "shortBio" : "Frank is a Software Engineer, instructor and Mentor...",
+    "socials" : [ {
+      "icon" : "gplus",
+      "link" : "",
+      "name" : "Google+"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/tamrefrank",
+      "name" : "Twitter"
+    }, {
+      "icon" : "linkedin",
+      "link" : "",
+      "name" : "LinkedIn"
+    } ],
+    "tags" : [ "Android" ],
+    "title" : "Android Developer"
+  }, {
+    "bio" : "A highly motivated Telecommunications Engineering student, a community organizer, a maker and an educator.I purpose to achieve my full potential in my chosen academic field and undertakings,always aiming to apply my knowledge,training, and skills to improve myself and my environment through engineering.",
+    "company" : "GDG",
+    "companyLogo" : "/images/logos/gdg-x.svg",
+    "country" : "Nyeri, Kenya",
+    "featured" : true,
+    "id" : 8,
+    "name" : "Ngesa Marvin",
+    "photoUrl" : "/images/people/ngesa.jpg",
+    "shortBio" : "A highly motivated Telecommunications Engineering student, a community... ",
+    "socials" : [ {
+      "icon" : "facebook",
+      "link" : "https://www.facebook.com/public/Ngesa-Marvin",
+      "name" : "Facebook"
+    }, {
+      "icon" : "github",
+      "link" : "https://github.com/ngesa254",
+      "name" : "GitHub"
+    },
+    {
+      "icon" : "linkedin",
+      "link" : "https://ke.linkedin.com/in/engngesamarvin",
+      "name" : "LinkedIn"
+    }
+   ],
+    "tags" : [ "Android", "IoT" ],
+    "title" : "Internet of Things (IoT) Champion for GDGs in SSA"
+  },
+   {
+    "bio" : " A software engineer passionate about technology and community development. She has served as team leader in several youth led organizations including the esteemed Google Student Ambassador Programme in Sub Saharan Africa, Malindi Red Cross Youth and the vibrant Rotaract Club University of Nairobi.",
+    "company" : "Google",
+    "companyLogo" : "/images/logos/google.svg",
+    "country" : "Nairobi, Kenya",
+    "featured" : true,
+    "id" : 9,
+    "name" : "Omondi Vivian",
+    "photoUrl" : "/images/people/vivian.jpg",
+    "shortBio" : "A software engineer passionate about technology and community development...",
+    "socials" : [ {
+      "icon" : "github",
+      "link" : "",
+      "name" : "GitHub"
+    }, {
+      "icon" : "linkedin",
+      "link" : "",
+      "name" : "LinkedIn"
+    } ],
+    "tags" : [ "Web" ],
+    "title" : "Google Developer Ecosystem Community Manager Sub-Saharan Africa"
+  }
+],
+  "team" : [ {
+    "members" : [ {
+      "name" : "Maye Edwin",
+      "photoUrl" : "/images/people/maye.jpg",
+      "socials" : [ {
+        "icon" : "gplus",
+        "link" : "https://plus.google.com/u/0/+MayeEdwin",
+        "name" : "Google+"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/mayeedwin/",
+        "name" : "Facebook"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/mayeedwin1",
+        "name" : "Twitter"
+      }, {
+        "icon" : "website",
+        "link" : "https://www.linkedin.com/in/mayeedwin/",
+        "name" : "Blog"
+      } ],
+      "title" : "Lead Organizer"
+    }, {
+      "name" : "Eve Kilel",
+      "photoUrl" : "/images/people/kilel.jpg",
+      "socials" : [ {
+        "icon" : "gplus",
+        "link" : "https://plus.google.com/109930246211869379617",
+        "name" : "Google+"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/eve.kilel",
+        "name" : "Facebook"
+      } ],
+      "title" : "Logistics and Hospitality"
+    } ],
+    "title" : "Core Team"
+  }, {
+    "members" : [ {
+      "name" : "Anthony Lmo",
+      "photoUrl" : "/images/people/limotony.jpg",
+      "socials" : [ {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/tonytakesontech/",
+        "name" : "Facebook"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/AnthonyLimo?lang=en",
+        "name" : "Twitter"
+      } ],
+      "title" : "Media"
+    }, {
+      "name" : "Maggie Wamboi",
+      "photoUrl" : "/images/people/maggie.jpg",
+      "socials" : [ {
+        "icon" : "gplus",
+        "link" : "",
+        "name" : "Google+"
+      }, {
+        "icon" : "twitter",
+        "link" : "",
+        "name" : "Twitter"
+      }, {
+        "icon" : "website",
+        "link" : "http://www.artgalore.co.ke/",
+        "name" : "Website"
+      } ],
+      "title" : "Venue, Meals"
+    } ],
+    "title" : "Event"
+  } ],
+  "tickets" : {
+    "elements" : [ {
+      "currency" : "ksh",
+      "ends" : "Oct 20",
+      "info" : "Requires valid student ID",
+      "name" : "Student",
+      "price" : 0,
+      "soldOut" : false,
+      "starts" : "Sept 1"
+    }, {
+      "currency" : "ksh",
+      "ends" : "Oct 20",
+      "info" : "First 50 tickets",
+      "name" : "Early Bird",
+      "price" : 0,
+      "soldOut" : false,
+      "starts" : "Sept 1"
+    }, {
+      "currency" : "ksh",
+      "ends" : "Oct 21",
+      "name" : "Lazy Bird",
+      "price" : 1000,
+      "soldOut" : false,
+      "starts" : "Sept 1"
+    } ],
+    "url" : ""
+  },
+  "userSessions" : {
+    "rDTrlaUjPJSLPcZTz2KJKTWjbxa2" : {
+      "132" : true,
+      "136" : true,
+      "null" : true
+    }
+  },
+  "videos" : [ {
+    "speakers" : "GDG Moi",
+    "thumbnail" : "/images/sessions/session1.JPG",
+    "title" : "DevFest Rift Valley 2017",
+    "youtubeId" : "9GQi7Fxha0M"
+  }, {
+    "speakers" : "GDG Moi",
+    "thumbnail" : "/images/sessions/session2.JPG",
+    "title" : "Google I/O 17 Recap",
+    "youtubeId" : "-egFcaWtLBM&t=54s"
+  } ]
+}
