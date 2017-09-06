@@ -16,6 +16,11 @@
       "logoUrl" : "../images/logos/gdg-x.svg",
       "name" : "GDG",
       "url" : "https://developers.google.com/groups/"
+    }
+    , {
+      "logoUrl" : "../images/logos/andela.png",
+      "name" : "Andela",
+      "url" : "https://andela.com/join/"
     } ],
     "title" : "Key Partners"
   } ],
@@ -29,8 +34,8 @@
     }
   },
   "schedule" : [ {
-    "date" : "2017-10-21",
-    "dateReadable" : "October 21",
+    "date" : "2017-10-14",
+    "dateReadable" : "October 14",
     "timeslots" : [ {
       "endTime" : "09:30",
       "sessions" : [ [ 132 ] ],
@@ -95,8 +100,8 @@
     }
    ]
   }, {
-    "date" : "2017-10-22",
-    "dateReadable" : "October 22",
+    "date" : "2017-10-14",
+    "dateReadable" : "October 15",
     "timeslots" : [ {
       "endTime" : "10:10",
       "sessions" : [ [ 135 ] ],
@@ -111,6 +116,7 @@
       "complexity" : "Beginner",
       "description" : "GDG DevFest Rift Valley 2017 Keynote speech by Aniedi Udo-Ubong.",
       "id" : 101,
+      "image" : "/images/people/aniedi.jpg",
       "language" : "English",
       "presentation" : "",
       "speakers" : [ 1 ] ,
@@ -121,6 +127,7 @@
       "complexity" : "Intermediate",
       "description" : "*PWAs are user experiences that have the reach of the web, and are: Reliable, fast and re-engageable.",
       "id" : 102,
+      "image" : "/images/backgrounds/reallyworked.JPG",
       "language" : "English",
       "presentation" : "https://developers.google.com/web/progressive-web-apps/",      
       "speakers" : [ ],
@@ -150,6 +157,7 @@
     "105" : {
       "complexity" : "Intermediate",
       "description" : "Google’s Internet of Things (IoT) solutions make it easy to build connected devices. ",
+      "image" : "/images/backgrounds/share.JPG",
       "id" : 105,
       "language" : "English",
       "presentation" : "https://developers.google.com/iot/",
@@ -162,9 +170,10 @@
       "complexity" : "Beginner",
       "description" : "Build better mobile apps and grow your business.Fast, without managing infrastructure...",
       "id" : 106,
+      "image" : "/images/backgrounds/share.JPG",
       "language" : "English",
       "presentation" : "",
-      "speakers" : [ 2 ],
+      "speakers" : [ 10 ],
       "tags" : [ "Firebase" ],
       "title" : "Firebase",
       "videoId" : "iosNuIdQoy8"
@@ -184,6 +193,7 @@
       "complexity" : "Beginner",
       "description" : "Wrap -up, networking and Photo Sessions, Interviews",
       "id" : 109,
+      "image" : "/images/backgrounds/sharecake.JPG",
       "language" : "English",
       "presentation" : "",
       "speakers" : [ 2 ],
@@ -194,6 +204,7 @@
       "description" : "Intoduction to Google Developer Platforms.",
       "id" : 110,
       "language" : "English",
+   
       "presentation" : "https://developers.google.com",
       "speakers" : [ 2 ],
       "tags" : [ "Android" ],
@@ -204,6 +215,7 @@
       "description" : "Integrating security into software development.",
       "id" : 111,
       "language" : "English",
+      
       "presentation" : "",
       "speakers" : [ 4 ],
       "tags" : [ "Web" ],
@@ -214,6 +226,7 @@
       "description" : "The reality of being a software Engineer that experience only teaches you.",
       "id" : 112,
       "language" : "English",
+      "image" : "/images/backgrounds/share.JPG",
       "speakers" : [ 7 ],
       "tags" : [ "Android" ],
       "title" : "Being a Software Engineer"
@@ -230,6 +243,7 @@
     "114" : {
       "description" : "Closing Remark, Wrap -up, networking and Photo Sessions, Interviews",
       "id" : 114,
+      "image" : "/images/backgrounds/gdgmoi2.JPG",
       "language" : "English",
       "speakers" : [ 3 ],
       "title" : "Closing Remark, Wrap -up, networking and Photo Sessions, Interviews"
@@ -405,7 +419,7 @@
     "132" : {
       "description" : "Get your badge, coffee, enjoy talking with fellow devfest fans around",
       "id" : 132,
-      "image" : "/images/backgrounds/registration.jpg",
+      "image" : "/images/backgrounds/newdevfest4.jpg",
       "title" : "Registration & morning Coffee"
     },
     "133" : {
@@ -417,33 +431,33 @@
     "134" : {
       "description" : "Tea break is 25 minutes ONLY! Keep time! ENJOY!",
       "id" : 134,
-      "image" : "/images/backgrounds/coffee-break.jpg",
+      "image" : "/images/backgrounds/tea.JPG",
       "title" : "Tea break"
     },
     "135" : {
       "description" : "Coffeeeeeee!",
       "id" : 135,
-      "image" : "/images/backgrounds/morning.jpg",
+      "image" : "/images/backgrounds/break2.JPG",
       "title" : "Morning coffee"
     },
     "136" : {
       "description" : "Intro and Greetings from Guests, GDG leads, Conference Opening",
       "id" : 136,
       "speakers" : [3],
-      "image" : "/images/backgrounds/opening.jpg",
+      "image" : "/images/backgrounds/newdevfest4.jpg",
       "language" : "English",
-      "title" : "GDG DevFest Rift Valley 2017 Opening"
+      "title" : "DevFest Rift Valley 2017 Opening"
     },
     "137" : {
       "description" : "Photo shoot, departure! Bye!",
       "id" : 115,
-      "image" : "/images/backgrounds/party.jpg",
+      "image" : "/images/backgrounds/sharecake.JPG",
       "title" : "Afterparty & Networking"
     },
     "138" : {
       "description" : "Wrap -up, networking and Photo Sessions, Interviews",
       "id" : 114,
-      "image" : "/images/backgrounds/closing.jpg",
+      "image" : "/images/backgrounds/sharecake.JPG",
       "title" : "Conference closing and contest winners announcements"
     }
   },
@@ -485,7 +499,7 @@
     "id" : 2,
     "name" : "Dennis Riungu",
     "photoUrl" : "/images/people/dennis.jpg",
-    "shortBio" : "Dennis is a .NET Full Stack Developer, User Experience Design ova...",
+    "shortBio" : "Dennis is a .NET Full Stack Developer, User Experience Design...",
     "socials" : [ {
       "icon" : "linkedin",
       "link" : "https://www.linkedin.com/in/dennisriungu/",
@@ -515,7 +529,7 @@
     "id" : 3,
     "name" : "Eve Kilel",
     "photoUrl" : "/images/people/evekilel.jpg",
-    "shortBio" : "A Bsc. Computer Science (Software Engineering Major) graduate from Kabarak University. Passionate about...",
+    "shortBio" : "A Bsc. Computer Science (Software Engineering Major) graduate from Kabarak University...",
     "socials" : [ {
       "icon" : "facebook",
       "link" : "https://www.facebook.com/eve.kilel.96?ref=br_rs",
@@ -565,7 +579,7 @@
     "id" : 5,
     "name" : "Laura Tich",
     "photoUrl" : "/images/people/lauratich.jpg",
-    "shortBio" : "Information security specialist with expertise in web, mobile and network applications vulnerability assesment...",
+    "shortBio" : "Information security specialist with expertise in web, mobile and network applications...",
     "socials" : [ {
       "icon" : "gplus",
       "link" : "",
@@ -651,7 +665,7 @@
     "featured" : true,
     "id" : 8,
     "name" : "Ngesa Marvin",
-    "photoUrl" : "/images/people/ngesa.jpg",
+    "photoUrl" : "/images/people/ngesa.jpeg",
     "shortBio" : "A highly motivated Telecommunications Engineering student, a community... ",
     "socials" : [ {
       "icon" : "facebook",
@@ -693,6 +707,29 @@
     "tags" : [ "Web" ],
     "title" : "Google Developer Ecosystem Community Manager Sub-Saharan Africa"
   }
+  ,
+  {
+   "bio" : " A software engineer passionate about technology and community development. She has served as team leader in several youth led organizations including the esteemed Google Student Ambassador Programme in Sub Saharan Africa, Malindi Red Cross Youth and the vibrant Rotaract Club University of Nairobi.",
+   "company" : "Google",
+   "companyLogo" : "/images/logos/andela.png",
+   "country" : "Nairobi, Kenya",
+   "featured" : true,
+   "id" : 10,
+   "name" : "Andela Facilitator",
+   "photoUrl" : "",
+   "shortBio" : "A software engineer passionate about technology and community development...",
+   "socials" : [ {
+     "icon" : "github",
+     "link" : "",
+     "name" : "GitHub"
+   }, {
+     "icon" : "linkedin",
+     "link" : "",
+     "name" : "LinkedIn"
+   } ],
+   "tags" : [ "Firebase" ],
+   "title" : "Andela Developer"
+ }
 ],
   "team" : [ {
     "members" : [ {
@@ -728,12 +765,12 @@
         "link" : "https://www.facebook.com/eve.kilel",
         "name" : "Facebook"
       } ],
-      "title" : "Logistics and Hospitality"
+      "title" : "Speakers and Guests"
     } ],
     "title" : "Core Team"
   }, {
     "members" : [ {
-      "name" : "Anthony Lmo",
+      "name" : "Anthony Limo",
       "photoUrl" : "/images/people/limotony.jpg",
       "socials" : [ {
         "icon" : "facebook",
@@ -745,7 +782,36 @@
         "name" : "Twitter"
       } ],
       "title" : "Media"
-    }, {
+    },
+    {
+      "name" : "Blasio Ojenge",
+      "photoUrl" : "/images/people/limotony.jpg",
+      "socials" : [ {
+        "icon" : "facebook",
+        "link" : "",
+        "name" : "Facebook"
+      }, {
+        "icon" : "twitter",
+        "link" : "",
+        "name" : "Twitter"
+      } ],
+      "title" : "Registration/Attendees"
+    },
+    {
+      "name" : "Wambui Kaburi",
+      "photoUrl" : "/images/people/wambui.jpg",
+      "socials" : [ {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/wambu.kaburi",
+        "name" : "Facebook"
+      }, {
+        "icon" : "twitter",
+        "link" : "",
+        "name" : "Twitter"
+      } ],
+      "title" : "Meals"
+    },
+    {
       "name" : "Maggie Wamboi",
       "photoUrl" : "/images/people/maggie.jpg",
       "socials" : [ {
@@ -760,15 +826,17 @@
         "icon" : "website",
         "link" : "http://www.artgalore.co.ke/",
         "name" : "Website"
-      } ],
-      "title" : "Venue, Meals"
-    } ],
+      }
+    ],
+      "title" : "Meals"
+    }
+  ],
     "title" : "Event"
   } ],
   "tickets" : {
     "elements" : [ {
       "currency" : "ksh",
-      "ends" : "Oct 20",
+      "ends" : "Oct 12",
       "info" : "Requires valid student ID",
       "name" : "Student",
       "price" : 0,
@@ -776,17 +844,18 @@
       "starts" : "Sept 1"
     }, {
       "currency" : "ksh",
-      "ends" : "Oct 20",
-      "info" : "First 50 tickets",
+      "ends" : "Oct 12",
+      "info" : "First 50 tickets to guests",
       "name" : "Early Bird",
       "price" : 0,
       "soldOut" : false,
       "starts" : "Sept 1"
     }, {
       "currency" : "ksh",
-      "ends" : "Oct 21",
+      "ends" : "Oct 13",
+      "info" : "Those who RSVP late",
       "name" : "Lazy Bird",
-      "price" : 1000,
+      "price" : 500,
       "soldOut" : false,
       "starts" : "Sept 1"
     } ],

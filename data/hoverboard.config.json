@@ -12,8 +12,8 @@
   },
   "webapp": {
     "shortName": "DevFest 2017",
-    "themeColor": "green",
-    "backgroundColor": "green"
+    "themeColor": "#37484f",
+    "backgroundColor": "#37484f"
   },
   
   "firebase": {

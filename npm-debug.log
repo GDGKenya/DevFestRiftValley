@@ -10,7 +10,7 @@
 6 silly lifecycle hoverboard@1.2.0~prebuild: no script for prebuild, continuing
 7 info lifecycle hoverboard@1.2.0~build: hoverboard@1.2.0
 8 verbose lifecycle hoverboard@1.2.0~build: unsafe-perm in lifecycle true
-9 verbose lifecycle hoverboard@1.2.0~build: PATH: C:\Program Files\nodejs\node_modules\npm\bin\node-gyp-bin;C:\Users\Maye Edwin\Documents\GitHub\DevFestRiftValley\node_modules\.bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\Maye Edwin\AppData\Local\Microsoft\WindowsApps;C:\Users\Maye Edwin\AppData\Roaming\npm;D:\Microsoft VS Code\bin
+9 verbose lifecycle hoverboard@1.2.0~build: PATH: C:\Program Files\nodejs\node_modules\npm\bin\node-gyp-bin;C:\Users\Maye Edwin\Documents\GitHub\DevFestRiftValley\node_modules\.bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\Maye Edwin\AppData\Local\Microsoft\WindowsApps;C:\Users\Maye Edwin\AppData\Roaming\npm
 10 verbose lifecycle hoverboard@1.2.0~build: CWD: C:\Users\Maye Edwin\Documents\GitHub\DevFestRiftValley
 11 silly lifecycle hoverboard@1.2.0~build: Args: [ '/d /s /c', 'gulp' ]
 12 verbose stack Error: kill ENOSYS
