@@ -84,11 +84,7 @@
       "endTime" : "17:30",
       "sessions" : [ [ 114 ] ],
       "startTime" : "17:00"
-    }, {
-      "endTime" : "18:00",
-      "sessions" : [ [ 114 ] ],
-      "startTime" : "17:30"
-    } ],
+    }],
     "tracks" : [ {
       "title" : "Senate Chambers"
     }, {
@@ -193,7 +189,7 @@
       "complexity" : "Beginner",
       "description" : "Wrap -up, networking and Photo Sessions, Interviews",
       "id" : 109,
-      "image" : "/images/backgrounds/sharecake.JPG",
+
       "language" : "English",
       "presentation" : "",
       "speakers" : [ 2 ],
@@ -444,7 +440,7 @@
       "description" : "Intro and Greetings from Guests, GDG leads, Conference Opening",
       "id" : 136,
       "speakers" : [3],
-      "image" : "/images/backgrounds/newdevfest4.jpg",
+ 
       "language" : "English",
       "title" : "DevFest Rift Valley 2017 Opening"
     },
@@ -523,7 +519,7 @@
     } ],
     "bio" : "Passionate about and knowledgeable on web, network and application security, software development, penetration testing and business intelligence.",
     "company" : "EY",
-    "companyLogo" : "/images/logos/ey.png",
+    "companyLogo" : "/images/logos/ey2.png",
     "country" : "Nairobi, Kenya",
     "featured" : true,
     "id" : 3,
@@ -573,7 +569,7 @@
   },{
     "bio" : "Information security specialist with expertise in web, mobile and network applications vulnerability assesment and penetration testing, security intelligence and implementation of ISO 27001 security framework.",
     "company" : "EY",
-    "companyLogo" : "/images/logos/ey.png",
+    "companyLogo" : "/images/logos/ey2.png",
     "country" : "Nairobi, Kenya",
     "featured" : true,
     "id" : 5,
