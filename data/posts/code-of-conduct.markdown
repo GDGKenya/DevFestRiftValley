@@ -2,6 +2,7 @@
 
 
 A primary goal of [GDG Moi | Kabarak | Egerton]() is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof). 
+
 We prides ourself on being open, respectful, and inclusive communities. That means the [jerky behavior]() isn’t allowed at GDG Events.
 
 This code of conduct outlines our expectations for all those who participate in our communities, as well as the consequences for unacceptable behavior.
@@ -9,7 +10,9 @@ We invite all those who participate in Google Developers Group to help us create
 
 # 2. Open [Source/Culture/Tech] Citizenship
 
-A supplemental goal of this Code of Conduct is to increase open [source/culture/tech] citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community. Communities mirror the societies in which they exist, and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society. If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know.
+A supplemental goal of this Code of Conduct is to increase open [source/culture/tech] citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community. 
+
+Communities mirror the societies in which they exist, and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society. If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know.
 
 # 3. Expected Behavior
 
@@ -45,9 +48,11 @@ If a community member engages in unacceptable behavior, the community organizers
 
 # 6. Scope
 
-We expect all community participants to abide by this Code of Conduct in all community venues–online and in-person–as well as in all one-on-one communications about community business. This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to affect the safety and well-being of community members adversely.
+We expect all community participants to abide by this Code of Conduct in all community venues–online and in-person–as well as in all one-on-one communications about community business. 
+
+This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to affect the safety and well-being of community members adversely.
 
 # 7. Contact info
 
-- Maye Edwin, +254 713 850 804, [mayedwine1@gmail.com](mailto:mayedwine1@gmail.com) ,[gdgmoi@gmail.com](mailto:gdgmoi@gmail.com)
+- Maye Edwin, +254 713 850 804, [mayedwine1@gmail.com](mailto:mayedwine1@gmail.com) ,[gdgmoi1@gmail.com](mailto:gdgmoi1@gmail.com)
 

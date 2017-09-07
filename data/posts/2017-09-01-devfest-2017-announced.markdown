@@ -24,10 +24,6 @@ All active GDG chapters are invited to host their own DevFest event for their co
 
 By the way, it’s pleasure to announce that [call for papers]() is opened! Apply and share with us your knowledge and experience.
 
-Also, watch our **Promo video**
-
-<iframe width="560" height="300" src="https://www.youtube.com/watch?v=9GQi7Fxha0M" frameborder="1" allowfullscreen></iframe>
-
 You can find information about registration, speakers, tickets and other latest news on the [conference website](),[LinkedIn](https://www.linkedin.com/company-beta/18101988/), [Twitter](https://twitter.com/intent/user?screen_name=GDGMoi) or [Google+](https://plus.google.com/u/0/b/100413733864528613887/+GdgmoiuniAppspotmain). Don’t miss anything interesting!
 
 And most importantly: **Be THERE!**

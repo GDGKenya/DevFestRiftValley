@@ -125,13 +125,13 @@
     },
     "102" : {
       "complexity" : "Intermediate",
-      "description" : "*PWAs are user experiences that have the reach of the web, and are: Reliable, fast and re-engageable.",
+      "description" : "*Progressive Web Apps are user experiences that have the reach of the web, and are: Reliable, fast and re-engageable.",
       "id" : 102,
-      "image" : "/images/backgrounds/reallyworked.JPG",
+    
       "language" : "English",
       "presentation" : "https://developers.google.com/web/progressive-web-apps/",      
       "speakers" : [ ],
-      "tags" : [ "PWA" ],
+      "tags" : [ "Web", "PWA" ],
       "title" : "Hands-on Progreesive Web Apps."
     },
     "103" : {
@@ -157,12 +157,12 @@
     "105" : {
       "complexity" : "Intermediate",
       "description" : "Google’s Internet of Things (IoT) solutions make it easy to build connected devices. ",
-      "image" : "/images/backgrounds/share.JPG",
+    
       "id" : 105,
       "language" : "English",
       "presentation" : "https://developers.google.com/iot/",
       "speakers" : [ 7 ],
-      "tags" : [ "IoT" ],
+      "tags" : [ "Android Things" ],
       "title" : "Hands-on Android Things",
       "videoId" : "v3Dm5aeuQKE"
     },
@@ -170,7 +170,7 @@
       "complexity" : "Beginner",
       "description" : "Build better mobile apps and grow your business.Fast, without managing infrastructure...",
       "id" : 106,
-      "image" : "/images/backgrounds/share.JPG",
+   
       "language" : "English",
       "presentation" : "",
       "speakers" : [ 10 ],
@@ -185,7 +185,7 @@
       "language" : "English",
       "presentation" : "",
       "speakers" : [  ],
-      "tags" : [ "Panel" ],
+      "tags" : [ "Panel Discussion" ],
       "title" : "Panel Dscussion - Africa & Technology",
       "videoId" : ""
     },
@@ -226,7 +226,7 @@
       "description" : "The reality of being a software Engineer that experience only teaches you.",
       "id" : 112,
       "language" : "English",
-      "image" : "/images/backgrounds/share.JPG",
+    
       "speakers" : [ 7 ],
       "tags" : [ "Android" ],
       "title" : "Being a Software Engineer"
@@ -682,7 +682,7 @@
       "name" : "LinkedIn"
     }
    ],
-    "tags" : [ "Android", "IoT" ],
+    "tags" : [ "Android Things" ],
     "title" : "Internet of Things (IoT) Champion for GDGs in SSA"
   },
    {
@@ -785,7 +785,7 @@
     },
     {
       "name" : "Blasio Ojenge",
-      "photoUrl" : "/images/people/limotony.jpg",
+      "photoUrl" : "",
       "socials" : [ {
         "icon" : "facebook",
         "link" : "",
@@ -831,7 +831,7 @@
       "title" : "Meals"
     }
   ],
-    "title" : "Event"
+    "title" : "Event Team"
   } ],
   "tickets" : {
     "elements" : [ {

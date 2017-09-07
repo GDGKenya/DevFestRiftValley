@@ -8,12 +8,13 @@
   },
   "organizer": {
     "name": "GDG Moi | Kabarak | Egerton",
+
     "twitter": "GDGMoi"
   },
   "webapp": {
     "shortName": "DevFest 2017",
-    "themeColor": "#37484f",
-    "backgroundColor": "#37484f"
+    "themeColor": "#557dbe",
+    "backgroundColor": "#557dbe"
   },
   
   "firebase": {
@@ -114,7 +115,7 @@
     "home": {
       "title": "Home",
       "headerSettings": {
-        "backgroundColor": "#1874e6",
+        "backgroundColor": "#557dbe",
         "backgroundImage": "/images/backgrounds/banner.gif",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
@@ -130,7 +131,7 @@
     "blog": {
       "title": "Blog",
       "headerSettings": {
-        "backgroundColor": "#3f51b5",
+        "backgroundColor": "#557dbe",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
@@ -138,7 +139,7 @@
     "speakers": {
       "title": "Speakers",
       "headerSettings": {
-        "backgroundColor": "#3f51b5",
+        "backgroundColor": "#557dbe",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
@@ -146,7 +147,7 @@
     "schedule": {
       "title": "Schedule",
       "headerSettings": {
-        "backgroundColor": "#3f51b5",       
+        "backgroundColor": "#119d58",       
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
@@ -154,7 +155,7 @@
     "team": {
       "title": "Leads",
       "headerSettings": {
-        "backgroundColor": "#3f51b5",
+        "backgroundColor": "#119d58",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
@@ -162,7 +163,7 @@
     "cod": {
       "title": "Code of Conduct",
       "headerSettings": {
-        "backgroundColor": "#673ab7",
+        "backgroundColor": "#557dbe",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
