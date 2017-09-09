@@ -7,12 +7,18 @@
       "width" : 170
     } ],
     "title" : "Host GDG"
-  }, {
+  }
+  , {
     "logos" : [ {
       "logoUrl" : "../images/logos/google.svg",
       "name" : "Google",
       "url" : "https://www.google.com.ua/intl/en/about/"
-    }, {
+    }],
+    "title" : "General Sponsor"
+  } 
+  
+  , {
+    "logos" : [ {
       "logoUrl" : "../images/logos/gdg-x.svg",
       "name" : "GDG",
       "url" : "https://developers.google.com/groups/"
@@ -35,7 +41,7 @@
   },
   "schedule" : [ {
     "date" : "2017-10-14",
-    "dateReadable" : "October 14",
+    "dateReadable" : "November 14",
     "timeslots" : [ {
       "endTime" : "09:30",
       "sessions" : [ [ 132 ] ],
@@ -96,8 +102,8 @@
     }
    ]
   }, {
-    "date" : "2017-10-14",
-    "dateReadable" : "October 15",
+    "date" : "2017-11-04",
+    "dateReadable" : "November 04",
     "timeslots" : [ {
       "endTime" : "10:10",
       "sessions" : [ [ 135 ] ],
@@ -116,7 +122,7 @@
       "language" : "English",
       "presentation" : "",
       "speakers" : [ 1 ] ,
-      "tags" : [ "Keynote" ],
+      "tags" : [ "Keynote"],
       "title" : "Keynote Speech"
     },
     "102" : {
@@ -458,11 +464,17 @@
     }
   },
   "speakers" : [ null,
+    
     {
+      "badges" : [ {
+        "description" : "Google Developer Ecosystem Program Manager",
+        "link" : "https://developers.google.com/groups/",
+        "name" : "GDG"
+      } ],
       "bio" : "IT Professional, Drupal & Open Source Evangelist, .NET developer (previous life), with over 10 years post-tertiary experience working with startups in the Human Resources (Computer-Based Testing), Media & Finance (Mobile Money) industries. End-to-end JavaScript Developer & Evangelist learning & working with Node, Express, Underscore, Backbone, Angular, JSON (NoSQL) databases etc. Product Manager, Software Project Manager, IT Strategist, Trainer, Speaker",
       "company" : "Google",
       "companyLogo" : "/images/logos/google.svg",
-      "country" : "Nigeria, Africa",
+      "country" : "Lagos, Nigeria",
       "featured" : true,
       "id" : 1,
       "name" : "Aniedi Udo-Ubong",
@@ -477,7 +489,7 @@
         "link" : "https://www.linkedin.com/in/aniediudo/?ppe=1",
         "name" : "LinkedIn"
       } ],
-      "tags" : [ "Keynote"],
+      "tags" : [ "Keynote", "Cloud"],
       "title" : "Developer Ecosystem Manager, SSA, Google"
     }, 
     
@@ -489,7 +501,7 @@
     } ],
     "bio" : "Dennis is a .NET Full Stack Developer, User Experience Design ovator, GDG JKUAT Lead and GDG Kenya Country Mentor.",
     "company" : "Google",
-    "companyLogo" : "/images/logos/google.svg",
+    "companyLogo" : "/images/logos/gdg-x.svg",
     "country" : "Nairobi, Kenya",
     "featured" : true,
     "id" : 2,
@@ -654,15 +666,15 @@
     "tags" : [ "Android" ],
     "title" : "Android Developer"
   }, {
-    "bio" : "A highly motivated Telecommunications Engineering student, a community organizer, a maker and an educator.I purpose to achieve my full potential in my chosen academic field and undertakings,always aiming to apply my knowledge,training, and skills to improve myself and my environment through engineering.",
+    "bio" : "He is currently serving the Intel Community as a Student Ambassador, and the Google Developer Groups, as the Internet of Things champion (SSA) where he is responsible for presentations, training and sharing contents on The Internet of Things, Artificial Intelligence and Electronic Design & Prototyping.He also co-organize the Google Developer Groups, GDG Kimathi University.",
     "company" : "GDG",
     "companyLogo" : "/images/logos/gdg-x.svg",
     "country" : "Nyeri, Kenya",
     "featured" : true,
     "id" : 8,
     "name" : "Ngesa Marvin",
-    "photoUrl" : "/images/people/ngesa.jpeg",
-    "shortBio" : "A highly motivated Telecommunications Engineering student, a community... ",
+    "photoUrl" : "/images/people/ngesa.jpg",
+    "shortBio" : "Telecommunications Engineering student, a community organizer, a maker and an educator.",
     "socials" : [ {
       "icon" : "facebook",
       "link" : "https://www.facebook.com/public/Ngesa-Marvin",
@@ -855,7 +867,7 @@
       "soldOut" : false,
       "starts" : "Sept 1"
     } ],
-    "url" : ""
+    "url" : "https://goo.gl/forms/e5tkgI6la7bE9KqH2"
   },
   "userSessions" : {
     "rDTrlaUjPJSLPcZTz2KJKTWjbxa2" : {
@@ -870,6 +882,18 @@
     "title" : "DevFest Rift Valley 2017",
     "youtubeId" : "9GQi7Fxha0M"
   }, {
+    "speakers" : "GDG Moi",
+    "thumbnail" : "/images/sessions/session2.JPG",
+    "title" : "Google I/O 17 Recap",
+    "youtubeId" : "-egFcaWtLBM&t=54s"
+  },
+  {
+    "speakers" : "GDG Moi",
+    "thumbnail" : "/images/sessions/session1.JPG",
+    "title" : "DevFest Rift Valley 2017",
+    "youtubeId" : "9GQi7Fxha0M"
+  }
+  , {
     "speakers" : "GDG Moi",
     "thumbnail" : "/images/sessions/session2.JPG",
     "title" : "Google I/O 17 Recap",
