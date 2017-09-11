@@ -1,11 +1,11 @@
-**GDG DevFest Rift Valley '17** has been announced! <br> The 1st edition of the biggest conference about Google technologies in the Rift Valley region takes place on **04.11.2017** at Moi University, Main Campus, Eldoret.
+**DevFest Rift Valley 2017** has been announced! <br><br>The 1st edition of the biggest conference about Google technologies in the Rift Valley region takes place on **18.11.2017** at Moi University, Main Campus, Eldoret.
 
 That means that it is time to get out and ATTEND. If you are passionate about meeting new people, sharing ideas, networkng and learning of what amazing things Google and its ecosystem of developers are building everyday, be THERE!
 
 <div class="quote-container reverse">
   <div class="quote-photo" style="background-image: url('/images/people/maye.jpg')"></div>
   <div class="quote-text-wrapper">
-    <div class="quote-text">"Success for us in this event is to see that we have the right audience in the room and that developers can engage and dialogue on matters technology more even better than in previous events. I cant wait to see what amazing things developers will build in the five codelabs that will be happening."</div>
+    <div class="quote-text"><br>"**Success for us in this event is to see that we have the right audience in the room and that developers can engage and dialogue on matters technology more even better than in previous events. I cant wait to see what amazing things developers will build in the five codelabs that will be happening.**"</div>
     <div class="quote-author">- Maye Edwin, GDG Lead and Software Engineer - Web</div>
   </div>
 </div>
@@ -67,16 +67,17 @@ Our team prepared set of interesting topics in but if you have any cool idea you
 * Codelab
 
 #### Penetration Testing 101 & Intro to Google CTF's
-* Codelab<br>
+* Codelab<br><br>
 
 
-#### Cyber Security<br>
+#### Cyber Security
+<br><br>
 
 
 #### Panel Discussion - "Africa and Technology"
 <br/>
 
-**Call for Papers will stay open until October 5, 2017.** Don’t miss out :)
+**Call for Papers will stay open until November 1, 2017.** Don’t miss out :)
 
 <div class="text-center">
 <a href="" target="_blank" class="style-scope header-content" style="color: white; ">
@@ -85,7 +86,7 @@ Our team prepared set of interesting topics in but if you have any cool idea you
 </div>
 <br/>
 
-**Please note:** There is no guarantee that a submission will be put onto the conference agenda! The program committee picks the most interesting talk proposals and informs the selected submitters until July 17, 2016.
+**Please note:** There is no guarantee that a submission will be put onto the conference agenda! The program committee picks the most interesting talk proposals and informs the selected submitters until November 05, 2016.
 
 Any questions? Email organizers at [gdgmoi1@gmail.com](mailto:gdgmoi1@gmail.com)
 

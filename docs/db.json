@@ -27,6 +27,11 @@
       "logoUrl" : "../images/logos/andela.png",
       "name" : "Andela",
       "url" : "https://andela.com/join/"
+    }
+    , {
+      "logoUrl" : "../images/logos/maye.png",
+      "name" : "-maye",
+      "url" : "https://andela.com/join/"
     } ],
     "title" : "Key Partners"
   } ],
@@ -40,8 +45,8 @@
     }
   },
   "schedule" : [ {
-    "date" : "2017-10-14",
-    "dateReadable" : "November 14",
+    "date" : "2017-11-18",
+    "dateReadable" : "November 18",
     "timeslots" : [ {
       "endTime" : "09:30",
       "sessions" : [ [ 132 ] ],
@@ -102,8 +107,8 @@
     }
    ]
   }, {
-    "date" : "2017-11-04",
-    "dateReadable" : "November 04",
+    "date" : "2017-11-19",
+    "dateReadable" : "November 19",
     "timeslots" : [ {
       "endTime" : "10:10",
       "sessions" : [ [ 135 ] ],
