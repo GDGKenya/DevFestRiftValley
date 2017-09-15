@@ -26,12 +26,12 @@
     , {
       "logoUrl" : "../images/logos/andela.png",
       "name" : "Andela",
-      "url" : "https://andela.com/join/"
+      "url" : "https://andela.com"
     }
     , {
       "logoUrl" : "../images/logos/maye.png",
       "name" : "-maye",
-      "url" : "https://andela.com/join/"
+      "url" : "https://www.linkedin.com/in/mayeedwin/"
     } ],
     "title" : "Key Partners"
   } ],
@@ -849,7 +849,7 @@
   "tickets" : {
     "elements" : [ {
       "currency" : "ksh",
-      "ends" : "Oct 12",
+      "ends" : "Nov 10",
       "info" : "Requires valid student ID",
       "name" : "Student",
       "price" : 0,
@@ -857,7 +857,7 @@
       "starts" : "Sept 1"
     }, {
       "currency" : "ksh",
-      "ends" : "Oct 12",
+      "ends" : "Nov 10",
       "info" : "First 50 tickets to guests",
       "name" : "Early Bird",
       "price" : 0,
@@ -865,7 +865,7 @@
       "starts" : "Sept 1"
     }, {
       "currency" : "ksh",
-      "ends" : "Oct 13",
+      "ends" : "Nov 15",
       "info" : "Those who RSVP late",
       "name" : "Lazy Bird",
       "price" : 500,
@@ -891,6 +891,12 @@
     "thumbnail" : "/images/sessions/session2.JPG",
     "title" : "Google I/O 17 Recap",
     "youtubeId" : "-egFcaWtLBM&t=54s"
+  }
+  , {
+    "speakers" : "GDG Moi",
+    "thumbnail" : "/images/sessions/session2.JPG",
+    "title" : "Google I/O 17 Recap",
+    "youtubeId" : "-egFcaWtLBM&t=54s"
   },
   {
     "speakers" : "GDG Moi",
@@ -898,10 +904,5 @@
     "title" : "DevFest Rift Valley 2017",
     "youtubeId" : "9GQi7Fxha0M"
   }
-  , {
-    "speakers" : "GDG Moi",
-    "thumbnail" : "/images/sessions/session2.JPG",
-    "title" : "Google I/O 17 Recap",
-    "youtubeId" : "-egFcaWtLBM&t=54s"
-  } ]
+ ]
 }
