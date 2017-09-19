@@ -26,4 +26,4 @@ By the way, it’s pleasure to announce that [call for papers]() is opened! Appl
 
 You can find information about registration, speakers, tickets and other latest news on the [conference website](),[LinkedIn](https://www.linkedin.com/company-beta/18101988/), [Twitter](https://twitter.com/intent/user?screen_name=GDGMoi) or [Google+](https://plus.google.com/u/0/b/100413733864528613887/+GdgmoiuniAppspotmain). Don’t miss anything interesting!
 
-And most importantly: **Be THERE!**
+And most importantly: **Be THERE, be a MAKER!**

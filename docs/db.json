@@ -7,31 +7,18 @@
       "width" : 170
     } ],
     "title" : "Host GDG"
-  }
-  , {
+  }, {
     "logos" : [ {
       "logoUrl" : "../images/logos/google.svg",
       "name" : "Google",
       "url" : "https://www.google.com.ua/intl/en/about/"
-    }],
+    } ],
     "title" : "General Sponsor"
-  } 
-  
-  , {
+  }, {
     "logos" : [ {
       "logoUrl" : "../images/logos/gdg-x.svg",
       "name" : "GDG",
       "url" : "https://developers.google.com/groups/"
-    }
-    , {
-      "logoUrl" : "../images/logos/andela.png",
-      "name" : "Andela",
-      "url" : "https://andela.com"
-    }
-    , {
-      "logoUrl" : "../images/logos/maye.png",
-      "name" : "-maye",
-      "url" : "https://www.linkedin.com/in/mayeedwin/"
     } ],
     "title" : "Key Partners"
   } ],
@@ -69,19 +56,19 @@
       "startTime" : "11:05"
     }, {
       "endTime" : "12:35",
-      "sessions" : [ [ 102 ], [ 107 ], [ 105 ], [106] ],
+      "sessions" : [ [ 102 ], [ 107 ], [ 105 ], [ 106 ] ],
       "startTime" : "11:35"
     }, {
       "endTime" : "13:30",
-      "sessions" : [  [ 133 ]],
+      "sessions" : [ [ 133 ] ],
       "startTime" : "12:40"
     }, {
       "endTime" : "14:20",
-      "sessions" : [ [ 104 ]],
+      "sessions" : [ [ 104 ] ],
       "startTime" : "13:35"
     }, {
       "endTime" : "15:15",
-      "sessions" : [ [ 111 ], [103] ],
+      "sessions" : [ [ 111 ], [ 103 ] ],
       "startTime" : "14:25"
     }, {
       "endTime" : "16:05",
@@ -95,17 +82,16 @@
       "endTime" : "17:30",
       "sessions" : [ [ 114 ] ],
       "startTime" : "17:00"
-    }],
+    } ],
     "tracks" : [ {
-      "title" : "Senate Chambers"
+      "title" : "The Senate Chambers"
     }, {
       "title" : "Room A"
     }, {
       "title" : "Room B"
     }, {
       "title" : "Room C"
-    }
-   ]
+    } ]
   }, {
     "date" : "2017-11-19",
     "dateReadable" : "November 19",
@@ -113,10 +99,10 @@
       "endTime" : "10:10",
       "sessions" : [ [ 135 ] ],
       "startTime" : "09:30"
-    }],
+    } ],
     "tracks" : [ {
       "title" : "See you NEXT for GDG DevFest Rift Valley 2018"
-    }]
+    } ]
   } ],
   "sessions" : {
     "101" : {
@@ -126,18 +112,16 @@
       "image" : "/images/people/aniedi.jpg",
       "language" : "English",
       "presentation" : "",
-      "speakers" : [ 1 ] ,
-      "tags" : [ "Keynote"],
+      "speakers" : [ 1 ],
+      "tags" : [ "Keynote" ],
       "title" : "Keynote Speech"
     },
     "102" : {
       "complexity" : "Intermediate",
       "description" : "*Progressive Web Apps are user experiences that have the reach of the web, and are: Reliable, fast and re-engageable.",
       "id" : 102,
-    
       "language" : "English",
-      "presentation" : "https://developers.google.com/web/progressive-web-apps/",      
-      "speakers" : [ ],
+      "presentation" : "https://developers.google.com/web/progressive-web-apps/",
       "tags" : [ "Web", "PWA" ],
       "title" : "Hands-on Progreesive Web Apps."
     },
@@ -164,12 +148,11 @@
     "105" : {
       "complexity" : "Intermediate",
       "description" : "Google’s Internet of Things (IoT) solutions make it easy to build connected devices. ",
-    
       "id" : 105,
       "language" : "English",
       "presentation" : "https://developers.google.com/iot/",
-      "speakers" : [ 7 ],
-      "tags" : [ "Android Things" ],
+      "speakers" : [ 8 ],
+      "tags" : [ "Android Things","Android" ],
       "title" : "Hands-on Android Things",
       "videoId" : "v3Dm5aeuQKE"
     },
@@ -177,7 +160,6 @@
       "complexity" : "Beginner",
       "description" : "Build better mobile apps and grow your business.Fast, without managing infrastructure...",
       "id" : 106,
-   
       "language" : "English",
       "presentation" : "",
       "speakers" : [ 10 ],
@@ -185,13 +167,23 @@
       "title" : "Firebase",
       "videoId" : "iosNuIdQoy8"
     },
+    "107" : {
+      "complexity" : "Beginner",
+      "description" : "Whether you're new to programming or an experienced developer, get started with Frank Tamre",
+      "id" : 107,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ 9 ],
+      "tags" : [ "Android" ],
+      "title" : "Build your Android development skills",
+      "videoId" : ""
+    },
     "108" : {
       "complexity" : "Beginner",
       "description" : "Technology in Africa is creating new economic growth opportunities as well as providing a powerful tool to address social challenges.Africa is one of the fastest growing technology markets in the world.The rapid adoption of technology has opened up immense business growth opportunities as well as provided a tool for innovators to address some of the continent's most pressing challenges.",
       "id" : 108,
       "language" : "English",
       "presentation" : "",
-      "speakers" : [  ],
       "tags" : [ "Panel Discussion" ],
       "title" : "Panel Dscussion - Africa & Technology",
       "videoId" : ""
@@ -200,7 +192,6 @@
       "complexity" : "Beginner",
       "description" : "Wrap -up, networking and Photo Sessions, Interviews",
       "id" : 109,
-
       "language" : "English",
       "presentation" : "",
       "speakers" : [ 2 ],
@@ -211,7 +202,6 @@
       "description" : "Intoduction to Google Developer Platforms.",
       "id" : 110,
       "language" : "English",
-   
       "presentation" : "https://developers.google.com",
       "speakers" : [ 2 ],
       "tags" : [ "Android" ],
@@ -222,18 +212,15 @@
       "description" : "Integrating security into software development.",
       "id" : 111,
       "language" : "English",
-      
       "presentation" : "",
       "speakers" : [ 4 ],
       "tags" : [ "Web" ],
       "title" : "Cyber Security & Web."
     },
     "112" : {
- 
       "description" : "The reality of being a software Engineer that experience only teaches you.",
       "id" : 112,
       "language" : "English",
-    
       "speakers" : [ 7 ],
       "tags" : [ "Android" ],
       "title" : "Being a Software Engineer"
@@ -254,17 +241,6 @@
       "language" : "English",
       "speakers" : [ 3 ],
       "title" : "Closing Remark, Wrap -up, networking and Photo Sessions, Interviews"
-    },
-    "107" : {
-      "complexity" : "Beginner",
-      "description" : "Whether you're new to programming or an experienced developer, get started with Frank Tamre",
-      "id" : 107,
-      "language" : "English",
-      "presentation" : "",
-      "speakers" : [ 9 ],
-      "tags" : [ "Android" ],
-      "title" : "Build your Android development skills",
-      "videoId" : ""
     },
     "116" : {
       "complexity" : "Beginner",
@@ -450,9 +426,8 @@
     "136" : {
       "description" : "Intro and Greetings from Guests, GDG leads, Conference Opening",
       "id" : 136,
-      "speakers" : [3],
- 
       "language" : "English",
+      "speakers" : [ 3 ],
       "title" : "DevFest Rift Valley 2017 Opening"
     },
     "137" : {
@@ -468,37 +443,33 @@
       "title" : "Conference closing and contest winners announcements"
     }
   },
-  "speakers" : [ null,
-    
-    {
-      "badges" : [ {
-        "description" : "Google Developer Ecosystem Program Manager",
-        "link" : "https://developers.google.com/groups/",
-        "name" : "GDG"
-      } ],
-      "bio" : "IT Professional, Drupal & Open Source Evangelist, .NET developer (previous life), with over 10 years post-tertiary experience working with startups in the Human Resources (Computer-Based Testing), Media & Finance (Mobile Money) industries. End-to-end JavaScript Developer & Evangelist learning & working with Node, Express, Underscore, Backbone, Angular, JSON (NoSQL) databases etc. Product Manager, Software Project Manager, IT Strategist, Trainer, Speaker",
-      "company" : "Google",
-      "companyLogo" : "/images/logos/google.svg",
-      "country" : "Lagos, Nigeria",
-      "featured" : true,
-      "id" : 1,
-      "name" : "Aniedi Udo-Ubong",
-      "photoUrl" : "/images/people/aniedi.jpg",
-      "shortBio" : "Google Developer Ecosystem Program Manager, Sub-Saharan Africa",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+AniediUdoObong",
-        "name" : "Google+"
-      }, {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/aniediudo/?ppe=1",
-        "name" : "LinkedIn"
-      } ],
-      "tags" : [ "Keynote", "Cloud"],
-      "title" : "Developer Ecosystem Manager, SSA, Google"
-    }, 
-    
-    {
+  "speakers" : [ null, {
+    "badges" : [ {
+      "description" : "Google Developer Ecosystem Program Manager",
+      "link" : "https://developers.google.com/groups/",
+      "name" : "GDG"
+    } ],
+    "bio" : "IT Professional, Drupal & Open Source Evangelist, .NET developer (previous life), with over 10 years post-tertiary experience working with startups in the Human Resources (Computer-Based Testing), Media & Finance (Mobile Money) industries. End-to-end JavaScript Developer & Evangelist learning & working with Node, Express, Underscore, Backbone, Angular, JSON (NoSQL) databases etc. Product Manager, Software Project Manager, IT Strategist, Trainer, Speaker",
+    "company" : "Google",
+    "companyLogo" : "/images/logos/google.svg",
+    "country" : "Lagos, Nigeria",
+    "featured" : true,
+    "id" : 1,
+    "name" : "Aniedi Udo-Ubong",
+    "photoUrl" : "/images/people/aniedi.jpg",
+    "shortBio" : "Google Developer Ecosystem Program Manager, Sub-Saharan Africa",
+    "socials" : [ {
+      "icon" : "gplus",
+      "link" : "https://plus.google.com/+AniediUdoObong",
+      "name" : "Google+"
+    }, {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/aniediudo/?ppe=1",
+      "name" : "LinkedIn"
+    } ],
+    "tags" : [ "Keynote", "Cloud" ],
+    "title" : "Developer Ecosystem Manager, SSA, Google"
+  }, {
     "badges" : [ {
       "description" : "GDG Kenya Country Mentor",
       "link" : "https://developers.google.com/groups/",
@@ -556,7 +527,7 @@
       "link" : "https://plus.google.com/109930246211869379617",
       "name" : "Google+"
     } ],
-    "tags" : [ "CTFs", "Security"],
+    "tags" : [ "CTFs", "Security" ],
     "title" : "Information Security Specalist At EY"
   }, {
     "bio" : "Experienced Information Security Analyst with a demonstrated history of working in the Information Technology industry. Skilled in Cloud Computing(Microsoft Azure), Virtualization,Cyber Threat Intelligence, Log Analysis,Incidence Management and Linux Systems Administration.",
@@ -581,9 +552,9 @@
       "link" : "https://www.linkedin.com/in/trevor-kaon/?ppe=1",
       "name" : "LinkedIn"
     } ],
-    "tags" : [ "Security","Web" ],
+    "tags" : [ "Security", "Web" ],
     "title" : "Security Analyst &Fabric Administrator"
-  },{
+  }, {
     "bio" : "Information security specialist with expertise in web, mobile and network applications vulnerability assesment and penetration testing, security intelligence and implementation of ISO 27001 security framework.",
     "company" : "EY",
     "companyLogo" : "/images/logos/ey2.png",
@@ -597,8 +568,7 @@
       "icon" : "gplus",
       "link" : "",
       "name" : "Google+"
-    },
-    {
+    }, {
       "icon" : "linkedin",
       "link" : "https://www.linkedin.com/in/laura-tich-49b08270/",
       "name" : "LinkedIn"
@@ -607,24 +577,23 @@
       "link" : "",
       "name" : "Twitter"
     }, {
+      
       "icon" : "facebook",
       "link" : "",
       "name" : "Facebook"
-    } 
-   ],
+    } ],
     "tags" : [ "Android", "Web" ],
     "title" : "Information Security Analyst"
-  },
-   {
-    "bio" : "A creative, detail oriented, social and an avid learner of trans-disciplines.With 2- years of experience with different organizations growing their various technology uptake initiatives. This includes roles in business development, marketing and direct/indirect sales roles within Africa.",
+  }, {
+    "bio" : "Oracle Marketing Manager Kenya, EA & SADC. Mentor ",
     "company" : "Oracle",
     "companyLogo" : "/images/logos/oracle.png",
     "country" : "Nairobi, Kenya",
     "featured" : true,
     "id" : 6,
     "name" : "Maryanne Ndanu",
-    "photoUrl" : "/images/people/ndanuanne.jpg",
-    "shortBio" : "A creative, detail oriented, social and an avid learner of trans-disciplines.With 2- years of experience...",
+    "photoUrl" : "/images/people/annndanu.jpg",
+    "shortBio" : "Oracle Marketing Manager Kenya, EA & SADC. Mentor.",
     "socials" : [ {
       "icon" : "linkedin",
       "link" : "https://www.linkedin.com/in/maryannendanu/",
@@ -645,7 +614,6 @@
     "tags" : [ "Cloud", "Software Marketing" ],
     "title" : "Technology Sales Consultant - West & Central Africa"
   }, {
-   
     "bio" : "Frank is a Software Engineer, instructor and Mentor. He loves teaching, coaching and building solutions.",
     "company" : "IG",
     "companyLogo" : "/images/logos/gdg-x.svg",
@@ -688,17 +656,14 @@
       "icon" : "github",
       "link" : "https://github.com/ngesa254",
       "name" : "GitHub"
-    },
-    {
+    }, {
       "icon" : "linkedin",
       "link" : "https://ke.linkedin.com/in/engngesamarvin",
       "name" : "LinkedIn"
-    }
-   ],
-    "tags" : [ "Android Things" ],
+    } ],
+    "tags" : [ "Android Things", "Android" ],
     "title" : "Internet of Things (IoT) Champion for GDGs in SSA"
-  },
-   {
+  }, {
     "bio" : " A software engineer passionate about technology and community development. She has served as team leader in several youth led organizations including the esteemed Google Student Ambassador Programme in Sub Saharan Africa, Malindi Red Cross Youth and the vibrant Rotaract Club University of Nairobi.",
     "company" : "Google",
     "companyLogo" : "/images/logos/google.svg",
@@ -706,7 +671,7 @@
     "featured" : true,
     "id" : 9,
     "name" : "Omondi Vivian",
-    "photoUrl" : "/images/people/vivian.jpg",
+    "photoUrl" : "/images/people/akinyi.jpg",
     "shortBio" : "A software engineer passionate about technology and community development...",
     "socials" : [ {
       "icon" : "github",
@@ -719,31 +684,28 @@
     } ],
     "tags" : [ "Web" ],
     "title" : "Google Developer Ecosystem Community Manager Sub-Saharan Africa"
-  }
-  ,
-  {
-   "bio" : " A software engineer passionate about technology and community development. She has served as team leader in several youth led organizations including the esteemed Google Student Ambassador Programme in Sub Saharan Africa, Malindi Red Cross Youth and the vibrant Rotaract Club University of Nairobi.",
-   "company" : "Google",
-   "companyLogo" : "/images/logos/andela.png",
-   "country" : "Nairobi, Kenya",
-   "featured" : true,
-   "id" : 10,
-   "name" : "Andela Facilitator",
-   "photoUrl" : "",
-   "shortBio" : "A software engineer passionate about technology and community development...",
-   "socials" : [ {
-     "icon" : "github",
-     "link" : "",
-     "name" : "GitHub"
-   }, {
-     "icon" : "linkedin",
-     "link" : "",
-     "name" : "LinkedIn"
-   } ],
-   "tags" : [ "Firebase" ],
-   "title" : "Andela Developer"
- }
-],
+  }, {
+    "bio" : " A software engineer passionate about technology and community development. She has served as team leader in several youth led organizations including the esteemed Google Student Ambassador Programme in Sub Saharan Africa, Malindi Red Cross Youth and the vibrant Rotaract Club University of Nairobi.",
+    "company" : "Google",
+    "companyLogo" : "/images/logos/andela.png",
+    "country" : "Nairobi, Kenya",
+    "featured" : true,
+    "id" : 10,
+    "name" : "Andela Facilitator",
+    "photoUrl" : "",
+    "shortBio" : "A software engineer passionate about technology and community development...",
+    "socials" : [ {
+      "icon" : "github",
+      "link" : "",
+      "name" : "GitHub"
+    }, {
+      "icon" : "linkedin",
+      "link" : "",
+      "name" : "LinkedIn"
+    } ],
+    "tags" : [ "Firebase" ],
+    "title" : "Andela Developer"
+  } ],
   "team" : [ {
     "members" : [ {
       "name" : "Maye Edwin",
@@ -761,12 +723,43 @@
         "link" : "https://twitter.com/mayeedwin1",
         "name" : "Twitter"
       }, {
-        "icon" : "website",
+        "icon" : "linkedin",
         "link" : "https://www.linkedin.com/in/mayeedwin/",
-        "name" : "Blog"
+        "name" : "LinkedIn"
       } ],
       "title" : "Lead Organizer"
-    }, {
+    }
+  ],
+    "title" : "Core Team"
+  }, {
+    "members" : [ {
+      "name" : "Anthony Limo",
+      "photoUrl" : "/images/people/limotony.jpg",
+      "socials" : [
+        {
+          "icon" : "gplus",
+          "link" : "",
+          "name" : "Google+"
+        },
+        {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/tonytakesontech/",
+        "name" : "Facebook"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/AnthonyLimo?lang=en",
+        "name" : "Twitter"
+      }
+      ,
+      {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/anthony-kiplimo-0234384b/",
+        "name" : "LinkedIn"
+      }
+    ],
+      "title" : "Media"
+    }
+    , {
       "name" : "Eve Kilel",
       "photoUrl" : "/images/people/kilel.jpg",
       "socials" : [ {
@@ -777,61 +770,36 @@
         "icon" : "facebook",
         "link" : "https://www.facebook.com/eve.kilel",
         "name" : "Facebook"
-      } ],
-      "title" : "Speakers and Guests"
-    } ],
-    "title" : "Core Team"
-  }, {
-    "members" : [ {
-      "name" : "Anthony Limo",
-      "photoUrl" : "/images/people/limotony.jpg",
-      "socials" : [ {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/tonytakesontech/",
-        "name" : "Facebook"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/AnthonyLimo?lang=en",
-        "name" : "Twitter"
-      } ],
-      "title" : "Media"
-    },
-    {
-      "name" : "Blasio Ojenge",
-      "photoUrl" : "",
-      "socials" : [ {
-        "icon" : "facebook",
-        "link" : "",
-        "name" : "Facebook"
-      }, {
+      } 
+      , {
         "icon" : "twitter",
         "link" : "",
         "name" : "Twitter"
-      } ],
-      "title" : "Registration/Attendees"
-    },
+      } 
+    ,
     {
-      "name" : "Wambui Kaburi",
-      "photoUrl" : "/images/people/wambui.jpg",
-      "socials" : [ {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/wambu.kaburi",
-        "name" : "Facebook"
-      }, {
-        "icon" : "twitter",
-        "link" : "",
-        "name" : "Twitter"
-      } ],
-      "title" : "Meals"
-    },
-    {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/eve-kilel/?ppe=1",
+      "name" : "LinkedIn"
+    }
+  ],
+      "title" : "Speakers/Sessions"
+    } 
+    , {
       "name" : "Maggie Wamboi",
       "photoUrl" : "/images/people/maggie.jpg",
       "socials" : [ {
         "icon" : "gplus",
         "link" : "",
         "name" : "Google+"
-      }, {
+      }, 
+      {
+        "icon" : "facebook",
+        "link" : "",
+        "name" : "Facebook"
+      }
+      ,
+      {
         "icon" : "twitter",
         "link" : "",
         "name" : "Twitter"
@@ -840,11 +808,125 @@
         "link" : "http://www.artgalore.co.ke/",
         "name" : "Website"
       }
+      
+    ],
+      "title" : "Venue"
+    }
+    , {
+      "name" : "Wambui Kaburi",
+      "photoUrl" : "/images/people/kaburi.jpg",
+      "socials" : [ 
+
+        {
+          "icon" : "gplus",
+          "link" : "",
+          "name" : "Google+"
+        }
+        ,
+        {
+          "icon" : "facebook",
+          "link" : "https://www.facebook.com/wambui.kaburi",
+          "name" : "Facebook"
+        }
+        ,
+       {
+        "icon" : "twitter",
+        "link" : "",
+        "name" : "Twitter"
+      }
+      , {
+        "icon" : "linkedin",
+        "link" : "",
+        "name" : "LinkedIn"
+      }
+      
     ],
       "title" : "Meals"
     }
+    
+    , {
+      "name" : "Blasio Ojenge",
+      "photoUrl" : "/images/people/blasio.jpg",
+      "socials" : [ {
+        "icon" : "gplus",
+        "link" : "",
+        "name" : "Google+"
+      }
+      , {
+        "icon" : "facebook",
+        "link" : "",
+        "name" : "Facebook"
+      }, {
+        "icon" : "twitter",
+        "link" : "",
+        "name" : "Twitter"
+      }
+      , {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/mwanamkasi-madzumba-940ba7b9/?ppe=1",
+        "name" : "LinkedIn"
+      }
+    ],
+      "title" : "Attendance & Registration"
+    }
+    , {
+      "name" : "Sasha Achieng",
+      "photoUrl" : "/images/people/sasha.jpg",
+      "socials" : [ {
+        "icon" : "gplus",
+        "link" : "",
+        "name" : "Google+"
+      }
+      ,
+      {
+      "icon" : "facebook",
+      "link" : "",
+      "name" : "Facebook"
+    }
+      , {
+        "icon" : "twitter",
+        "link" : "",
+        "name" : "Twitter"
+      }
+      , {
+        "icon" : "linkedin",
+        "link" : "",
+        "name" : "LinkedIn"
+      }
+    ],
+      "title" : "Swag & Hospitality"
+    }
+    , {
+      "name" : "Mwanamkasi Madzumba",
+      "photoUrl" : "/images/people/mkasi.png",
+      "socials" : [ {
+        "icon" : "gplus",
+        "link" : "",
+        "name" : "Google+"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/MwanamkasiJumaMadzumba/",
+        "name" : "Facebook"
+      }
+      , {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/ntarazabrand",
+        "name" : "Twitter"
+      }
+      
+      , {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/mwanamkasi-madzumba-940ba7b9/?ppe=1",
+        "name" : "LinkedIn"
+      }
+    ],
+      "title" : "Swag & Hospitality"
+    }
+  
+  
+  
   ],
-    "title" : "Event Team"
+    "title" : "Organizers"
   } ],
   "tickets" : {
     "elements" : [ {
@@ -885,24 +967,21 @@
     "speakers" : "GDG Moi",
     "thumbnail" : "/images/sessions/session1.JPG",
     "title" : "DevFest Rift Valley 2017",
-    "youtubeId" : "9GQi7Fxha0M"
+    "youtubeId" : "JvhpV0RhFWE"
   }, {
     "speakers" : "GDG Moi",
     "thumbnail" : "/images/sessions/session2.JPG",
     "title" : "Google I/O 17 Recap",
-    "youtubeId" : "-egFcaWtLBM&t=54s"
-  }
-  , {
-    "speakers" : "GDG Moi",
-    "thumbnail" : "/images/sessions/session2.JPG",
-    "title" : "Google I/O 17 Recap",
-    "youtubeId" : "-egFcaWtLBM&t=54s"
-  },
-  {
+    "youtubeId" : "-egFcaWtLBM"
+  }, {
     "speakers" : "GDG Moi",
     "thumbnail" : "/images/sessions/session1.JPG",
     "title" : "DevFest Rift Valley 2017",
-    "youtubeId" : "9GQi7Fxha0M"
-  }
- ]
+    "youtubeId" : "JvhpV0RhFWE"
+  }, {
+    "speakers" : "GDG Moi",
+    "thumbnail" : "/images/sessions/session2.JPG",
+    "title" : "Google I/O 17 Recap",
+    "youtubeId" : "-egFcaWtLBM"
+  } ]
 }

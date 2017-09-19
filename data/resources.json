@@ -5,7 +5,7 @@
   "dates": "18.11.2017",
   "locationAddressShort": "Moi University, Eldoret.",
   "motto": "Engage | Learn | Connect",
-  "playIcon": "Recap : '17 Events",
+  "playIcon": "Recap : 2017 Events",
   "c4p": "Become a speaker",
   "buyTicket": "Register now",
   "backToTop": "Back to top",
@@ -51,7 +51,7 @@
   "signIn": "Sign in",
   "signOut": "Sign out",
   "mySchedule": "My Schedule",
-  "browseMore": "Browse more events",
+  "browseMore": "Browse more sessions",
   "youShouldSignInSessions": "Sign in to save sessions",
   "youShouldSignInRating": "Sign in to rate sessions",
   "offlineMessage": "Oops! You are offline",
@@ -76,16 +76,23 @@
           "text": "Google Developers",
           "url": "https://developers.google.com/",
           "newTab": true
-        },
+        }
+        ,
+        {
+          "text": "GDG Moi",
+          "url": "https://twitter.com/gdgmoi/",
+          "newTab": true
+        }
+        ,
         {
           "text": "GDG Kabarak",
-          "url": "",
+          "url": "https://www.meetup.com/GDG-Kabarak/",
           "newTab": true
         },
         
         {
           "text": "GDG Egerton",
-          "url": "",
+          "url": "https://twitter.com/GDGEgerton/",
           "newTab": true
         }
        
@@ -96,7 +103,7 @@
       "links": [
         {
           "text": "Partnership Proposition",
-          "url": "",
+          "url": "https://goo.gl/forms/fdxOyLchgVZYjPb23",
           "newTab": true
         },
         {
@@ -117,7 +124,7 @@
     "links": [
       {
         "text": "gdgmoi1@gmail.com",
-        "url": "mailto:gdgmoi1@.com"
+        "url": "mailto:gdgmoi1@gmail.com"
       }
     ]
   },
@@ -129,7 +136,7 @@
       "caption": "Event"
     },
     {
-      "counter": 12,
+      "counter": 10,
       "caption": "Sessions"
     },
     {
