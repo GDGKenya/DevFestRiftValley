@@ -23,7 +23,7 @@
   "clickToViewPhotos": "Click to view more photos",
   "partners": "Partners",
   "becomePartner": "Become a partner",
-  "featuredVideosTitle": "Previous Events",
+  "featuredVideosTitle": "Featured Videos",
   "featuredVideosViewAll": "View all videos",
   "featuredPeopleTitle": "Speakers",
   "featuredPeopleViewAll": "View all speakers",
@@ -123,10 +123,16 @@
   "contactBlock": {
     "links": [
       {
+        "text": "devfest@gdgmoi.com",
+        "url": "mailto:devfest@gdgmoi.com"
+      },
+      {
         "text": "gdgmoi1@gmail.com",
         "url": "mailto:gdgmoi1@gmail.com"
       }
+      
     ]
+  
   },
   "teamPageTitle": "Team",
   "teamPageText": "Each DevFest is inspired by and uniquely tailored to the needs of the developer community that hosts it.",
@@ -150,6 +156,6 @@
   ],
   "callToAction": {
     "videoTitle": "Promo Video",
-    "videoId": "9GQi7Fxha0M"
+    "videoId": "JvhpV0RhFWE"
   }
 }

@@ -56,7 +56,7 @@
       "startTime" : "11:05"
     }, {
       "endTime" : "12:35",
-      "sessions" : [ [ 102 ], [ 107 ], [ 105 ], [ 106 ] ],
+      "sessions" : [ [ 102 ], [ 107 ], [ 105 ], [ 106 ], [120] ],
       "startTime" : "11:35"
     }, {
       "endTime" : "13:30",
@@ -91,6 +91,9 @@
       "title" : "Room B"
     }, {
       "title" : "Room C"
+    }
+    , {
+      "title" : "The Senate Chambers"
     } ]
   }, {
     "date" : "2017-11-19",
@@ -101,7 +104,7 @@
       "startTime" : "09:30"
     } ],
     "tracks" : [ {
-      "title" : "See you NEXT for GDG DevFest Rift Valley 2018"
+      "title" : "See you NEXT for the GDG DevFest Rift Valley 2018"
     } ]
   } ],
   "sessions" : {
@@ -120,10 +123,11 @@
       "complexity" : "Intermediate",
       "description" : "*Progressive Web Apps are user experiences that have the reach of the web, and are: Reliable, fast and re-engageable.",
       "id" : 102,
+      "speakers" : [ 12 ],
       "language" : "English",
       "presentation" : "https://developers.google.com/web/progressive-web-apps/",
       "tags" : [ "Web", "PWA" ],
-      "title" : "Hands-on Progreesive Web Apps."
+      "title" : "Hands-on Progresive Web Apps."
     },
     "103" : {
       "complexity" : "Beginner",
@@ -131,7 +135,7 @@
       "id" : 103,
       "language" : "English",
       "presentation" : "Penetration Testing 101 and Introduction to Google CTF’s.",
-      "speakers" : [ 5 ],
+      "speakers" : [  [ 3],[ 5 ]],
       "tags" : [ "CTFs" ],
       "title" : "Penetration Testing & Google CTF’s."
     },
@@ -164,16 +168,16 @@
       "presentation" : "",
       "speakers" : [ 10 ],
       "tags" : [ "Firebase" ],
-      "title" : "Firebase",
+      "title" : "Firebase - For Android",
       "videoId" : "iosNuIdQoy8"
     },
     "107" : {
       "complexity" : "Beginner",
-      "description" : "Whether you're new to programming or an experienced developer, get started with Frank Tamre",
+      "description" : "Whether you're new to programming or an experienced developer, get started with Android by Frank Tamre",
       "id" : 107,
       "language" : "English",
       "presentation" : "",
-      "speakers" : [ 9 ],
+      "speakers" : [ 7 ],
       "tags" : [ "Android" ],
       "title" : "Build your Android development skills",
       "videoId" : ""
@@ -184,8 +188,8 @@
       "id" : 108,
       "language" : "English",
       "presentation" : "",
-      "tags" : [ "Panel Discussion" ],
-      "title" : "Panel Dscussion - Africa & Technology",
+      "tags" : [ "Fireside Chat" ],
+      "title" : "Africa & Technology - building for Africa",
       "videoId" : ""
     },
     "109" : {
@@ -226,21 +230,21 @@
       "title" : "Being a Software Engineer"
     },
     "113" : {
-      "description" : "Panel Discussion on *Africa & Technology* -building for africa",
+      "description" : "Fireside Chat on *Africa & Technology* -building for africa",
       "id" : 113,
       "language" : "English",
       "presentation" : "",
       "speakers" : [ 9 ],
-      "tags" : [ "Panel Discussion" ],
-      "title" : "Panel Session"
+      "tags" : [ "Fireside Chat" ],
+      "title" : "Fireside Chat"
     },
     "114" : {
       "description" : "Closing Remark, Wrap -up, networking and Photo Sessions, Interviews",
       "id" : 114,
-      "image" : "/images/backgrounds/gdgmoi2.JPG",
+      "image" : "/images/backgrounds/blog1bannergdg.JPG",
       "language" : "English",
-      "speakers" : [ 3 ],
-      "title" : "Closing Remark, Wrap -up, networking and Photo Sessions, Interviews"
+      "speakers" : [ 11 ],
+      "title" : "Closing"
     },
     "116" : {
       "complexity" : "Beginner",
@@ -284,13 +288,13 @@
     },
     "120" : {
       "complexity" : "Beginner",
-      "description" : "\"Remember back when AJAX completely changed what was possible in the desktop web? Progressive web apps are that same fundamental shift for the mobile web.\" said Rahul Row-Chowdhury (Google’s product lead for chrome and the web platform) on stage at Google I/O 2016. - Progressive web apps use service workers, app shell, push notifications, RAIL and other capabilities to deliver an app-like user experience.",
+      "description" : "Get started, add firebase to your web app.",
       "id" : 120,
       "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/jakub-skvara-progressive-web-apps-prepare-your-web-for-2017",
-      "speakers" : [ 18 ],
+      "presentation" : "https://firebase.google.com/docs/web/setup?authuser=0",
+      "speakers" : [ 9 ],
       "tags" : [ "Web" ],
-      "title" : "Progressive web apps - prepare your web for 2017"
+      "title" : "Firebase - For Web"
     },
     "121" : {
       "complexity" : "Intermediate",
@@ -414,7 +418,7 @@
     "134" : {
       "description" : "Tea break is 25 minutes ONLY! Keep time! ENJOY!",
       "id" : 134,
-      "image" : "/images/backgrounds/tea.JPG",
+      "image" : "/images/backgrounds/te a.JPG",
       "title" : "Tea break"
     },
     "135" : {
@@ -427,8 +431,8 @@
       "description" : "Intro and Greetings from Guests, GDG leads, Conference Opening",
       "id" : 136,
       "language" : "English",
-      "speakers" : [ 3 ],
-      "title" : "DevFest Rift Valley 2017 Opening"
+      "speakers" : [ [11],[ 3 ]],
+      "title" : "DevFest Rift Valley 2017 Opening/Intro"
     },
     "137" : {
       "description" : "Photo shoot, departure! Bye!",
@@ -439,17 +443,17 @@
     "138" : {
       "description" : "Wrap -up, networking and Photo Sessions, Interviews",
       "id" : 114,
-      "image" : "/images/backgrounds/sharecake.JPG",
+      "image" : "/images/backgrounds/blog1bannergdg.JPG",
       "title" : "Conference closing and contest winners announcements"
     }
   },
   "speakers" : [ null, {
     "badges" : [ {
       "description" : "Google Developer Ecosystem Program Manager",
-      "link" : "https://developers.google.com/groups/",
-      "name" : "GDG"
+      "link" : "https://developers.google.com/",
+      "name" : "Google"
     } ],
-    "bio" : "IT Professional, Drupal & Open Source Evangelist, .NET developer (previous life), with over 10 years post-tertiary experience working with startups in the Human Resources (Computer-Based Testing), Media & Finance (Mobile Money) industries. End-to-end JavaScript Developer & Evangelist learning & working with Node, Express, Underscore, Backbone, Angular, JSON (NoSQL) databases etc. Product Manager, Software Project Manager, IT Strategist, Trainer, Speaker",
+    "bio" : "Drupal & Open Source Evangelist, industries. End-to-end JavaScript Developer & Evangelist learning & working with Node, Product Manager, Software Project Manager, IT Strategist, Trainer, Speaker",
     "company" : "Google",
     "companyLogo" : "/images/logos/google.svg",
     "country" : "Lagos, Nigeria",
@@ -477,7 +481,7 @@
     } ],
     "bio" : "Dennis is a .NET Full Stack Developer, User Experience Design ovator, GDG JKUAT Lead and GDG Kenya Country Mentor.",
     "company" : "Google",
-    "companyLogo" : "/images/logos/gdg-x.svg",
+    "companyLogo" : "/images/logos/gdg-logo.png",
     "country" : "Nairobi, Kenya",
     "featured" : true,
     "id" : 2,
@@ -502,7 +506,7 @@
   }, {
     "badges" : [ {
       "description" : "WomanTechmaker Kabarak",
-      "link" : "https://www.womentechmakers.com/",
+      "link" : "https://www.womentechmakers.com/directory/evelyn-kilel",
       "name" : "WTM"
     } ],
     "bio" : "Passionate about and knowledgeable on web, network and application security, software development, penetration testing and business intelligence.",
@@ -530,7 +534,13 @@
     "tags" : [ "CTFs", "Security" ],
     "title" : "Information Security Specalist At EY"
   }, {
-    "bio" : "Experienced Information Security Analyst with a demonstrated history of working in the Information Technology industry. Skilled in Cloud Computing(Microsoft Azure), Virtualization,Cyber Threat Intelligence, Log Analysis,Incidence Management and Linux Systems Administration.",
+    
+    "badges" : [ {
+      "description" : "Information Security Analyst",
+      "link" : "http://icta.go.ke/",
+      "name" : "ICT Authority"
+    } ],
+    "bio" : "Skilled in Cloud Computing(Microsoft Azure), Virtualization,Cyber Threat Intelligence, Log Analysis,Incidence Management and Linux Systems Administration.",
     "company" : "ICT Authority",
     "companyLogo" : "/images/logos/ictauthority.png",
     "country" : "Nairobi, Kenya",
@@ -538,7 +548,7 @@
     "id" : 4,
     "name" : "Trevor Kaon",
     "photoUrl" : "/images/people/kaontrevor.jpg",
-    "shortBio" : "Experienced Information Security Analyst with a demonstrated history of working...",
+    "shortBio" : "Experienced Information Security Analyst with a demonstrated history of working IT industry.",
     "socials" : [ {
       "icon" : "website",
       "link" : "https://www.linkedin.com/in/trevor-kaon/?ppe=1",
@@ -555,6 +565,12 @@
     "tags" : [ "Security", "Web" ],
     "title" : "Security Analyst &Fabric Administrator"
   }, {
+    "badges" : [ {
+      "description" : "Information Security Specialist",
+      "link" : "https://www.ey.com/",
+      "name" : "EY"
+    } ],
+    
     "bio" : "Information security specialist with expertise in web, mobile and network applications vulnerability assesment and penetration testing, security intelligence and implementation of ISO 27001 security framework.",
     "company" : "EY",
     "companyLogo" : "/images/logos/ey2.png",
@@ -582,9 +598,14 @@
       "link" : "",
       "name" : "Facebook"
     } ],
-    "tags" : [ "Android", "Web" ],
+    "tags" : [ "CTFs", "Security" ],
     "title" : "Information Security Analyst"
   }, {
+    "badges" : [ {
+      "description" : "Marketing Manager Kenya, EA & SADC",
+      "link" : "https://www.oracle.com/",
+      "name" : "Oracle"
+    } ],
     "bio" : "Oracle Marketing Manager Kenya, EA & SADC. Mentor ",
     "company" : "Oracle",
     "companyLogo" : "/images/logos/oracle.png",
@@ -616,7 +637,7 @@
   }, {
     "bio" : "Frank is a Software Engineer, instructor and Mentor. He loves teaching, coaching and building solutions.",
     "company" : "IG",
-    "companyLogo" : "/images/logos/gdg-x.svg",
+    "companyLogo" : "/images/logos/gdg-logo.png",
     "country" : "Nairobi, Kenya",
     "featured" : false,
     "id" : 7,
@@ -641,7 +662,7 @@
   }, {
     "bio" : "He is currently serving the Intel Community as a Student Ambassador, and the Google Developer Groups, as the Internet of Things champion (SSA) where he is responsible for presentations, training and sharing contents on The Internet of Things, Artificial Intelligence and Electronic Design & Prototyping.He also co-organize the Google Developer Groups, GDG Kimathi University.",
     "company" : "GDG",
-    "companyLogo" : "/images/logos/gdg-x.svg",
+    "companyLogo" : "/images/logos/gdg-logo.png",
     "country" : "Nyeri, Kenya",
     "featured" : true,
     "id" : 8,
@@ -664,15 +685,20 @@
     "tags" : [ "Android Things", "Android" ],
     "title" : "Internet of Things (IoT) Champion for GDGs in SSA"
   }, {
-    "bio" : " A software engineer passionate about technology and community development. She has served as team leader in several youth led organizations including the esteemed Google Student Ambassador Programme in Sub Saharan Africa, Malindi Red Cross Youth and the vibrant Rotaract Club University of Nairobi.",
+    "badges" : [ {
+      "description" : "Google Developer Ecosystem Program Manager",
+      "link" : "https://developers.google.com/",
+      "name" : "Google"
+    } ],
+    "bio" : " A software engineer passionate about technology and community development.",
     "company" : "Google",
     "companyLogo" : "/images/logos/google.svg",
     "country" : "Nairobi, Kenya",
     "featured" : true,
     "id" : 9,
-    "name" : "Omondi Vivian",
-    "photoUrl" : "/images/people/akinyi.jpg",
-    "shortBio" : "A software engineer passionate about technology and community development...",
+    "name" : "Akinyi Vivian",
+    "photoUrl" : "/images/people/akinyivivian.jpg",
+    "shortBio" : "A software engineer passionate about technology and community development.",
     "socials" : [ {
       "icon" : "github",
       "link" : "",
@@ -686,7 +712,7 @@
     "title" : "Google Developer Ecosystem Community Manager Sub-Saharan Africa"
   }, {
     "bio" : " A software engineer passionate about technology and community development. She has served as team leader in several youth led organizations including the esteemed Google Student Ambassador Programme in Sub Saharan Africa, Malindi Red Cross Youth and the vibrant Rotaract Club University of Nairobi.",
-    "company" : "Google",
+    "company" : "Andela",
     "companyLogo" : "/images/logos/andela.png",
     "country" : "Nairobi, Kenya",
     "featured" : true,
@@ -705,7 +731,86 @@
     } ],
     "tags" : [ "Firebase" ],
     "title" : "Andela Developer"
-  } ],
+  } 
+  , {
+    "badges" : [ {
+      "description" : "Google Developer Groups Lead - Kenya",
+      "link" : "https://developers.google.com/groups/chapter/100413733864528613887/",
+      "name" : "GDG"
+    } ],
+    "bio" : "Software Engineer - Progressive Web Apps & Google Developer Groups Lead - Kenya",
+    "company" : "GDG",
+    "companyLogo" : "/images/logos/gdg-logo.png",
+    "country" : "Nairobi, Kenya",
+    "featured" : true,
+    "id" : 11,
+    "name" : "Maye Edwin",
+    "photoUrl" : "/images/people/maye.jpg",
+    "shortBio" : "Software Engineer - Progressive Web Apps & Google Developer Groups Lead - Kenya",
+    "socials" : [ 
+      {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/mayeedwin/",
+        "name" : "Facebook"
+      } 
+      , {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/mayeedwin1",
+        "name" : "Twitter"
+      } 
+      ,{
+      "icon" : "github",
+      "link" : "https://github.com/mayeedwin",
+      "name" : "GitHub"
+    }, {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/mayeedwin/",
+      "name" : "LinkedIn"
+    } ],
+    "tags" : [ "Web" ],
+    "title" : "GDG Lead"
+  }
+
+  , {
+    "badges" : [ {
+      "description" : "Google Developer Expert - Web",
+      "link" : "https://developers.google.com/experts/people/prosper-otemuyiwa",
+      "name" : "GDE"
+    } ],
+    
+    "bio" : "He is a full stack software engineer who has worked on biometric, health and developer tools.Prosper works with developers and teams across the globe, building, improving web performance and raising communities that will groom the next generation of world-class software engineers.",
+    "company" : "AuthO",
+    "companyLogo" : "/images/logos/auth0-logo-blue.png",
+    "country" : "Lagos, Nigeria",
+    "featured" : true,
+    "id" : 12,
+    "name" : "Prosper Otemuyiwa",
+    "photoUrl" : "/images/people/prosperotemuyiwa.jpg",
+    "shortBio" : "Prosper is an avid Open Source Advocate, Trainer,  Developer Evangelist, and a Google Developer Expert in Web Technologies.",
+    "socials" : [ 
+       {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/unicodeveloper",
+        "name" : "Twitter"
+      } 
+      , {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/prosperotemuyiwa/?ppe=1",
+        "name" : "LinkedIn"
+      } 
+      ,{
+      "icon" : "github",
+      "link" : "https://github.com/unicodeveloper",
+      "name" : "GitHub"
+    }, {
+      "icon" : "website",
+      "link" : "https://auth0.com/",
+      "name" : "GDE"
+    } ],
+    "tags" : [ "Web" ],
+    "title" : "Google Developer Expert"
+  } 
+],
   "team" : [ {
     "members" : [ {
       "name" : "Maye Edwin",
@@ -761,7 +866,7 @@
     }
     , {
       "name" : "Eve Kilel",
-      "photoUrl" : "/images/people/kilel.jpg",
+      "photoUrl" : "/images/people/eve.JPG",
       "socials" : [ {
         "icon" : "gplus",
         "link" : "https://plus.google.com/109930246211869379617",
@@ -846,7 +951,7 @@
     
     , {
       "name" : "Blasio Ojenge",
-      "photoUrl" : "/images/people/blasio.jpg",
+      "photoUrl" : "/images/people/blasioojenge.jpg",
       "socials" : [ {
         "icon" : "gplus",
         "link" : "",
@@ -898,7 +1003,7 @@
     }
     , {
       "name" : "Mwanamkasi Madzumba",
-      "photoUrl" : "/images/people/mkasi.png",
+      "photoUrl" : "/images/people/mwana.JPG",
       "socials" : [ {
         "icon" : "gplus",
         "link" : "",
@@ -964,17 +1069,7 @@
     }
   },
   "videos" : [ {
-    "speakers" : "GDG Moi",
-    "thumbnail" : "/images/sessions/session1.JPG",
-    "title" : "DevFest Rift Valley 2017",
-    "youtubeId" : "JvhpV0RhFWE"
-  }, {
-    "speakers" : "GDG Moi",
-    "thumbnail" : "/images/sessions/session2.JPG",
-    "title" : "Google I/O 17 Recap",
-    "youtubeId" : "-egFcaWtLBM"
-  }, {
-    "speakers" : "GDG Moi",
+    "speakers" : "GDG DevFest",
     "thumbnail" : "/images/sessions/session1.JPG",
     "title" : "DevFest Rift Valley 2017",
     "youtubeId" : "JvhpV0RhFWE"

@@ -53,5 +53,5 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 # 7. Contact info
 
-- Maye Edwin, +254 713 850 804, [mayedwine1@gmail.com](mailto:mayedwine1@gmail.com) ,[gdgmoi1@gmail.com](mailto:gdgmoi1@gmail.com)
+- Maye Edwin, +254 713 850 804, [devfest@gdgmoi.com](mailto:devfest@gdgmoi.com) ,[maye@gdgmoi.com](mailto:maye@gdgmoi.com)
 
