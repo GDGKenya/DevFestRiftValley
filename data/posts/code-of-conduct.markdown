@@ -1,6 +1,5 @@
 # 1. Purpose
 
-
 A primary goal of [GDG Moi | Kabarak | Egerton]() is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof). 
 
 We prides ourself on being open, respectful, and inclusive communities. That means the [jerky behavior]() isn’t allowed at GDG Events.
@@ -54,5 +53,5 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 # 7. Contact info
 
-- Maye Edwin, +254 713 850 804, [mayedwine1@gmail.com](mailto:mayedwine1@gmail.com) ,[gdgmoi1@gmail.com](mailto:gdgmoi1@gmail.com)
+- Maye Edwin, +254 713 850 804, [devfest@gdgmoi.com](mailto:devfest@gdgmoi.com) ,[maye@gdgmoi.com](mailto:maye@gdgmoi.com)
 

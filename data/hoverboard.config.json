@@ -1,9 +1,9 @@
 {
-  "url": "https://devfestriftvalley.firebaseapp.com/",
+  "url": "https://devfest.gdgmoi.com",
   "startDate": "2017-08-31",
-  "endDate": "2017-11-31",
+  "endDate": "2018-11-31",
   "analytics": {
-    "prod": "",
+    "prod": "UA-107695699-1",
     "dev": ""
   },
   "organizer": {
@@ -19,7 +19,7 @@
   
   "firebase": {
     "name": "devfestriftvalley",
-    "domain": "devfestriftvalley.firebaseapp.com",
+    "domain": "devfest.gdgmoi.com",
     "database": "https://devfestriftvalley.firebaseio.com",
     "api": "AIzaSyCwctQmBd_Ie5tfuQmod0GNqaoADCXcMv0",
     "userSessionsPath": "/userSessions",
@@ -33,9 +33,9 @@
   },
   "hashtag": "devfestRV17",
   "disqusShortName": "",
-  "tweetsSource": "",
-  "partnershipProposition": "#",
-  "videosSessionsUrl": "https://www.youtube.com/watch?v=9GQi7Fxha0M",
+  "tweetsSource": "https://twitter.com/GDGMoi/with_replies",
+  "partnershipProposition": "https://goo.gl/forms/G3OR0d29oJVaperC3",
+  "videosSessionsUrl": "https://www.youtube.com/watch?v=JvhpV0RhFWE",
   "enableSessionsRating": true,
   "navigation": [
     {
@@ -82,7 +82,7 @@
     }
   ],
   "location": {
-    "apiKey": "",
+    "apiKey": "AIzaSyAEsIIGwXMW5kqmzZsWMrYaLnl8D5ssIoA",
     "name": "Moi University, Main Campus",
     "address": "Kenya, Uasin Gishu County,Eldoret, Kesses",
     "link": "https://www.linkedin.com/company-beta/18101988/",
@@ -121,7 +121,7 @@
         "tabBarColor": "#fff",
         "video": {
           "title": "DevFest Rift Valley 2017",
-          "youtubeId": "9GQi7Fxha0M",
+          "youtubeId": "JvhpV0RhFWE",
           "text": "What to expect"
         },
         "hideLogo": true,
