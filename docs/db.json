@@ -234,7 +234,7 @@
       "id" : 113,
       "language" : "English",
       "presentation" : "",
-      "speakers" : [ 9 ],
+      "speakers" : [ [ 9 ], [13] ], 
       "tags" : [ "Fireside Chat" ],
       "title" : "Fireside Chat"
     },
@@ -418,7 +418,7 @@
     "134" : {
       "description" : "Tea break is 25 minutes ONLY! Keep time! ENJOY!",
       "id" : 134,
-      "image" : "/images/backgrounds/te a.JPG",
+      "image" : "/images/backgrounds/tea.JPG",
       "title" : "Tea break"
     },
     "135" : {
@@ -810,6 +810,44 @@
     "tags" : [ "Web" ],
     "title" : "Google Developer Expert"
   } 
+  , {
+    "badges" : [ {
+      "description" : "GDG and WTM Lead in Nairobi, Kenya.",
+      "link" : "https://developers.google.com/groups",
+      "name" : "GDG"
+    } ],
+    
+    "bio" : " She’s the lead developer of her chapter of the Google Developer Group and Google Women TechMakers. With massive exposure to the local start-up dynamics and specialized interest in Android development, sh is super excited to share her knowledge with everyone at Devfest Rift Valley.",
+    "company" : "GDG",
+    "companyLogo" : "/images/logos/gdg-logo.png",
+    "country" : "Nairobi, Kenya",
+    "featured" : true,
+    "id" : 13,
+    "name" : "Roina Ochieng",
+    "photoUrl" : "/images/people/roinaochieng.png",
+    "shortBio" : "Roina Ochieng is a budding techmaker based in Nairobi, Kenya. She’s a programmer with experience with developer communities.",
+    "socials" : [ 
+       {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/roinochieng",
+        "name" : "Twitter"
+      } ,
+
+      {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/roinochieng",
+        "name" : "facebook"
+      }
+
+      , {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/roinaochieng/",
+        "name" : "linkedIn"
+      }  
+     ],
+    "tags" : [ "Web", "Andoid", "Fireside Chat" ],
+    "title" : "GDG Lead"
+  } 
 ],
   "team" : [ {
     "members" : [ {
@@ -1027,8 +1065,32 @@
     ],
       "title" : "Swag & Hospitality"
     }
-  
-  
+    , {
+      "name" : "Kaberere Grace",
+      "photoUrl" : "/images/people/gracekaberere.jpg",
+      "socials" : [ {
+        "icon" : "gplus",
+        "link" : "",
+        "name" : "Google+"
+      }, {
+        "icon" : "facebook",
+        "link" : "",
+        "name" : "Facebook"
+      }
+      , {
+        "icon" : "twitter",
+        "link" : "",
+        "name" : "Twitter"
+      }
+      
+      , {
+        "icon" : "linkedin",
+        "link" : "",
+        "name" : "LinkedIn"
+      }
+    ],
+      "title" : "Speakers & Guests"
+    }
   
   ],
     "title" : "Organizers"
@@ -1036,7 +1098,7 @@
   "tickets" : {
     "elements" : [ {
       "currency" : "ksh",
-      "ends" : "Nov 10",
+      "ends" : "Nov 1",
       "info" : "Requires valid student ID",
       "name" : "Student",
       "price" : 0,
@@ -1044,7 +1106,7 @@
       "starts" : "Sept 1"
     }, {
       "currency" : "ksh",
-      "ends" : "Nov 10",
+      "ends" : "Nov 1",
       "info" : "First 50 tickets to guests",
       "name" : "Early Bird",
       "price" : 0,
@@ -1057,7 +1119,7 @@
       "name" : "Lazy Bird",
       "price" : 500,
       "soldOut" : false,
-      "starts" : "Sept 1"
+      "starts" : "Nov 1"
     } ],
     "url" : "https://goo.gl/forms/e5tkgI6la7bE9KqH2"
   },
