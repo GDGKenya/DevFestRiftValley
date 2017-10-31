@@ -697,7 +697,7 @@
     "featured" : true,
     "id" : 9,
     "name" : "Akinyi Vivian",
-    "photoUrl" : "/images/people/akinyivivian.jpg",
+    "photoUrl" : "/images/people/akinyi.jpg",
     "shortBio" : "A software engineer passionate about technology and community development.",
     "socials" : [ {
       "icon" : "github",
@@ -824,7 +824,7 @@
     "featured" : true,
     "id" : 13,
     "name" : "Roina Ochieng",
-    "photoUrl" : "/images/people/roinaochieng.png",
+    "photoUrl" : "/images/people/roinaochieng.jpg",
     "shortBio" : "Roina Ochieng is a budding techmaker based in Nairobi, Kenya. She’s a programmer with experience with developer communities.",
     "socials" : [ 
        {
@@ -1121,7 +1121,7 @@
       "soldOut" : false,
       "starts" : "Nov 1"
     } ],
-    "url" : "https://goo.gl/forms/e5tkgI6la7bE9KqH2"
+    "url" : "https://goo.gl/forms/5eZ5WWmbUORIQu1a2"
   },
   "userSessions" : {
     "rDTrlaUjPJSLPcZTz2KJKTWjbxa2" : {
@@ -1131,12 +1131,26 @@
     }
   },
   "videos" : [ {
-    "speakers" : "GDG DevFest",
+    "speakers" : "GDG Moi | Kabarak | Egerton",
     "thumbnail" : "/images/sessions/session1.JPG",
     "title" : "DevFest Rift Valley 2017",
-    "youtubeId" : "JvhpV0RhFWE"
-  }, {
-    "speakers" : "GDG Moi",
+    "youtubeId" : "YB9HW9qmIdQ"
+  }, 
+  
+  {
+    "speakers" : "GDG Moi | Kabarak | Egerton",
+    "thumbnail" : "/images/sessions/session6.JPG",
+    "title" : "DevFest Rift Valley 2017",
+    "youtubeId" : "XTBTBgk8Wa0"
+  },
+  {
+    "speakers" : "GDG Moi | Kabarak | Egerton",
+    "thumbnail" : "/images/sessions/session8.JPG",
+    "title" : "DevFest Rift Valley 2017",
+    "youtubeId" : "YB9HW9qmIdQ"
+  },
+  {
+    "speakers" : "GDG Moi, Eldoret",
     "thumbnail" : "/images/sessions/session2.JPG",
     "title" : "Google I/O 17 Recap",
     "youtubeId" : "-egFcaWtLBM"
