@@ -16,10 +16,11 @@
     "title" : "General Sponsor"
   }, {
     "logos" : [ {
-      "logoUrl" : "../images/logos/gdg-x.svg",
-      "name" : "GDG",
-      "url" : "https://developers.google.com/groups/"
+      "logoUrl" : "../images/logos/wtm.png",
+      "name" : "WTM",
+      "url" : "https://www.womentechmakers.com/"
     } ],
+    
     "title" : "Key Partners"
   } ],
   "ratings" : {
@@ -466,11 +467,29 @@
       "icon" : "gplus",
       "link" : "https://plus.google.com/+AniediUdoObong",
       "name" : "Google+"
-    }, {
+    },
+    {
+      "icon": "facebook",
+      "link": "",
+      "name": "Facebook"
+    },
+    {
+      "icon": "twitter",
+      "link": "",
+      "name": "Twitter"
+    },
+     {
       "icon" : "linkedin",
       "link" : "https://www.linkedin.com/in/aniediudo/?ppe=1",
       "name" : "LinkedIn"
-    } ],
+    },
+     {
+       "icon": "github",
+       "link": "",
+       "name": "GitHub"
+     }
+
+  ],
     "tags" : [ "Keynote", "Cloud" ],
     "title" : "Developer Ecosystem Manager, SSA, Google"
   }, {
@@ -488,14 +507,25 @@
     "name" : "Dennis Riungu",
     "photoUrl" : "/images/people/dennis.jpg",
     "shortBio" : "Dennis is a .NET Full Stack Developer, User Experience Design...",
-    "socials" : [ {
+    "socials" : [ 
+       {
+         "icon": "gplus",
+         "link": "",
+         "name": "Google+"
+       },
+ {
+   "icon": "facebook",
+   "link": "",
+   "name": "Facebook"
+ },
+       {
+         "icon": "twitter",
+         "link": "https://twitter.com/denpalrius",
+         "name": "Twitter"
+       }, {
       "icon" : "linkedin",
       "link" : "https://www.linkedin.com/in/dennisriungu/",
       "name" : "LinkedIn"
-    }, {
-      "icon" : "twitter",
-      "link" : "https://twitter.com/denpalrius",
-      "name" : "Twitter"
     }, {
       "icon" : "github",
       "link" : "https://github.com/denpalrius",
@@ -518,7 +548,13 @@
     "name" : "Eve Kilel",
     "photoUrl" : "/images/people/evekilel.jpg",
     "shortBio" : "A Bsc. Computer Science (Software Engineering Major) graduate from Kabarak University...",
-    "socials" : [ {
+    "socials" : [
+      {
+        "icon": "gplus",
+        "link": "https://plus.google.com/109930246211869379617",
+        "name": "Google+"
+      },
+      {
       "icon" : "facebook",
       "link" : "https://www.facebook.com/eve.kilel.96?ref=br_rs",
       "name" : "Facebook"
@@ -527,10 +563,17 @@
       "link" : "",
       "name" : "Twitter"
     }, {
-      "icon" : "gplus",
-      "link" : "https://plus.google.com/109930246211869379617",
-      "name" : "Google+"
-    } ],
+      "icon" : "linkedin",
+      "link" : "",
+      "name" : "LnkedIn"
+    },
+   {
+     "icon": "github",
+     "link": "",
+     "name": "Github"
+   }
+    
+  ],
     "tags" : [ "CTFs", "Security" ],
     "title" : "Information Security Specalist At EY"
   }, {
@@ -584,19 +627,26 @@
       "icon" : "gplus",
       "link" : "",
       "name" : "Google+"
-    }, {
+    },
+    {
+      "icon": "facebook",
+      "link": "",
+      "name": "Facebook"
+    },
+    {
+      "icon": "twitter",
+      "link": "",
+      "name": "Twitter"
+    },
+    {
       "icon" : "linkedin",
       "link" : "https://www.linkedin.com/in/laura-tich-49b08270/",
       "name" : "LinkedIn"
-    }, {
-      "icon" : "twitter",
-      "link" : "",
-      "name" : "Twitter"
-    }, {
+    },  {
       
-      "icon" : "facebook",
+      "icon" : "github",
       "link" : "",
-      "name" : "Facebook"
+      "name" : "Github"
     } ],
     "tags" : [ "CTFs", "Security" ],
     "title" : "Information Security Analyst"
@@ -615,23 +665,34 @@
     "name" : "Maryanne Ndanu",
     "photoUrl" : "/images/people/annndanu.jpg",
     "shortBio" : "Oracle Marketing Manager Kenya, EA & SADC. Mentor.",
-    "socials" : [ {
+    "socials" : [ 
+       {
+         "icon": "gplus",
+         "link": "",
+         "name": "Google+"
+       },
+        {
+          "icon": "facebook",
+          "link": "",
+          "name": "Facebook"
+        },
+
+         {
+           "icon": "twitter",
+           "link": "",
+           "name": "Twitter"
+         },
+      {
       "icon" : "linkedin",
       "link" : "https://www.linkedin.com/in/maryannendanu/",
       "name" : "LinkedIn"
-    }, {
-      "icon" : "twitter",
-      "link" : "",
-      "name" : "Twitter"
-    }, {
-      "icon" : "gplus",
-      "link" : "",
-      "name" : "Google+"
-    }, {
-      "icon" : "facebook",
-      "link" : "",
-      "name" : "Facebook"
-    } ],
+      },
+       {
+         "icon": "github",
+         "link": "",
+         "name": "Github"
+       }
+  ],
     "tags" : [ "Cloud", "Software Marketing" ],
     "title" : "Technology Sales Consultant - West & Central Africa"
   }, {
@@ -648,7 +709,13 @@
       "icon" : "gplus",
       "link" : "",
       "name" : "Google+"
-    }, {
+    }, 
+     {
+       "icon": "facebook",
+       "link": "",
+       "name": "Facebook"
+     },
+    {
       "icon" : "twitter",
       "link" : "https://twitter.com/tamrefrank",
       "name" : "Twitter"
@@ -656,7 +723,13 @@
       "icon" : "linkedin",
       "link" : "",
       "name" : "LinkedIn"
-    } ],
+    },
+     {
+       "icon": "github",
+       "link": "",
+       "name": "Github"
+     }
+  ],
     "tags" : [ "Android" ],
     "title" : "Android Developer"
   }, {
@@ -669,22 +742,37 @@
     "name" : "Ngesa Marvin",
     "photoUrl" : "/images/people/ngesa.jpg",
     "shortBio" : "Telecommunications Engineering student, a community organizer, a maker and an educator.",
-    "socials" : [ {
+    "socials" : [ 
+         {
+           "icon": "gplus",
+           "link": "",
+           "name": "Google+"
+         },
+      {
       "icon" : "facebook",
       "link" : "https://www.facebook.com/public/Ngesa-Marvin",
       "name" : "Facebook"
-    }, {
-      "icon" : "github",
-      "link" : "https://github.com/ngesa254",
-      "name" : "GitHub"
-    }, {
+      }, 
+       {
+         "icon": "twitter",
+         "link": "",
+         "name": "Twitter"
+       },
+      {
       "icon" : "linkedin",
       "link" : "https://ke.linkedin.com/in/engngesamarvin",
       "name" : "LinkedIn"
-    } ],
+    },
+    {
+     "icon": "github",
+     "link": "https://github.com/ngesa254",
+     "name": "GitHub"
+    }
+   ],
     "tags" : [ "Android Things", "Android" ],
     "title" : "Internet of Things (IoT) Champion for GDGs in SSA"
-  }, {
+   }, 
+    {
     "badges" : [ {
       "description" : "Google Developer Ecosystem Program Manager",
       "link" : "https://developers.google.com/",
@@ -699,14 +787,32 @@
     "name" : "Akinyi Vivian",
     "photoUrl" : "/images/people/akinyi.jpg",
     "shortBio" : "A software engineer passionate about technology and community development.",
-    "socials" : [ {
+    "socials" : 
+        [
+        {
+          "icon": "gplus",
+          "link": "",
+          "name": "Google+"
+        },
+       {
+       "icon": "facebook",
+      "link": "",
+       "name": "Facebook"
+        }, 
+        {
+         "icon": "twitter",
+         "link": "",
+         "name": "Twitter"
+       },
+       {
+        "icon": "linkedin",
+        "link": "",
+        "name": "LinkedIn"
+      },
+      {
       "icon" : "github",
       "link" : "",
       "name" : "GitHub"
-    }, {
-      "icon" : "linkedin",
-      "link" : "",
-      "name" : "LinkedIn"
     } ],
     "tags" : [ "Web" ],
     "title" : "Google Developer Ecosystem Community Manager Sub-Saharan Africa"
@@ -717,18 +823,38 @@
     "country" : "Nairobi, Kenya",
     "featured" : true,
     "id" : 10,
-    "name" : "Andela Facilitator",
+    "name" : "Roger Taracha",
     "photoUrl" : "",
-    "shortBio" : "A software engineer passionate about technology and community development...",
-    "socials" : [ {
-      "icon" : "github",
-      "link" : "",
-      "name" : "GitHub"
-    }, {
-      "icon" : "linkedin",
-      "link" : "",
-      "name" : "LinkedIn"
-    } ],
+    "shortBio" : "A software developer at Andela passionate about technology and community development...",
+    "socials" : 
+    
+    [
+     {
+      "icon": "gplus",
+      "link": "",
+      "name": "Google+"
+    },
+    {
+      "icon": "facebook",
+      "link": "",
+      "name": "Facebook"
+    },
+    {
+      "icon": "twitter",
+      "link": "",
+      "name": "Twitter"
+    },
+    {
+      "icon": "linkedin",
+      "link": "",
+      "name": "LinkedIn"
+    },
+    {
+      "icon": "github",
+      "link": "",
+      "name": "GitHub"
+    }
+    ],
     "tags" : [ "Firebase" ],
     "title" : "Andela Developer"
   } 
@@ -745,9 +871,15 @@
     "featured" : true,
     "id" : 11,
     "name" : "Maye Edwin",
-    "photoUrl" : "/images/people/maye.jpg",
+    "photoUrl" : "/images/people/mayeedwindp.jpg",
     "shortBio" : "Software Engineer - Progressive Web Apps & Google Developer Groups Lead - Kenya",
     "socials" : [ 
+
+        {
+         "icon": "gplus",
+         "link": "https://plus.google.com/u/0/+MayeEdwin",
+         "name": "Google+"
+       },
       {
         "icon" : "facebook",
         "link" : "https://www.facebook.com/mayeedwin/",
@@ -758,15 +890,17 @@
         "link" : "https://twitter.com/mayeedwin1",
         "name" : "Twitter"
       } 
-      ,{
-      "icon" : "github",
-      "link" : "https://github.com/mayeedwin",
-      "name" : "GitHub"
-    }, {
+     , {
       "icon" : "linkedin",
       "link" : "https://www.linkedin.com/in/mayeedwin/",
       "name" : "LinkedIn"
-    } ],
+    }
+     , {
+       "icon": "github",
+       "link": "https://github.com/mayeedwin",
+       "name": "GitHub"
+     }
+  ],
     "tags" : [ "Web" ],
     "title" : "GDG Lead"
   }
@@ -788,6 +922,18 @@
     "photoUrl" : "/images/people/prosperotemuyiwa.jpg",
     "shortBio" : "Prosper is an avid Open Source Advocate, Trainer,  Developer Evangelist, and a Google Developer Expert in Web Technologies.",
     "socials" : [ 
+
+
+      {
+        "icon": "gplus",
+        "link": "",
+        "name": "Google+"
+      },
+      {
+        "icon": "facebook",
+        "link": "",
+        "name": "Facebook"
+      },
        {
         "icon" : "twitter",
         "link" : "https://twitter.com/unicodeveloper",
@@ -802,11 +948,8 @@
       "icon" : "github",
       "link" : "https://github.com/unicodeveloper",
       "name" : "GitHub"
-    }, {
-      "icon" : "website",
-      "link" : "https://auth0.com/",
-      "name" : "GDE"
-    } ],
+    }
+   ],
     "tags" : [ "Web" ],
     "title" : "Google Developer Expert"
   } 
@@ -827,23 +970,34 @@
     "photoUrl" : "/images/people/roinaochieng.jpg",
     "shortBio" : "Roina Ochieng is a budding techmaker based in Nairobi, Kenya. She’s a programmer with experience with developer communities.",
     "socials" : [ 
+       
        {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/roinochieng",
-        "name" : "Twitter"
-      } ,
-
+         "icon": "gplus",
+         "link": "",
+         "name": "Google+"
+       },
       {
         "icon" : "facebook",
         "link" : "https://www.facebook.com/roinochieng",
         "name" : "facebook"
-      }
-
-      , {
+      },
+      {
+    "icon": "twitter",
+    "link": "https://twitter.com/roinochieng",
+    "name": "Twitter"
+      }, 
+      {
         "icon" : "linkedin",
         "link" : "https://www.linkedin.com/in/roinaochieng/",
         "name" : "linkedIn"
-      }  
+      } 
+      , {
+        "icon": "github",
+        "link": "",
+        "name": "Github"
+      }
+
+    
      ],
     "tags" : [ "Web", "Andoid", "Fireside Chat" ],
     "title" : "GDG Lead"
@@ -871,38 +1025,64 @@
         "name" : "LinkedIn"
       } ],
       "title" : "Lead Organizer"
+    },
+ {
+  "name": "Kaberere Grace",
+  "photoUrl": "/images/people/gracekaberere.jpg",
+  "socials": [{
+      "icon": "gplus",
+      "link": "",
+      "name": "Google+"
+    }, {
+      "icon": "facebook",
+      "link": "",
+      "name": "Facebook"
+    }, {
+      "icon": "twitter",
+      "link": "",
+      "name": "Twitter"
     }
+
+    , {
+      "icon": "linkedin",
+      "link": "",
+      "name": "LinkedIn"
+    }
+  ],
+  "title": "Women Techmakers"
+},
+     {
+       "name": "Anthony Limo",
+       "photoUrl": "/images/people/limotony.jpg",
+       "socials": [{
+           "icon": "gplus",
+           "link": "",
+           "name": "Google+"
+         },
+         {
+           "icon": "facebook",
+           "link": "https://www.facebook.com/tonytakesontech/",
+           "name": "Facebook"
+         }, {
+           "icon": "twitter",
+           "link": "https://twitter.com/AnthonyLimo?lang=en",
+           "name": "Twitter"
+         },
+         {
+           "icon": "linkedin",
+           "link": "https://www.linkedin.com/in/anthony-kiplimo-0234384b/",
+           "name": "LinkedIn"
+         }
+       ] 
+     ,
+     "title": "Lead, Media"
+     }
+     
   ],
     "title" : "Core Team"
   }, {
-    "members" : [ {
-      "name" : "Anthony Limo",
-      "photoUrl" : "/images/people/limotony.jpg",
-      "socials" : [
-        {
-          "icon" : "gplus",
-          "link" : "",
-          "name" : "Google+"
-        },
-        {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/tonytakesontech/",
-        "name" : "Facebook"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/AnthonyLimo?lang=en",
-        "name" : "Twitter"
-      }
-      ,
-      {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/anthony-kiplimo-0234384b/",
-        "name" : "LinkedIn"
-      }
-    ],
-      "title" : "Media"
-    }
-    , {
+    "members" : [
+       {
       "name" : "Eve Kilel",
       "photoUrl" : "/images/people/eve.JPG",
       "socials" : [ {
@@ -926,7 +1106,7 @@
       "name" : "LinkedIn"
     }
   ],
-      "title" : "Speakers/Sessions"
+      "title" : "Speakers & Sessions"
     } 
     , {
       "name" : "Maggie Wamboi",
@@ -953,7 +1133,7 @@
       }
       
     ],
-      "title" : "Venue"
+      "title" : "Venue and Deco"
     }
     , {
       "name" : "Wambui Kaburi",
@@ -984,7 +1164,7 @@
       }
       
     ],
-      "title" : "Meals"
+      "title" : "Hospitality"
     }
     
     , {
@@ -1037,7 +1217,7 @@
         "name" : "LinkedIn"
       }
     ],
-      "title" : "Swag & Hospitality"
+      "title" : "Swag"
     }
     , {
       "name" : "Mwanamkasi Madzumba",
@@ -1063,38 +1243,38 @@
         "name" : "LinkedIn"
       }
     ],
-      "title" : "Swag & Hospitality"
+      "title" : "Hospitality"
     }
     , {
-      "name" : "Kaberere Grace",
-      "photoUrl" : "/images/people/gracekaberere.jpg",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "",
-        "name" : "Google+"
-      }, {
-        "icon" : "facebook",
-        "link" : "",
-        "name" : "Facebook"
-      }
-      , {
-        "icon" : "twitter",
-        "link" : "",
-        "name" : "Twitter"
-      }
-      
-      , {
-        "icon" : "linkedin",
-        "link" : "",
-        "name" : "LinkedIn"
-      }
-    ],
-      "title" : "Speakers & Guests"
+      "name": "Ndanyi Charles",
+      "photoUrl": "/images/people/ndanyi.JPG",
+      "socials": [{
+          "icon": "gplus",
+          "link": "",
+          "name": "Google+"
+        }, {
+          "icon": "facebook",
+          "link": "",
+          "name": "Facebook"
+        }, {
+          "icon": "twitter",
+          "link": "",
+          "name": "Twitter"
+        }
+
+        , {
+          "icon": "linkedin",
+          "link": "",
+          "name": "LinkedIn"
+        }
+      ],
+      "title": "Venue"
     }
-  
-  ],
-    "title" : "Organizers"
-  } ],
+
+    ],
+    "title": "Organizers"
+    }],
+
   "tickets" : {
     "elements" : [ {
       "currency" : "ksh",
@@ -1121,7 +1301,7 @@
       "soldOut" : false,
       "starts" : "Nov 1"
     } ],
-    "url" : "https://goo.gl/forms/5eZ5WWmbUORIQu1a2"
+    "url" : "https://goo.gl/forms/jGtHZ1lkLC18alcC3"
   },
   "userSessions" : {
     "rDTrlaUjPJSLPcZTz2KJKTWjbxa2" : {

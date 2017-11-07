@@ -1,71 +1,40 @@
-**DevFest Rift Valley 2017** has been announced! <br><br>The 1st edition of the biggest conference about Google technologies in the Rift Valley region takes place on **18.11.2017** at Moi University, Main Campus, Eldoret.
+**Google Developer Group DevFests** are the largest Google related events in the world! Each DevFest is carefully crafted for you by your local GDG community to bring in awesome speakers, great topics, and lots fun!
+
+While no two events will be exactly alike, each GDG DevFest will, at its core, be powered by a shared belief that when developers come together to exchange ideas, amazing things can happen!
+
+### DevFest Rift Valley
+This is a 100% community organized full-day developer conference featuring awesome world-class speakers from technology leaders within the community as well as Google product team developers.
 
 That means that it is time to get out and ATTEND. If you are passionate about meeting new people, sharing ideas, networkng and learning of what amazing things Google and its ecosystem of developers are building everyday, be THERE!
 
-To keep up this year, we decided to focus on the content. **We We’re looking for a panelist like you**, who are ready to rock the stage and deliver the best panel delibaraton.
-<div class="text-center">
-<a href="" target="_blank" class="style-scope header-content" style="color: white; ">
-  <paper-button class="primary style-scope header-content x-scope paper-button-0" raised="" role="button" tabindex="0" animated="" aria-disabled="false" elevation="1">Submit a proposal</paper-button>
-</a>
-</div>
-
-<br/>
-
-### Why is it cool to be a Panelist?
-
-Well, do you know a better way to attend the conference? Here are our top 3 reasons to [submit a proposal]().
-
-1. **It is good for your career.** By being a panelist, you are proving your level of expertise to a potential business partners or employers.
-2. **It is good for the company you’re working for.** Any presentation delivered by an employee adds credibility to a company’s public image.
-3. **Unique networking.** Being a panelist means you’ll have unique chance to network with other panelists - the best experts in the industry.
-
-### 5 Key topics – what do we expect?
-
+### 5 Key topics – What to expect
 Our team prepared set of interesting topics in but if you have any cool idea you want to share not from this list, feel free to submit it as well.
 
-#### Google Developer Offerings (Overview)
-* Android
-* Web Apps
-* Firebase
-* Google Cloud
-* Chrome
-* IoT (Android Things)
-* G-Suite
+### Google Developer Offerings (Overview)
+Android, Web Apps, Firebase for Android and Web, IoT (Android Things),PWA
 
-#### Web
-* Progressive Web Apps
-* Polymer 2.0
-* Service Workers
-* Push Notifications
-* Codelab
+### Progressive Web Apps
+Polymer 2.0,Service Workers, Push Notifications and codelab
 
-#### Android Thngs
-* Codelab
+### Android Thngs Codelab
 
-#### Firebase
-* Codelab
+### Firebase codelab
 
-#### Penetration Testing 101 & Intro to Google CTF's
-* Codelab<br><br>
+### Penetration Testing 101 & Intro to Google CTF's codelab
 
-#### Cyber Security
-<br><br>
+### Cyber Security talk and demo
 
-#### Panel Discussion - "Africa and Technology"
-<br/>
+#### Fireside Chat - "Africa and Technology"
 
-**Call for Papers will stay open until November 1, 2017.** Don’t miss out :)
+### Why is it cool to be a Attend?
 
-<div class="text-center">
-<a href="" target="_blank" class="style-scope header-content" style="color: white; ">
-  <paper-button class="primary style-scope header-content x-scope paper-button-0" raised="" role="button" tabindex="0" animated="" aria-disabled="false" elevation="1">Submit a proposal</paper-button>
-</a>
-</div>
-<br/>
+Well, do you know a better reason to attend the conference? Here are our top 3 reasons to [RSVP]((https://goo.gl/forms/5eZ5WWmbUORIQu1a2)).
 
-**Please note:** There is no guarantee that a submission will be put onto the conference agenda! The program committee picks the most interesting talk proposals and informs the selected submitters until November 05, 2017.
+1. **It is good for your career.** By attending, you are proving your level of expertise to a potential business partners or employers or team mates.
+2. **It is good for the company you’re working for.** Any presentation delivered by an employee adds credibility to a company’s public image.
+3. **Unique networking.** You’ll have unique chance to network with other panelists - the best experts in the industry. <br>
+**Be THERE**
 
-Any questions? Email organizers at [gdgmoi1@gmail.com](mailto:gdgmoi1@gmail.com)
+RSVP will stay open until **November 11, 2017.** Don’t MISS out :)
 
-
-
+Any questions? Email organizers at [devfest@gdmoi.com](mailto:devfest.gdgmoi.com)

@@ -11,6 +11,7 @@
 
     "twitter": "GDGMoi"
   },
+  
   "webapp": {
     "shortName": "DevFest 2017",
     "themeColor": "#557dbe",
@@ -77,8 +78,14 @@
     },
     {
       "name": "linkedin",
-      "nickname": "GDG Moi",
+      "nickname": "GDG Moi, Eldoret",
       "url": "https://www.linkedin.com/company-beta/18101988/"
+    }
+    ,
+    {
+      "name": "website",
+      "nickname": "GDG Moi, Eldoret",
+      "url": "https://gdgmoi.com"
     }
   ],
   "location": {

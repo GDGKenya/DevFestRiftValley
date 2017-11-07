@@ -6,7 +6,7 @@ GDG DevFests are large, community-run developer events happening around the glob
 
 ### Content
 
-DevFest events cover multiple product areas such as Android, Firebase, Google Cloud Platform, Machine Learning, and Mobile Web. 
+DevFest events cover multiple product areas such as Android, Firebase, Google Cloud Platform, Machine Learning, and Mobile Web.
 
 ### Formats
 
@@ -22,11 +22,11 @@ All active GDG chapters are invited to host their own DevFest event for their co
 
 ### Festival organizers
 
-[Google Developer Group Moi](https://www.linkedin.com/company-beta/18101988/) (GDG Moi) in conjunction with GDG Kabarak | Egerton
+[Google Developer Group Moi](https://gdgmoi.com) (GDG Moi) in conjunction with GDG Kabarak | Egerton
 
-By the way, it’s pleasure to announce that [call for papers]() is opened! Apply and share with us your knowledge and experience.
+By the way, it’s pleasure to announce that [RSVP](https://goo.gl/forms/5eZ5WWmbUORIQu1a2) is opened! Reserve Your Seat Now
 
-Also, watch our **Promo video**
+Also, watch our [**Promo video**](https://goo.gl/forms/5eZ5WWmbUORIQu1a2)
 
 You can find information about registration, speakers, tickets and other latest news on the [conference website](https://devfest.gdgmoi.com/),[LinkedIn](https://www.linkedin.com/company-beta/18101988/), [Twitter](https://twitter.com/intent/user?screen_name=GDGMoi) or [Google+](https://plus.google.com/u/0/b/100413733864528613887/+GdgmoiuniAppspotmain). Don’t miss anything interesting!
 
