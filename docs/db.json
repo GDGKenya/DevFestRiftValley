@@ -93,8 +93,9 @@
     }, {
       "title" : "Room C"
     }
-    , {
-      "title" : "The Senate Chambers"
+    , 
+    {
+      "title" : "Room D"
     } ]
   }, {
     "date" : "2017-11-19",
@@ -814,18 +815,18 @@
       "link" : "",
       "name" : "GitHub"
     } ],
-    "tags" : [ "Web" ],
+    "tags" : [ "Web", "Firebase" ],
     "title" : "Google Developer Ecosystem Community Manager Sub-Saharan Africa"
   }, {
-    "bio" : " A software engineer passionate about technology and community development. She has served as team leader in several youth led organizations including the esteemed Google Student Ambassador Programme in Sub Saharan Africa, Malindi Red Cross Youth and the vibrant Rotaract Club University of Nairobi.",
+    "bio" : "He is looking forward to sharing his insights and having a great time at DevFest Rift Valley.",
     "company" : "Andela",
     "companyLogo" : "/images/logos/andela.png",
     "country" : "Nairobi, Kenya",
     "featured" : true,
     "id" : 10,
     "name" : "Roger Taracha",
-    "photoUrl" : "",
-    "shortBio" : "A software developer at Andela passionate about technology and community development...",
+    "photoUrl" : "/images/people/rogertaracha.jpg",
+    "shortBio" : "A Software Engineer, Learning Facilitator and Mentor who is passionate about Technology, Art and Community Development.",
     "socials" : 
     
     [
@@ -855,8 +856,8 @@
       "name": "GitHub"
     }
     ],
-    "tags" : [ "Firebase" ],
-    "title" : "Andela Developer"
+    "tags" : [ "Firebase", "Android" ],
+    "title" : "Learning Facilitator"
   } 
   , {
     "badges" : [ {
