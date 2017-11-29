@@ -4,8 +4,8 @@
   "keywords": "event, gdg,GDG Moi,GDG Kabarak, GDG Egerton,GDG Kenya,gde, devfest17, devfest,google,Maye Edwin, programming, android, chrome, polymer, developers, web, cloud, androiddev",
   "dates": "18.11.2017",
   "locationAddressShort": "Moi University, Eldoret.",
-  "motto": "Engage | Learn | Connect",
-  "playIcon": "Recap : 2017 Events",
+  "motto": "bringing MAKERS together",
+  "playIcon": "Recaps : 2017 Events",
   "c4p": "Become a speaker",
   "buyTicket": "Register now",
   "backToTop": "Back to top",
@@ -55,23 +55,19 @@
   "youShouldSignInSessions": "Sign in to save sessions",
   "youShouldSignInRating": "Sign in to rate sessions",
   "offlineMessage": "Oops! You are offline",
-  "removedFromSchedule": "Removed from My Schedule",
-  "addedToSchedule": "Added to My Schedule",
+  "removedFromSchedule": "Removed from Your Schedule",
+  "addedToSchedule": "Added to Your Schedule",
   "rateSession": "Rate session",
   "footerBlocks": [
     {
       "title": "For visitors",
       "links": [
         {
-          "text": "Team",
-          "url": "/team/",
-          "newTab": false
-        },
-        {
           "text": "Code of Conduct",
           "url": "/cod/",
           "newTab": false
         },
+       
         {
           "text": "Google Developers",
           "url": "https://developers.google.com/",
@@ -79,8 +75,8 @@
         }
         ,
         {
-          "text": "GDG Moi",
-          "url": "https://twitter.com/gdgmoi/",
+          "text": "Women Techmakers",
+          "url": "https://www.womentechmakers.com/",
           "newTab": true
         }
         ,
@@ -107,8 +103,14 @@
           "newTab": true
         },
         {
-          "text": "Resources",
-          "url": "https://drive.google.com/open?id=0B_KkSNxVW_SjM1pjV3pEWWdFanM",
+          "text": "Team",
+          "url": "/team/",
+          "newTab": false
+        },
+       
+        {
+          "text": "GDG Moi, Eldoret",
+          "url": "https://gdgmoi.com/",
           "newTab": true
         }
         ,
@@ -142,11 +144,11 @@
       "caption": "Event"
     },
     {
-      "counter": 10,
+      "counter": 17,
       "caption": "Sessions"
     },
     {
-      "counter": 12,
+      "counter": 15,
       "caption": "Speakers"
     },
     {
@@ -156,6 +158,6 @@
   ],
   "callToAction": {
     "videoTitle": "Promo Video",
-    "videoId": "JvhpV0RhFWE"
+    "videoId": "YB9HW9qmIdQ"
   }
 }

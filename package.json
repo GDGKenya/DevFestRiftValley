@@ -1,7 +1,7 @@
 {
   "name": "hoverboard",
   "version": "1.2.0",
-  "description": "Conference website template",
+  "description": "GDG DevFest RiftValley",
   "scripts": {
     "gulp": "gulp",
     "bower": "bower",

@@ -11,6 +11,7 @@
 
     "twitter": "GDGMoi"
   },
+  
   "webapp": {
     "shortName": "DevFest 2017",
     "themeColor": "#557dbe",
@@ -35,7 +36,7 @@
   "disqusShortName": "",
   "tweetsSource": "https://twitter.com/GDGMoi/with_replies",
   "partnershipProposition": "https://goo.gl/forms/G3OR0d29oJVaperC3",
-  "videosSessionsUrl": "https://www.youtube.com/watch?v=JvhpV0RhFWE",
+  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLbIFhpS0kD8Gf4w02Xbn_fzd6ZpMq1ghm",
   "enableSessionsRating": true,
   "navigation": [
     {
@@ -72,13 +73,19 @@
     },
     {
       "name": "facebook",
-      "nickname": "#",
-      "url": "#"
+      "nickname": "GDG Moi, Eldoret",
+      "url": "https://www.facebook.com/gdgmoi/"
     },
     {
       "name": "linkedin",
-      "nickname": "GDG Moi",
+      "nickname": "GDG Moi, Eldoret",
       "url": "https://www.linkedin.com/company-beta/18101988/"
+    }
+    ,
+    {
+      "name": "website",
+      "nickname": "GDG Moi, Eldoret",
+      "url": "https://gdgmoi.com"
     }
   ],
   "location": {
@@ -121,7 +128,7 @@
         "tabBarColor": "#fff",
         "video": {
           "title": "DevFest Rift Valley 2017",
-          "youtubeId": "JvhpV0RhFWE",
+          "youtubeId": "YB9HW9qmIdQ",
           "text": "What to expect"
         },
         "hideLogo": true,
