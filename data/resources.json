@@ -5,7 +5,7 @@
   "dates": "18.11.2017",
   "locationAddressShort": "Moi University, Eldoret.",
   "motto": "bringing MAKERS together",
-  "playIcon": "Recap : 2017 Events",
+  "playIcon": "Recaps : 2017 Events",
   "c4p": "Become a speaker",
   "buyTicket": "Register now",
   "backToTop": "Back to top",
@@ -55,8 +55,8 @@
   "youShouldSignInSessions": "Sign in to save sessions",
   "youShouldSignInRating": "Sign in to rate sessions",
   "offlineMessage": "Oops! You are offline",
-  "removedFromSchedule": "Removed from My Schedule",
-  "addedToSchedule": "Added to My Schedule",
+  "removedFromSchedule": "Removed from Your Schedule",
+  "addedToSchedule": "Added to Your Schedule",
   "rateSession": "Rate session",
   "footerBlocks": [
     {
