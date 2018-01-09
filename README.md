@@ -4,4 +4,4 @@ Based on [Project Hoverboard](https://github.com/gdg-x/hoverboard), suitable for
 
 How to use/set-up the PWA : Find on the project [Documentation](https://github.com/mayeedwin/gdgmoipwa/blob/master/docs/tutorials/set-up.md).
 
-Configured as a GDG Chapter Web App by [Maye Edwin](https://maye.gdgmoi.com).
+Configured as a DevFest Rift Valley Web App and mantained by [Maye Edwin](https://maye.gdgmoi.com).
