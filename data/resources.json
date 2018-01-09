@@ -1,11 +1,11 @@
 {
-  "title": "DevFest Rift Valley 2017",
+  "title": "DevFest Rift Valley - Eldoret, Kenya",
   "description": "While no two events will be exactly alike, each event will, at its core, be powered by a shared belief that when developers come together to exchange ideas, amazing things can happen. Ours is no Exception!",
   "keywords": "event, gdg,GDG Moi,GDG Kabarak, GDG Egerton,GDG Kenya,gde, devfest17, devfest,google,Maye Edwin, programming, android, chrome, polymer, developers, web, cloud, androiddev",
   "dates": "18.11.2017",
-  "locationAddressShort": "Moi University, Eldoret.",
-  "motto": "bringing MAKERS together",
-  "playIcon": "Recaps : 2017 Events",
+  "locationAddressShort": "Eldoret.",
+  "motto": "bringing MAKERS together!",
+  "playIcon": "Video Highlights",
   "c4p": "Become a speaker",
   "buyTicket": "Register now",
   "backToTop": "Back to top",
@@ -27,7 +27,7 @@
   "featuredVideosViewAll": "View all videos",
   "featuredPeopleTitle": "Speakers",
   "featuredPeopleViewAll": "View all speakers",
-  "action": "See recaps",
+  "action": "Watch now",
   "locationTitle": "Moi University",
   "locationDescription": "The Margaret Thatcher Library and the Senate Chambers are a long-awaited venues.",
   "locationAddress": "Main Campus, Kesses",
@@ -41,7 +41,7 @@
   "filteredBy": "filtered by",
   "clearAll": "Clear all",
   "filter": "Filter",
-  "latestNews": "Latest news",
+  "latestNews": "News Updates",
   "continueReading": "Continue reading",
   "viewPresentation": "View presentation",
   "viewVideo": "View video",
@@ -91,6 +91,13 @@
           "url": "https://twitter.com/GDGEgerton/",
           "newTab": true
         }
+        ,
+        
+         {
+           "text": "Share Your Story",
+           "url": "https://share.gdgmoi.com/",
+           "newTab": true
+         }
        
       ]
     },
@@ -103,7 +110,7 @@
           "newTab": true
         },
         {
-          "text": "Team",
+          "text": "GDG/WTM Leads",
           "url": "/team/",
           "newTab": false
         },
@@ -113,6 +120,7 @@
           "url": "https://gdgmoi.com/",
           "newTab": true
         }
+        
         ,
         {
           "text": "Maye Edwin",
@@ -137,11 +145,11 @@
   
   },
   "teamPageTitle": "Team",
-  "teamPageText": "Each DevFest is inspired by and uniquely tailored to the needs of the developer community that hosts it.",
+  "teamPageText": "DevFest Rift Valley is organized by a team focused on making the Rift Valley Developer community in sync all in one roof full of fun, code, learning, sharing and networking!",
   "statistics": [
     {
       "counter": 1,
-      "caption": "Event"
+      "caption": "DevFest"
     },
     {
       "counter": 17,

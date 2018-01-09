@@ -3,7 +3,7 @@
     "logos" : [ {
       "logoUrl" : "../images/logos/gdgmoib.png",
       "name" : "GDG Moi",
-      "url" : "https://plus.google.com/u/0/b/100413733864528613887",
+      "url" : "https://gdgmoi.com",
       "width" : 170
     } ],
     "title" : "Hosted by" 
@@ -12,12 +12,14 @@
     "logos" : [ {
       "logoUrl" : "../images/logos/gdgkabarak.png",
       "name" : "GDG Kabarak",
-      "url" : "https://developers.google.com/groups/chapter/111703250053169600089/"
+      "url" : "https://wwww.meetup.com/GDG-Kabarak/",
+      "width" : 170
     },
     {
       "logoUrl" : "../images/logos/gdgegerton.png",
       "name" : "GDG Egerton",
-      "url" : "https://developers.google.com/groups/chapter/117240138879776061100/"
+      "url" : "https://wwww.meetup.com/GDG_Egerton/",
+      "width" : 170
     }
    ],
     "title" : "Partner GDGs"
@@ -1463,7 +1465,7 @@
       "info" : "Requires valid student ID",
       "name" : "Student",
       "price" : 0,
-      "soldOut" : false,
+      "soldOut" : true,
       "starts" : "Sept 1"
     }, {
       "currency" : "ksh",
@@ -1471,7 +1473,7 @@
       "info" : "First 50 tickets to guests",
       "name" : "Early Bird",
       "price" : 0,
-      "soldOut" : false,
+      "soldOut" : true,
       "starts" : "Sept 1"
     }, {
       "currency" : "ksh",
@@ -1479,7 +1481,7 @@
       "info" : "Those who RSVP late",
       "name" : "Lazy Bird",
       "price" : 500,
-      "soldOut" : false,
+      "soldOut" : true,
       "starts" : "Nov 1"
     } ],
     "url" : "https://goo.gl/forms/jGtHZ1lkLC18alcC3"
@@ -1491,7 +1493,16 @@
       "null" : true
     }
   },
-  "videos" : [ {
+  "videos" : [ 
+    
+    {
+      "speakers": "GDG Moi | Kabarak | Egerton",
+      "thumbnail": "/images/sessions/gdgdevfest.jpg",
+      "title": "DevFest RV 2017 Highlights",
+      "youtubeId": "1qU2x8csBKE"
+    },
+    
+    {
     "speakers" : "GDG Moi | Kabarak | Egerton",
     "thumbnail" : "/images/sessions/session1.JPG",
     "title" : "DevFest Rift Valley 2017",

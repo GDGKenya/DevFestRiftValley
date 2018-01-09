@@ -13,9 +13,10 @@
   },
   
   "webapp": {
-    "shortName": "DevFest 2017",
+    "shortName": "DevFest RV",
     "themeColor": "#557dbe",
-    "backgroundColor": "#557dbe"
+    "backgroundColor": "#557dbe",
+    "name": "DevFest RV"
   },
   
   "firebase": {
@@ -109,12 +110,12 @@
     ]
   },
   "gallery": {
-    "albumUrl": "https://goo.gl/photos/iKw8hniWZydHDgw29",
+    "albumUrl": "https://photos.app.goo.gl/L27DYdpxdn65jsAI2",
     "photos": {
-      "big": "/images/backgrounds/gdgmoi1.JPG",
+      "big": "/images/backgrounds/wtmdevfest.jpg",
       "small": [
-        "/images/backgrounds/gdgmoi.JPG",
-        "/images/backgrounds/share.JPG"
+        "/images/backgrounds/devfestrva.jpg",
+        "/images/backgrounds/gdgdevfest.jpg"
       ]
     }
   },
@@ -122,8 +123,8 @@
     "home": {
       "title": "Home",
       "headerSettings": {
-        "backgroundColor": "#557dbe",
-        "backgroundImage": "/images/backgrounds/banner.gif",
+        "backgroundColor": "#2196f3",
+        "backgroundImage": "/images/backgrounds/banner.jpg",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "video": {
@@ -138,7 +139,7 @@
     "blog": {
       "title": "Blog",
       "headerSettings": {
-        "backgroundColor": "#557dbe",
+        "backgroundColor": "#2196f3",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
@@ -146,7 +147,8 @@
     "speakers": {
       "title": "Speakers",
       "headerSettings": {
-        "backgroundColor": "#557dbe",
+        "backgroundColor": "#2196f3",
+        "backgroundImage": "/images/backgrounds/ndanuann.jpg",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
@@ -170,7 +172,7 @@
     "cod": {
       "title": "Code of Conduct",
       "headerSettings": {
-        "backgroundColor": "#557dbe",
+        "backgroundColor": "#2196f3",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }

@@ -1,5 +1,5 @@
 {
-  "name": "{$ title $}",
+  "name": "{$ webapp.name $}",
   "short_name": "{$ webapp.shortName $}",
   "icons": [
     {
