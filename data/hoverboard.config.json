@@ -128,9 +128,9 @@
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "video": {
-          "title": "DevFest Rift Valley 2017",
-          "youtubeId": "YB9HW9qmIdQ",
-          "text": "What to expect"
+          "title": "Video Highlights",
+          "youtubeId": "1qU2x8csBKE",
+          "text": "Highlights"
         },
         "hideLogo": true,
         "minHeight": "360px"
